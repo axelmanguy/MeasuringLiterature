@@ -1,0 +1,2248 @@
+﻿F
+Rigoletto
+by Giuseppe Verdi
+
+Personaggio
+
+Il Duca di Mantova, Tenore
+Rigoletto, buffone di Corte, Baritono
+Gilda, figlia di Rigoletto, Soprano
+Sparafucile, bravo, basso
+Maddalena, sua sorella, contralto
+Giovanna, custode di Gilda,mezzosoprano
+Il Conte di Monterone, baritono
+Marullo, cavaliere, baritono
+Matteo Borsa, cortigiano, tenore
+Il Conte di Ceprano, basso
+La Contessa, sua sposa, Mezzosoprano
+Usciere di Corte, Basso
+Paggio della Duchessa, Mezzosoprano
+Cavalieri, Dame, Paggi, Alabardieri.
+
+###############
+# NODES NAMES #
+###############
+DUCA
+BORSA
+
+
+*Prelude*
+
+ATTO PRIMO
+
+*Scena prima*
+
+/Mantova. Sala magnifica nel palazzo ducale
+(Porte nel fondo mettono ad altre sale, pure
+splendidamente illuminate; folla di cavalieri e dame in
+gran costume nel fondo delle sale; paggi che vanno e
+vengono. La festa è nel suo pieno. Musica interna da
+lontano. Il Duca e Borsa vengono da una porta del
+fondo.)/
+
+DUCA[BORSA]
+Della mia bella incognita borghese
+toccare il fin dell’avventura voglio.
+
+BORSA[DUCA]
+Di quella giovin che vedete al tempio?
+
+DUCA[BORSA]
+Da tre mesi ogni festa.
+
+BORSA[DUCA]
+La sua dimora?
+
+DUCA[BORSA]
+In un remoto calle;
+misterioso un uom v’entra ogni notte.
+
+BORSA[DUCA]
+E sa colei chi sia l’amante suo?
+
+DUCA[BORSA]
+Lo ignora.
+/(Un gruppo di dame e cavalieri attraversano la sala.)/
+
+BORSA[DUCA]
+Quante beltà! Mirate.
+
+DUCA[BORSA]
+Le vince tutte di Cepran la sposa.
+
+BORSA[DUCA]
+Non v’oda il Conte, o Duca!
+
+DUCA[BORSA]
+A me che importa?
+
+BORSA[DUCA]
+Dirlo ad altra ei potria.
+
+DUCA[BORSA]
+Né sventura per me certo saria.
+Questa o quella per me pari sono
+a quant’altre d’intorno mi vedo;
+del mio core l’impero non cedo
+meglio ad una che ad altra beltà.
+La costoro avvenenza è qual dono
+di che il fato ne infiora la vita;
+s’oggi questa mi torna gradita
+forse un’altra doman lo sarà.
+La costanza, tiranna del core,
+detestiamo qual morbo crudele.
+
+Sol chi vuole si serbi fedele;
+non v’è amor se non v’è libertà.
+De’ mariti il geloso furore,
+degli amanti le smanie derido;
+anco d’Argo i cent’occhi disfido
+se mi punge una qualche beltà.
+/(Entra il Conte di Ceprano che segue da lungi la sua/
+/sposa servita da altro cavaliere; dame e signori che/
+/entrano da varie parti.)/
+
+DUCA [CONTESSA]
+/(alla signora di Ceprano movendo ad incontrarla con/
+/molta galanteria)/
+Partite? Crudele!
+
+CONTESSA [DUCA]
+Seguire lo sposo m’è forza a Ceprano.
+
+DUCA[CONTESSA]
+Ma dee luminoso
+in corte tal astro qual sole brillare.
+Per voi qui ciascuno dovrà palpitare.
+Per voi già possente la fiamma d’amore
+inebria, conquide, distrugge il mio core.
+
+CONTESSA[DUCA]
+Calmatevi!
+
+DUCA[CONTESSA]
+La fiamma d’amore inebria, /ecc./
+
+CONTESSA[DUCA]
+Calmatevi!
+/(Il Duca le dà il braccio ed esce con lei. Entra Rigoletto/
+/che s’incontra nel signor di Ceprano, poi cortigiani.)/
+
+RIGOLETTO[CEPRANO]
+In testa che avete,
+Signor di Ceprano?
+/(Ceprano fa un gesto d’impazienza e segue il Duca./
+/Rigoletto dice ai cortigiani:)/
+Ei sbuffa, vedete?
+
+BORSA, CORO[RIGOLETTO]
+Che festa!
+
+RIGOLETTO[BORSA,CORO]
+Oh sì...
+
+BORSA, CORO[RIGOLETTO]
+Il Duca qui pur si diverte!
+
+RIGOLETTO[BORSA,CORO]
+Così non è sempre? che nuove scoperte!
+Il giuoco ed il vino, le feste, la danza,
+battaglie, conviti, ben tutto gli sta.
+Or della Contessa l’assedio egli avanza,
+e intanto il marito fremendo ne va.
+/(Esce. Entra Marullo premuroso.)/
+
+MARULLO[CORO]
+Gran nuova! Gran nuova!
+
+CORO[MARULLO]
+Che avvenne? parlate!
+
+MARULLO[CORO]
+Stupir ne dovrete!
+
+CORO, BORSA[MARULLO]
+Narrate, narrate.
+
+MARULLO[CORO]
+Ah! ah! Rigoletto...
+
+CORO, BORSA[MARULLO]
+Ebben?
+
+MARULLO[CORO, BORSA]
+Caso enorme!
+
+CORO, BORSA[MARULLO]
+Perduto ha la gobba? non è più difforme?
+
+MARULLO[CORO, BORSA]
+Più strana è la cosa! Il pazzo possiede...
+
+CORO, BORSA[MARULLO]
+Infine?
+
+MARULLO[CORO, BORSA]
+Un’amante.
+
+CORO, BORSA[MARULLO]
+Un’amante! Chi il crede?
+
+MARULLO[CORO,BORSA]
+Il gobbo in Cupido or s’è trasformato.
+
+CORO, BORSA[MARULLO]
+Quel mostro? Cupido!...Cupido beato!
+/(Ritorna il Duca seguito da Rigoletto, poi da Ceprano.)/
+
+DUCA[RIGOLETTO]
+Ah, più di Ceprano importuno non v’è!
+La cara sua sposa è un angiol per me!
+
+RIGOLETTO[DUCA]
+Rapitela.
+
+DUCA[RIGOLETTO]
+È detto; ma il farlo?
+
+RIGOLETTO[DUCA]
+Stasera.
+
+DUCA[RIGOLETTO]
+Non pensi tu al Conte?
+
+RIGOLETTO[DUCA]
+Non c’è la prigione?
+
+DUCA[RIGOLETTO]
+Ah, no.
+
+RIGOLETTO[DUCA]
+Ebben, s’esilia.
+
+DUCA[RIGOLETTO]
+Nemmeno, buffone.
+
+RIGOLETTO[DUCA]
+Allora la testa...
+
+CEPRANO[RIGOLETTO] /(fra sé)
+Quell’anima nera!
+
+DUCA[RIGOLETTO] /(battendo colla mano una spalla al Conte)/
+Che di’, questa testa?
+
+RIGOLETTO[DUCA]
+È ben naturale.
+Che fare di tal testa?...A cosa ella vale?
+
+CEPRANO[RIGOLETTO] /(infuriato, brandendo la spada)
+Marrano!
+
+DUCA[CEPRANO] 
+Fermate!
+
+RIGOLETTO
+Da rider mi fa.
+
+MARULLO, CORO /(tra loro)
+/In furia è montato!
+
+DUCA[RIGOLETTO]
+Buffone, vien qua.
+
+BORSA, MARULLO, CORO
+/In furia è montato!
+
+DUCA[RIGOLETTO]
+Ah, sempre tu spingi lo scherzo all’estremo.
+Quell’ira che sfidi colpirti potrà.
+
+CEPRANO /(ai cortigiani a parte)
+/Vendetta del pazzo!
+
+RIGOLETTO[DUCA]
+Che coglier mi puote? Di loro non temo;
+del Duca un protetto nessun toccherà.
+
+CEPRANO[CORO]
+Contr’esso un rancore
+di noi chi non ha?
+Vendetta!
+
+BORSA, MARULLO, CORO[CEPRANO]
+Ma come?
+
+CEPRANO[BORSA, MARULLO, CORO]
+In armi chi ha core
+doman sia da me.
+
+BORSA, MARULLO, CORO[CEPRANO]
+Sì.
+
+CEPRANO[BORSA, MARULLO, CORO]
+A notte.
+
+BORSA, MARULLO, CORO[CEPRANO]
+Sarà.
+
+RIGOLETTO[DUCA]
+Che coglier mi puote? /ecc./
+
+DUCA[RIGOLETTO]
+Ah, sempre tu spingi lo scherzo, /ecc./
+
+BORSA, CEPRANO, MARULLO, CORO[RIGOLETTO,DUCA]
+Vendetta del pazzo!
+Contr’esso un rancore
+pei tristi suoi modi
+di noi chi non ha?
+Sì, vendetta! /ecc./
+Sì, vendetta!
+
+DUCA, RIGOLETTO[BORSA, CEPRANO, MARULLO, CORO]
+Tutto è gioia, tutto è festa!
+/(La folla de’ danzatori invade la scena.)/
+
+CORO
+Tutto è gioia, tutto è festa!
+Tutto invitaci a goder!
+Oh, guardate, non par questa
+or la reggia del piacer?
+/(Entra il Conte di Monterone.)/
+
+MONTERONE[DUCA]
+Ch’io gli parli.
+
+DUCA[MONTERONE]
+No.
+
+MONTERONE[DUCA]
+Il voglio.
+
+BORSA, RIGOLETTO, MARULLO, CEPRANO, CORO
+Monterone!
+
+MONTERONE[DUCA]
+/(fissando il Duca, con nobile orgoglio)
+Sì, Monteron. La voce mia qual tuono
+vi scuoterà dovunque...
+
+RIGOLETTO[DUCA]
+/(al Duca, contraffacendo la voce di Monterone)/
+Ch’io gli parli.
+/(Si avanza con ridicola gravità.)/
+
+RIGOLETTO[MONTERONE]
+Voi congiuraste contro noi, signore,
+e noi, clementi invero, perdonammo.
+Qual vi piglia or delirio a tutte l’ore
+di vostra figlia a reclamar l’onore?
+
+MONTERONE[RIGOLETTO]
+/(guardando Rigoletto con ira sprezzante)/
+Novello insulto!
+
+MONTERONE[DUCA]
+Ah sì, a turbare
+sarò vostr’orgie; verrò a gridare
+fino a che vegga restarsi inulto
+di mia famiglia l’atroce insulto;
+e se al carnefice pur mi darete,
+spettro terribile mi rivedrete,
+portante in mano il teschio mio,
+vendetta chiedere al mondo e a Dio.
+
+DUCA[MONTERONE]
+Non più, arrestatelo.
+
+RIGOLETTO
+È matto.
+
+CORO
+Quai detti!
+
+MONTERONE[DUCA,RIGOLETTO]
+Oh, siate entrambi voi maledetti!
+
+BORSA, MARULLO, CEPRANO, CORO
+Ah!
+
+MONTERONE[DUCA]
+Slanciare il cane a leon morente
+è vile, o Duca.
+
+MONTERONE[RIGOLETTO]
+/(a Rigoletto)/
+E tu, serpente,
+tu che d’un padre ridi al dolore,
+sii maledetto!
+
+RIGOLETTO /(da sé, colpito)/
+Che sento! orrore!
+
+CORO[MONTERONE] /(meno Rigoletto)/
+/(a Monterone)/
+O tu che la festa audace hai turbato
+da un genio d’inferno qui fosti guidato;
+è vano ogni detto, di qua t’allontana,
+va, trema, o vegliardo, dell’ira sovrana, /ecc./
+
+RIGOLETTO
+Orrore!
+Che orrore! /ecc./
+
+MONTERONE[DUCA,RIGOLETTO]
+Sii maledetto! E tu serpente! /ecc./
+
+CORO /(meno Rigoletto)/
+Tu l’hai provocata, più speme von v’è,
+un’ora fatale fu questa per te.
+/(Monterone parte fra due alabardieri; tutti gli altri/
+/seguono il Duca in altra stanza.)/
+
+*Scena 2*
+
+/L’estremità d’una via cieca
+(A sinistra, una casa di discreta apparenza con una
+piccola corte circondata da mura. Nella corte un
+grosso ed alto albero ed un sedile di marmo; nel muro,
+una porta che mette alla strada; sopra il muro, un
+terrazzo sostenuto da arcate. La porta del primo piano
+dà sul detto terrazzo, a cui si ascende per una scala di
+fronte. A destra della via è il muro altissimo del
+giardino e un fianco del palazzo di Ceprano. È notte.
+Entra Rigoletto chiuso nel suo mantello; Sparafucile lo
+segue, portando sotto il mantello una lunga spada.)/
+
+RIGOLETTO /(da sé)/
+Quel vecchio maledivami!
+
+SPARAFUCILE[RIGOLETTO]
+Signor?...
+
+RIGOLETTO[SPARAFUCILE]
+Va, non ho niente.
+
+SPARAFUCILE[RIGOLETTO]
+Né il chiesi: a voi presente
+un uom di spada sta.
+
+RIGOLETTO[SPARAFUCILE]
+Un ladro?
+
+SPARAFUCILE[RIGOLETTO]
+Un uom che libera
+per poco da un rivale,
+e voi ne avete.
+
+RIGOLETTO[SPARAFUCILE]
+Quale?
+
+SPARAFUCILE[RIGOLETTO]
+La vostra donna è là.
+
+RIGOLETTO[SPARAFUCILE]
+/Che sento!
+/(a Sparafucile)
+E quanto spendere
+per un signor dovrei?
+
+SPARAFUCILE[RIGOLETTO]
+Prezzo maggior vorrei.
+
+RIGOLETTO[SPARAFUCILE]
+Com’usasi pagar?
+
+SPARAFUCILE[RIGOLETTO]
+Una metà s’anticipa, il resto si dà poi.
+
+RIGOLETTO[SPARAFUCILE]
+/Demonio!
+/(a Sparafucile)
+E come puoi
+tanto securo oprar?
+
+SPARAFUCILE[RIGOLETTO]
+Soglio in cittade uccidere,
+oppure nel mio tetto.
+L’uomo di sera aspetto;
+una stoccata e muor.
+
+RIGOLETTO /(da sé)
+/Demonio!
+
+RIGOLETTO[SPARAFUCILE]
+/E come in casa?
+
+SPARAFUCILE[RIGOLETTO]
+È facile.
+M’aiuta mia sorella.
+Per le vie danza...è bella...
+Chi voglio attira, e allor...
+
+RIGOLETTO[SPARAFUCILE]
+Comprendo.
+
+SPARAFUCILE[RIGOLETTO]
+Senza strepito...
+
+RIGOLETTO[SPARAFUCILE]
+Comprendo.
+
+SPARAFUCILE[RIGOLETTO]
+È questo il mio strumento.
+/(Mostra la spada.)/
+Vi serve?
+
+RIGOLETTO[SPARAFUCILE]
+No...al momento.
+
+SPARAFUCILE[RIGOLETTO]
+Peggio per voi.
+
+RIGOLETTO[SPARAFUCILE]
+Chi sa?
+
+SPARAFUCILE[RIGOLETTO]
+Sparafucil mi nomino.
+
+RIGOLETTO[SPARAFUCILE]
+Straniero?
+
+SPARAFUCILE[RIGOLETTO]
+/Borgognone.
+
+RIGOLETTO[SPARAFUCILE]
+E dove all’occasione?
+
+SPARAFUCILE[RIGOLETTO]
+Qui sempre a sera.
+
+RIGOLETTO[SPARAFUCILE]
+Va.
+
+SPARAFUCILE[RIGOLETTO]
+Sparafucil, Sparafucil.
+/(Sparafucile parte.)/
+
+RIGOLETTO[SPARAFUCILE] /(guarda dietro a Sparafucile)/
+Va, va, va, va.
+Pari siamo!...io la lingua,
+egli ha il pugnale.
+L’uomo son io che ride,
+ei quel che spegne!
+Quel vecchio maledivami...
+O uomini! o natura!
+Vil scellerato mi faceste voi!
+O rabbia! esser difforme, esser buffone!
+Non dover, non poter altro che ridere!
+Il retaggio d’ogni uom m’è tolto, il pianto.
+
+Questo padrone mio,
+giovin, giocondo, sì possente, bello,
+sonnecchiando mi dice:
+Fa ch’io rida, buffone!
+Forzarmi deggio e farlo! Oh dannazione!
+Odio a voi, cortigiani schernitori!
+Quanta in mordervi ho gioia!
+Se iniquo son, per cagion vostra è solo.
+Ma in altr’uomo qui mi cangio!...
+Quel vecchio maledivami!...Tal pensiero
+perché conturba ognor la mente mia?
+Mi coglierà sventura?
+Ah no, è follia!
+/(Apre con chiave ed entra nel cortile. Gilda esce dalla/
+/casa e si getta nelle sue braccia.)/
+Figlia!
+
+GILDA[RIGOLETTO]
+Mio padre!
+
+RIGOLETTO[GILDA]
+A te d’appresso
+trova sol gioia il core oppresso.
+
+GILDA[RIGOLETTO]
+Oh, quanto amore, padre mio!
+
+RIGOLETTO[GILDA]
+Mia vita sei!
+Senza te in terra qual bene avrei?
+Ah, figlia mia!
+
+GILDA[RIGOLETTO]
+Voi sospirate! che v’ange tanto?
+Lo dite a questa povera figlia.
+Se v’ha mistero, per lei sia franto:
+ch’ella conosca la sua famiglia.
+
+RIGOLETTO[GILDA]
+Tu non ne hai.
+
+GILDA[RIGOLETTO]
+Qual nome avete?
+
+RIGOLETTO[GILDA]
+A te che importa?
+
+GILDA[RIGOLETTO]
+Se non volete
+di voi parlarmi...
+
+RIGOLETTO[GILDA] /(interrompendola)/
+Non uscir mai.
+
+GILDA[RIGOLETTO]
+Non vo che al tempio.
+
+RIGOLETTO[GILDA]
+Oh, ben tu fai.
+
+GILDA[RIGOLETTO]
+Se non di voi, almen chi sia
+fate ch’io sappia la madre mia.
+
+RIGOLETTO[GILDA]
+Deh, non parlare al misero
+del suo perduto bene.
+
+Ella sentia, quell’angelo,
+pietà delle mie pene.
+Solo, difforme, povero,
+per compassion mi amò.
+Morìa...le zolle coprano
+lievi quel capo amato.
+Sola or tu resti al misero...
+O Dio, sii ringraziato!
+
+GILDA[RIGOLETTO] /(singhiozzando)
+Oh quanto dolor! che spremere
+sì amaro pianto può?
+Padre, non più, calmatevi...
+Mi lacera tal vista.
+
+RIGOLETTO[GILDA]
+Tu sola resti al misero, /ecc./
+
+GILDA[RIGOLETTO]
+Il nome vostro ditemi,
+il duol che sì v’attrista.
+
+RIGOLETTO[GILDA]
+A che nomarmi? è inutile!
+Padre ti sono, e basti.
+Me forse al mondo temono,
+d’alcuno ho forse gli asti.
+Altri mi maledicono...
+
+GILDA[RIGOLETTO]
+Patria, parenti, amici
+voi dunque non avete?
+
+RIGOLETTO[GILDA]
+Patria! parenti! amici!
+Culto, famiglia, la patria,
+il mio universo è in te!
+
+GILDA[RIGOLETTO]
+Ah, se può lieto rendervi,
+gioia è la vita a me!
+
+RIGOLETTO[GILDA]
+Culto, famiglia, /ecc./
+
+GILDA[RIGOLETTO]
+Già da tre lune son qui venuta
+né la cittade ho ancor veduta;
+se il concedete, farlo or potrei...
+
+RIGOLETTO[GILDA]
+Mai! mai! Uscita, dimmi, unqua sei?
+
+GILDA[RIGOLETTO]
+No.
+
+RIGOLETTO[GILDA]
+Guai!
+
+GILDA /(da sé)
+/Ah! Che dissi!
+
+RIGOLETTO[GILDA]
+Ben te ne guarda!
+/(da sé)/
+Potrien seguirla, rapirla ancora!
+Qui d’un buffone si disonora
+la figlia e se ne ride...Orror!
+
+RIGOLETTO[GIOVANNA]
+/(forte)/
+Olà?
+/(Giovanna esce dalla casa.)/
+
+GIOVANNA[RIGOLETTO]
+Signor?
+
+RIGOLETTO[GIOVANNA]
+Venendo mi vede alcuno?
+Bada, di’ il vero.
+
+GIOVANNA[RIGOLETTO]
+Oh, no, nessuno.
+
+RIGOLETTO[GIOVANNA]
+Sta ben. La porta che dà al bastione
+è sempre chiusa?
+
+GIOVANNA[RIGOLETTO]
+Ognor si sta.
+
+RIGOLETTO[GIOVANNA]
+Bada, di’ il ver.
+Ah, veglia, o donna, questo fiore
+che a te puro confidai;
+veglia, attenta, e non fia mai
+che s’offuschi il suo candor.
+Tu dei venti dal furore
+ch’altri fiori hanno piegato,
+lo difendi, e immacolato
+lo ridona al genitor.
+
+GILDA[RIGOLETTO]
+Quanto affetto! quali cure!
+Che temete, padre mio?
+
+Lassù in cielo presso Dio
+veglia un angiol protettor.
+Da noi stoglie le sventure
+di mia madre il priego santo;
+non fia mai disvelto o franto
+questo a voi diletto fior.
+/(Il Duca in costume borghese viene dalla strada.)/
+
+RIGOLETTO[GIOVANNA]
+Ah, veglia, o donna, questo fiore
+che a te puro confi...
+Alcun v’è fuori!
+/(Apre la porta della corte e, mentre esce a guardar/
+/sulla strada, il Duca guizza furtivo nella corte e si/
+/nasconde dietro l’albero; gettando a Giovanna una/
+/borsa la fa tacere.)/
+
+GILDA[RIGOLETTO]
+Cielo!
+Sempre novel sospetto!
+
+RIGOLETTO[GIOVANNA] /(a Giovanna tornando)/
+Alla chiesa vi seguiva mai nessuno?
+
+GIOVANNA[RIGOLETTO]
+Mai.
+
+DUCA /(da sé)
+/Rigoletto!
+
+RIGOLETTO[GIOVANNA]
+Se talor qui picchian,
+guardatevi d’aprire...
+
+GIOVANNA[RIGOLETTO]
+Nemmeno al Duca?
+
+RIGOLETTO[GIOVANNA]
+Non che ad altri a lui.
+Mia figlia, addio.
+
+DUCA /(da sé)
+/Sua figlia!
+
+GILDA[RIGOLETTO]
+Addio, mio padre.
+
+RIGOLETTO[GILDA]
+Ah! veglia, o donna, /ecc./
+Figlia, addio!
+
+GILDA[RIGOLETTO]
+Oh, quanto affetto! /ecc./
+Mio padre, addio!
+/(S’abbracciano e Rigoletto parte chiudendosi dietro la/
+/porta. Gilda, Giovanna e il Duca restano nella corte.)/
+
+GILDA[GIOVANNA]
+Giovanna, ho dei rimorsi...
+
+GIOVANNA[GILDA]
+E perché mai?
+
+GILDA[GIOVANNA]
+Tacqui che un giovin
+ne seguiva al tempio.
+
+GIOVANNA[GILDA]
+Perché ciò dirgli? L’odiate dunque
+cotesto giovin, voi?
+
+GILDA[GIOVANNA]
+No, no, ché troppo è bello
+e spira amore.
+
+GIOVANNA[GILDA]
+E magnanimo sembra e gran signore.
+
+GILDA[GIOVANNA]
+Signor né principe io lo vorrei;
+sento che povero più l’amerei.
+Sognando o vigile sempre lo chiamo,
+e l’alma in estasi gli dice: t’a...
+
+DUCA[GILDA]
+/(esce improvviso, fa cenno a Giovanna d’andarsene, e/
+/inginocchiandosi ai piedi di Gilda termina la frase)/
+T’amo!
+T’amo; ripetilo sì caro accento:
+un puro schiudimi ciel di contento!
+
+GILDA[DUCA]
+Giovanna? Ahi, misera! Non v’è più alcuno
+che qui rispondami! Oh Dio! nessuno?
+
+DUCA[GILDA]
+Son io coll’anima che ti rispondo.
+Ah, due che s’amano son tutto un mondo!
+
+GILDA[DUCA]
+Chi mai, chi giungere vi fece a me?
+
+DUCA[GILDA]
+Se angelo o demone, che importa a te?
+Io t’amo.
+
+GILDA[DUCA]
+Uscitene.
+
+DUCA[GILDA]
+Uscire!...adesso!...
+Ora che accendene un fuoco istesso!
+Ah, inseparabile d’amore il dio
+stringeva, o vergine, tuo fato al mio!
+È il sol dell’anima, la vita è amore,
+sua voce è il palpito del nostro core.
+E fama e gloria, potenza e trono,
+umane, fragili qui cose sono,
+una pur avvene sola, divina:
+è amor che agl’angeli più ne avvicina!
+Adunque amiamoci, donna celeste;
+d’invidia agli uomini sarò per te.
+
+GILDA[DUCA] /(da sé)/
+Ah, de’ miei vergini sogni son queste
+le voci tenere sì care a me! /ecc./
+
+DUCA[GILDA]
+Amiamoci,
+d’invidia agl’uomini sarò per te, /ecc./
+Che m’ami, deh, ripetimi.
+
+GILDA[DUCA]
+L’udiste.
+
+DUCA[GILDA]
+Oh, me felice!
+
+GILDA[DUCA]
+Il nome vostro ditemi...
+Saperlo a me non lice?
+/(Ceprano e Borsa compariscono sulla strada.)/
+
+CEPRANO[BORSA] /(a Borsa)
+/Il loco è qui.
+
+DUCA /(pensando)
+/Mi nomino...
+
+BORSA[CEPRANO] /(a Ceprano)/
+Sta ben.
+/(Ceprano e Borsa partono.)/
+
+DUCA[GILDA]
+Gualtier Maldè.
+Studente sono, e povero...
+
+GIOVANNA /(tornando spaventata)
+/Rumor di passi è fuori!
+
+GILDA[DUCA]
+Forse mio padre...
+
+DUCA /(da sé)/
+Ah, cogliere potessi il traditore
+che sì mi sturba!
+
+GILDA[GIOVANNA]
+Adducilo
+di qua al bastione...or ite...
+
+DUCA[GILDA]
+Di’, m’amerai tu?
+
+GILDA[DUCA]
+E voi?
+
+DUCA[GILDA]
+L’intera vita...poi...
+
+GILDA[DUCA]
+Non più, non più...partite.
+
+TUTT’E DUE
+Addio! speranza ed anima
+sol tu sarai per me.
+Addio! vivrà immutabile
+l’affetto mio per te.
+Addio, /ecc./
+/(Il Duca esce scortato da Giovanna. Gilda resta/
+/fissando la porta ond’è partito.)/
+
+GILDA /(sola)/
+Gualtier Maldè...nome di lui sì amato,
+ti scolpisci nel core innamorato!
+Caro nome che il mio cor
+festi primo palpitar,
+le delizie dell’amor
+mi dêi sempre rammentar!
+Col pensier il mio desir
+a te sempre volerà,
+e fin l’ultimo mio sospir,
+caro nome, tuo sarà.
+Col pensier, /ecc./
+/(Sale al terrazzo con una lanterna.)/
+Gualtier Maldè!
+
+/(Marullo, Ceprano, Borsa, cortigiani, armati e/
+/mascherati, vengono dalla via. Gilda entra tosto in/
+/casa.)/
+Caro nome, /ecc./
+
+BORSA[CORO]
+È là.
+
+CEPRANO[CORO]
+Miratela.
+
+CORO
+Oh quanto è bella!
+
+MARULLO[CORO]
+Par fata od angiol.
+
+CORO
+L’amante è quella
+di Rigoletto.
+Oh, quanto è bella!
+/(Rigoletto, concentrato, entra.)/
+
+RIGOLETTO /(da sé)
+/Riedo!...perché?
+
+BORSA
+Silenzio. All’opra...badate a me.
+
+RIGOLETTO /(da sé)/
+Ah, da quel vecchio fui maledetto!
+/(urta in Borsa)/
+Chi va là?
+
+BORSA[CORO] /(ai compagni)
+/Tacete...c’è Rigoletto.
+
+CEPRANO[BORSA]
+Vittoria doppia! l’uccideremo.
+
+BORSA[CEPRANO]
+No, ché domani più rideremo.
+
+MARULLO
+Or tutto aggiusto...
+
+RIGOLETTO[MARULLO]
+Chi parla qua?
+
+MARULLO[RIGOLETTO]
+Ehi, Rigoletto?...Di’?
+
+RIGOLETTO[MARULLO]
+Chi va là?
+
+MARULLO[RIGOLETTO]
+Eh, non mangiarci!...Son...
+
+RIGOLETTO[MARULLO]
+Chi?
+
+MARULLO[RIGOLETTO]
+Marullo.
+
+RIGOLETTO[MARULLO]
+In tanto buio lo sguardo è nullo.
+
+MARULLO[RIGOLETTO]
+Qui ne condusse ridevol cosa...
+Torre a Ceprano vogliam la sposa.
+
+RIGOLETTO /(da sé)
+/Ahimè! respiro!
+/(a Marullo)
+/Ma come entrare?
+
+MARULLO[CEPRANO] /(a Ceprano)/
+La vostra chiave!
+
+MARULLO[RIGOLETTO] 
+/(a Rigoletto)/
+Non dubitare.
+Non dee mancarci lo stratagemma...
+
+MARULLO[CEPRANO] 
+/(Gli dà la chiave avuta da Ceprano.)/
+Ecco la chiave.
+
+RIGOLETTO[MARULLO] /(palpando)/
+Sento il suo stemma.
+/(da sé)/
+Ah, terror vano fu dunque il mio!
+/(a Marullo)/
+N’è là il palazzo. Con voi son io.
+
+MARULLO[RIGOLETTO]
+Siam mascherati...
+
+RIGOLETTO[MARULLO]
+Ch’io pur mi mascheri;
+a me una larva.
+
+MARULLO[RIGOLETTO]
+Sì, pronta è già.
+
+/(Gli mette una maschera e nello stesso tempo lo benda
+con un fazzoletto, e lo pone a reggere una scala, che
+hanno appostata al terrazzo.)/
+Terrai la scala.
+
+RIGOLETTO[MARULLO]
+Fitta è la tenebra.
+
+MARULLO[RIGOLETTO]
+La benda cieco e sordo il fa.
+
+CORO
+Zitti, zitti, moviamo a vendetta;
+ne sia colto or che meno l’aspetta.
+Derisore sì audace e costante
+a sua volta schernito sarà!
+Cheti, cheti, rubiamgli l’amante
+e la Corte doman riderà.
+Cheti, cheti, /ecc./
+Derisore sì audace, /ecc./
+Zitti, zitti, zitti, zitti,
+cheti, cheti, cheti, cheti,
+attenti all’opra, all’opra.
+/(Alcuni salgono al terrazzo, rompono la porta del primo/
+/piano, scendono, aprono ad altri che entrano dalla/
+/strada e riescono trascinando Gilda, la quale ha la/
+/bocca chiusa da un fazzoletto; nel traversare la scena/
+/ella perde una sciarpa.)/
+
+GILDA[RIGOLETTO] /(da lontano)
+/Soccorso, padre mio!
+
+CORO /(da lontano)
+/Vittoria!
+
+GILDA[RIGOLETTO] /(più lontano)
+/Aita!
+
+RIGOLETTO[GILDA]
+Non han finito ancor!...qual derisione!
+/(Si tocca gli occhi.)/
+Sono bendato!
+Gilda!...Gilda!
+/(Si strappa impetuosamente la benda e la maschera, ed/
+/al chiarore d’una lanterna scordata riconosce la/
+/sciarpa, vede la porta aperta: entra, ne trae Giovanna/
+/spaventata; la fissa con istupore, si strappa i capelli/
+/senza poter gridare; finalmente, dopo molti sforzi,/
+/esclama:)/
+Ah! la maledizione!
+/(Sviene.)/
+
+##################
+#  ATTO SECONDO  #
+##################
+
+/Salotto nel palazzo ducale/
+/(Vi sono due porte laterali, una maggiore nel fondo che/
+/si chiude. Ai suoi lati pendono i ritratti, in tutta figura,/
+/a sinistra del Duca, a destra della sua sposa. V’ha un/
+/seggiolone presso una tavola coperta di velluto e altri/
+/mobili.)/
+
+DUCA /(entrando, agitato)/
+Ella mi fu rapita!
+E quando, o ciel?...ne’ brevi
+istanti, prima che il mio presagio interno
+sull’orma corsa ancora mi spingesse!
+
+Schiuso era l’uscio! E la magion deserta!
+E dove ora sarà quell’angiol caro?
+Colei che prima potè in questo core
+destar la fiamma di costanti affetti?
+Colei sì pura, al cui modesto sguardo
+quasi spinto a virtù talor mi credo!
+Ella mi fu rapita!
+E chi l’ardiva?...ma ne avrò vendetta.
+Lo chiede il pianto della mia diletta.
+Parmi veder le lagrime
+scorrenti da quel ciglio,
+quando fra il dubbio e l’ansia
+del subito periglio,
+dell’amor nostro memore
+il suo Gualtier chiamò.
+Ned ei potea soccorrerti,
+cara fanciulla amata;
+ei che vorria coll’anima
+farti quaggiù beata;
+ei che le sfere agli angeli
+per te non invidiò.
+Ei che le sfere, /ecc./
+/(Marullo, Ceprano, Borsa ed altri cortigiani entrano dal/
+/mezzo.)/
+
+BORSA, MARULLO, CEPRANO, CORO[DUCA]
+Duca, Duca!
+
+DUCA[BORSA, MARULLO, CEPRANO, CORO]
+Ebben?
+
+BORSA, MARULLO, CEPRANO, CORO[DUCA]
+L’amante
+fu rapita a Rigoletto.
+
+DUCA[BORSA, MARULLO, CEPRANO, CORO]
+Ah! Ah! dite, come fu?
+
+BORSA, MARULLO, CEPRANO, CORO[DUCA]
+Scorrendo uniti remota via,
+brev’ora dopo caduto il dì,
+come previsto ben s’era in pria,
+rara beltà ci si scoprì.
+Era l’amante di Rigoletto,
+che vista appena si dileguò.
+Già di rapirla s’avea il progetto,
+quando il buffone ver noi spuntò;
+che di Ceprano noi la contessa
+rapir volessimo, stolto, credè;
+la scala, quindi, all’uopo messa,
+bendato ei stesso ferma tenè.
+La scala, quindi, /ecc.
+/Salimmo, e rapidi la giovinetta
+a noi riusciva quindi asportar.
+
+DUCA /(da sé)
+/Cielo!
+
+BORSA, MARULLO, CEPRANO, CORO[DUCA]
+Quand’ei s’accorse della vendetta
+restò scornato ad imprecar.
+
+DUCA /(da sé)/
+È dessa, la mia diletta!
+
+DUCA[BORSA, MARULLO, CEPRANO, CORO]
+Ma dove or trovasi la poveretta?
+
+BORSA, MARULLO, CEPRANO, CORO[DUCA]
+Fu da noi stessi addotta or qui.
+
+DUCA /(da sé)/
+Ah, tutto il ciel non mi rapì!
+/(Esce rapidamente. Rigoletto entra cantarellando con/
+/represso dolore.)/
+
+MARULLO
+Povero Rigoletto!
+
+RIGOLETTO
+La rà, la rà, la rà, /ecc./
+
+CORO
+Ei vien...Silenzio.
+
+RIGOLETTO
+La rà, la rà, la rà, la rà, /ecc./
+
+BORSA, MARULLO, CEPRANO, CORO[RIGOLETTO]
+Oh, buon giorno, Rigoletto.
+
+RIGOLETTO /(da sé)
+/Han tutti fatto il colpo!
+
+CEPRANO[RIGOLETTO]
+Ch’hai di nuovo, buffon?
+
+RIGOLETTO[CEPRANO]
+Ch’hai di nuovo, buffon?
+Che dell’usato
+più noioso voi siete.
+
+BORSA, MARULLO, CEPRANO, CORO[RIGOLETTO]
+Ah! ah! ah!
+
+RIGOLETTO
+La rà, la rà, la rà, /ecc./
+/(spiando inquieto dovunque, da sé)/
+Ove l’avran nascosta?...
+
+BORSA, MARULLO, CEPRANO, CORO /(fra loro)
+/Guardate com’è inquieto!
+
+RIGOLETTO
+La rà, la rà, la rà, /ecc./
+
+BORSA, MARULLO, CEPRANO, CORO
+Sì! Guardate com’è inquieto!
+
+RIGOLETTO[MARULLO] /(a Marullo)
+/Son felice
+che nulla a voi nuocesse
+l’aria di questa notte...
+
+MARULLO[RIGOLETTO]
+Questa notte!
+
+RIGOLETTO[MARULLO]
+Sì...Ah, fu il bel colpo!
+
+MARULLO[RIGOLETTO]
+S’ho dormito sempre!
+
+RIGOLETTO[MARULLO]
+Ah, voi dormiste! Avrò dunque sognato!
+La rà, la rà, la rà, /ecc./
+/(S’allontana e vedendo un fazzoletto sopra una tavola/
+/ne osserva inquieto la cifra.)/
+
+CORO /(fra loro)/
+Ve’ come tutto osserva!
+
+RIGOLETTO[CORO]
+/(gettandolo; fra sé)/
+Non è il suo.
+/(forte)/
+Dorme il Duca tuttor?
+
+CORO[RIGOLETTO]
+Sì, dorme ancora.
+/(Comparisce un paggio della Duchessa.)/
+
+PAGGIO[CEPRANO]
+Al suo sposo parlar vuol la Duchessa.
+
+CEPRANO[PAGGIO]
+Dorme.
+
+PAGGIO[CEPRANO]
+Qui or or con voi non era?
+
+BORSA[PAGGIO]
+È a caccia.
+
+PAGGIO[BORSA,CEPRANO]
+Senza paggi! senz’armi!
+
+CORO[PAGGIO]
+E non capisci
+che per ora vedere non può alcuno?
+
+RIGOLETTO[CORO]
+/(che a parte è stato attentissimo al dialogo, balzando/
+/improvviso tra loro prorompe:)/
+Ah, ell’è qui dunque! Ell’è col Duca!
+
+CORO[RIGOLETTO]
+Chi?
+
+RIGOLETTO[CORO]
+La giovin che stanotte
+al mio tetto rapiste.
+Ma la saprò riprender.
+Ella è là!
+
+CORO[RIGOLETTO]
+Se l’amante perdesti,
+la ricerca altrove.
+
+RIGOLETTO[CORO]
+Io vo’ mia figlia!
+
+CORO[RIGOLETTO]
+La sua figlia!
+
+RIGOLETTO[CORO]
+Sì, la mia figlia! d’una tal vittoria,
+che? adesso non ridete?
+Ella è là...la vogl’io...la renderete.
+/(Corre verso la porta di mezzo, ma i cortigiani gli/
+/attraversano il passaggio.)/
+
+Cortigiani, vil razza dannata,
+per qual prezzo vendeste il mio bene?
+A voi nulla per l’oro sconviene,
+ma mia figlia è impagabil tesor.
+La rendete...o, se pur disarmata,
+questa man per voi fora cruenta;
+nulla in terra più l’uomo paventa,
+se dei figli difende l’onor.
+Quella porta, assassini, m’aprite!
+/(Si getta ancor sulla porta che gli è nuovamente/
+/contesa dai gentiluomini; lotta alquanto, poi ritorna/
+/spossato.)/
+La porta, la porta, assassini, m’aprite.
+Ah! voi tutti a me contro venite!
+Tutti contro me!
+/(piange)/
+Ah! Ebben, piango. Marullo, signore,
+tu ch’hai l’alma gentil come il core,
+dimmi tu dove l’hanno nascosta?
+
+RIGOLETTO[MARULLO]
+Marullo, signore, dimmi tu dove l’hanno nascosta?
+È là...non è vero?...È là?...
+non è vero?...è là?...non è vero?
+Tu taci!...ohimè!
+Miei signori, perdono, pietate!
+Al vegliardo la figlia ridate!
+Ridonarla a voi nulla ora costa,
+tutto al mondo tal figlia è per me.
+Signori, perdono, /ecc./
+/(Gilda esce dalla stanza a sinistra e si getta nelle/
+/paterne braccia.)/
+
+GILDA[RIGOLETTO]
+Mio padre!
+
+RIGOLETTO[GILDA]
+Dio! mia Gilda!
+Signori, in essa è tutta
+la mia famiglia.
+Non temer più nulla, angelo mio...
+/(ai cortigiani)/
+Fu scherzo, non è vero?
+Io, che pur piansi, or rido.
+/(a Gilda)/
+E tu a che piangi?
+
+GILDA[RIGOLETTO]
+Ah, l’onta, padre mio!
+
+RIGOLETTO[GILDA]
+Cielo! che dici?
+
+GILDA[RIGOLETTO]
+Arrossir voglio innanzi a voi soltanto...
+
+RIGOLETTO[CORO] /(ai cortigiani)/
+Ite di qua voi tutti!
+Se il Duca vostro d’appressarsi osasse,
+ch’ei non entri, gli dite, e ch’io qui sono.
+
+BORSA, MARULLO, CEPRANO, CORO
+/(fra loro)/
+Coi fanciulli e co’ dementi
+spesso giova il simular;
+partiam pur, ma quel ch’ei tenti
+non lasciamo d’osservar.
+/(Escono.)/
+
+RIGOLETTO[GILDA]
+Parla...siam soli.
+
+GILDA /(da sé)
+/Ciel! dammi coraggio!
+
+GILDA[RIGOLETTO] 
+/Tutte le feste al tempio
+mentre pregava Iddio,
+bello e fatale un giovine
+offriasi al guardo mio...
+Se i labbri nostri tacquero,
+dagli occhi il cor parlò.
+Furtivo fra le tenebre
+sol ieri a me giungeva...
+“Sono studente e povero”,
+commosso mi diceva,
+e con ardente palpito
+amor mi protestò.
+Partì...il mio core aprivasi
+a speme più gradita,
+quando improvvisi apparvero
+color che m’han rapita,
+e a forza qui m’addussero
+nell’ansia più crudel.
+
+RIGOLETTO /(da sé)/
+Ah! Solo per me l’infamia
+a te chiedeva, o Dio...
+ch’ella potesse ascendere
+quanto caduto er’io.
+Ah, presso del patibolo
+bisogna ben l’altare!
+Ma tutto ora scompare,
+l’altar si rovesciò!
+
+RIGOLETTO[GILDA]
+Piangi, fanciulla, piangi...
+
+GILDA[RIGOLETTO]
+Padre!
+
+RIGOLETTO[GILDA]
+...scorrer fa il pianto sul mio cor.
+
+GILDA[RIGOLETTO]
+Padre, in voi parla un angiol
+per me consolator, /ecc./
+
+RIGOLETTO[GILDA]
+Piangi, fanciulla, /ecc./
+Compiuto pur quanto a fare mi resta,
+lasciare potremo quest’aura funesta.
+
+GILDA[RIGOLETTO]
+Sì.
+
+RIGOLETTO /(da sé)/
+E tutto un sol giorno cangiare potè!
+/(Entra un usciere ed il Conte di Monterone, che/
+/attraversa il fondo della sala fra gli alabardieri.)/
+
+USCIERE
+Schiudete: ire al carcere Monteron dee.
+
+MONTERONE[DUCA]
+/(fermandosi verso il ritratto)/
+Poiché fosti invano da me maledetto,
+né un fulmine o un ferro
+colpisce il tuo petto,
+felice pur anco, o Duca, vivrai.
+/(Esce fra le guardie dal mezzo.)/
+
+RIGOLETTO[MONTERONE]
+No, vecchio, t’inganni...un vindice avrai.
+/(Si volge con impeto al ritratto.)/
+Sì, vendetta, tremenda vendetta
+di quest’anima è solo desio.
+Di punirti già l’ora s’affretta,
+che fatale per te suonerà.
+Come fulmin scagliato da Dio,
+te colpire il buffone saprà.
+
+GILDA[RIGOLETTO]
+O mio padre, qual gioia feroce
+balenarvi negli occhi vegg’io!
+
+RIGOLETTO[GILDA]
+Vendetta!
+
+GILDA[RIGOLETTO]
+Perdonate: a noi pure una voce
+di perdono dal cielo verrà.
+
+RIGOLETTO[GILDA]
+Vendetta!
+
+GILDA[RIGOLETTO]
+Perdonate...
+
+RIGOLETTO[GILDA]
+No!
+
+GILDA[RIGOLETTO] /(fra sé)/
+Mi tradiva, pur l’amo; gran Dio,
+per l’ingrato ti chiedo pietà!
+
+RIGOLETTO[GILDA]
+No!
+
+RIGOLETTO[GILDA]
+Come fulmin scagliato, /ecc./
+
+GILDA[RIGOLETTO]
+Perdonate, /ecc.
+(Escono dal mezzo.)/
+
+##############
+# ATTO TERZO #
+##############
+
+/La sponda destra del Mincio/
+/(A sinistra è una casa a due piani, mezzo diroccata, la
+cui fronte lascia vedere per una grande arcata l’interno
+d’una rustica osteria al pian terreno, ed una rozza
+scala che mette al granaio, entro cui, da un balcone
+senza imposte, si vede un lettuccio. Nella facciata che
+guarda la strada è una porta che s’apre per di dentro; il
+muro poi è sì pieno di fessure, che dal di fuori si può
+facilmente scorgere quanto avviene nell’interno. In
+fondo, la deserta parte del Mincio, che scorre dietro un
+parapetto in mezza ruina; di là dal fiume è Mantova. È
+notte. Gilda e Rigoletto inquieti sono sulla strada,
+Sparafucile nell’interno dell’osteria)/
+
+RIGOLETTO[GILDA]
+E l’ami?
+
+GILDA[RIGOLETTO]
+Sempre.
+
+RIGOLETTO[GILDA]
+Pure tempo a guarirne t’ho lasciato.
+
+GILDA[RIGOLETTO]
+Io l’amo.
+
+RIGOLETTO[GILDA]
+Povero cor di donna! Ah, il vile infame!
+Ma ne avrai vendetta, o Gilda.
+
+GILDA[RIGOLETTO]
+Pietà, mio padre!
+
+RIGOLETTO[GILDA]
+E se tu certa fossi
+ch’ei ti tradisse, l’ameresti ancora?
+
+GILDA[RIGOLETTO]
+Nol so, ma pur m’adora.
+
+RIGOLETTO[GILDA]
+Egli?
+
+GILDA[RIGOLETTO]
+Sì.
+
+RIGOLETTO[GILDA]
+Ebben, osserva dunque.
+/(La conduce presso una delle fessure del muro, ed ella/
+/vi guarda.)/
+
+GILDA[RIGOLETTO]
+Un uomo vedo.
+
+RIGOLETTO[GILDA]
+Per poco attendi.
+/(Il Duca, in assisa di semplice ufficiale di cavalleria,/
+/entra nella sala terrena per una porta a sinistra.)/
+
+GILDA[RIGOLETTO] /(trasalendo)
+/Ah, padre mio!
+
+DUCA[SPARAFUCILE] /(a Sparafucile)
+/Due cose e tosto...
+
+SPARAFUCILE[DUCA]
+Quali?
+
+DUCA[SPARAFUCILE]
+Una stanza e del vino!
+
+RIGOLETTO[GILDA]
+Son questi i suoi costumi!
+
+SPARAFUCILE[DUCA]
+Oh, il bel zerbino!
+/(Entra nella stanza vicina.)/
+
+DUCA
+La donna è mobile
+qual piuma al vento,
+muta d’accento
+e di pensier.
+Sempre un amabile
+leggiadro viso,
+in pianto o in riso
+è menzognero.
+La donna è mobile, /ecc.
+/È sempre misero
+chi a lei s’affida,
+chi le confida
+mal cauto il cor!
+Pur mai non sentesi
+felice appieno
+
+chi su quel seno
+non liba amor!
+La donna è mobile, /ecc./
+/(Sparafucile rientra con una bottiglia di vino e due/
+/bicchieri che depone sulla tavola: quindi batte col/
+/pomo della sua lunga spada due colpi al soffitto. A/
+/quel segnale una ridente giovane, in costume di/
+/zingara, scende a salti la scala. Il Duca corre per/
+/abbracciarla, ma ella gli sfugge. Frattanto Sparafucile,/
+/uscito sulla via, dice a parte a Rigoletto:)/
+
+SPARAFUCILE[RIGOLETTO]
+È là il vostr’uomo. Viver dee o morire?
+
+RIGOLETTO[SPARAFUCILE]
+Più tardi tornerò l’opra a compire.
+/(Sparafucile s’allontana dietro la casa verso il fiume.)/
+
+DUCA[MADDALENA]
+Un dì, se ben rammentomi,
+o bella, t’incontrai...
+Mi piacque di te chiedere
+e intesi che qui stai.
+Or sappi che d’allora
+sol te quest’alma adora.
+
+GILDA /(da sé)
+/Iniquo!
+
+MADDALENA[DUCA]
+Ah! Ah!...e vent’altre appresso
+le scorda forse adesso?
+
+Ha un’aria il signorino
+da vero libertino.
+
+DUCA[MADDALENA]
+Sì, un mostro son.
+
+GILDA[RIGOLETTO]
+Ah, padre mio!
+
+MADDALENA[DUCA]
+Lasciatemi, stordito!
+
+DUCA[MADDALENA]
+Ah, che fracasso!
+
+MADDALENA[DUCA]
+Stia saggio!
+
+DUCA[MADDALENA]
+E tu sii docile,
+non farmi tanto, chiasso.
+Ogni saggezza chiudesi
+nel gaudio e nell’amore.
+/(Le prende la mano.)/
+La bella mano candida!
+
+MADDALENA[DUCA]
+Scherzate voi, signore.
+
+DUCA[MADDALENA]
+No, no.
+
+MADDALENA[DUCA]
+Son brutta.
+
+DUCA[MADDALENA]
+Abbracciami.
+
+GILDA /(da sé)
+/Iniquo!
+
+MADDALENA[DUCA]
+Ebbro!
+
+DUCA[MADDALENA]
+D’amore ardente.
+
+MADDALENA[DUCA]
+Signor l’indifferente,
+vi piace canzonar?
+
+DUCA[MADDALENA]
+No, no, ti vo’ sposar...
+
+MADDALENA[DUCA]
+Ne voglio la parola.
+
+DUCA[MADDALENA] /(ironico)
+Amabile figliuola!
+
+RIGOLETTO[GILDA] /(a Gilda che avrà tutto osservato ed inteso)
+/E non ti basta ancor?
+
+GILDA[RIGOLETTO]
+Iniquo traditor! /ecc./
+
+MADDALENA[DUCA]
+Ne voglio la parola! /ecc./
+
+DUCA[MADDALENA]
+Amabile figliuola! /ecc./
+
+RIGOLETTO[GILDA]
+E non ti basta ancor? /ecc./
+
+DUCA[MADDALENA]
+Bella figlia dell’amore,
+schiavo son dei vezzi tuoi;
+con un detto sol tu puoi
+le mie pene consolar.
+Vieni e senti del mio core
+il frequente palpitar.
+Con un detto, /ecc./
+
+MADDALENA[DUCA]
+Ah! ah! rido ben di core,
+che tai baie costan poco...
+
+GILDA[RIGOLETTO]
+Ah, così parlar d’amore...
+
+MADDALENA[DUCA]
+...quanto valga il vostro gioco,
+mel credete, so apprezzar.
+
+GILDA[RIGOLETTO]
+...a me l’infame ho udito!
+
+RIGOLETTO[GILDA] /(a Gilda)/
+Taci, il piangere non vale, /ecc./
+
+GILDA[RIGOLETTO]
+Infelice cor tradito,
+per angoscia non scoppiar.
+
+MADDALENA[DUCA]
+Son avvezza, bel signore,
+ad un simile scherzar,
+mio bel signor!
+
+DUCA[MADDALENA]
+Con un detto sol tu puoi
+le mie pene consolar.
+
+GILDA[RIGOLETTO]
+Infelice cor tradito,
+per angoscia non scoppiar, /ecc./
+
+MADDALENA[DUCA]
+Ah! Ah! Rido ben di core!
+Che tai baie costan poco, /ecc./
+
+DUCA[MADDALENA]
+Bella figlia dell’amore,
+schiavo son de’ vezzi tuoi, /ecc./
+
+RIGOLETTO[GILDA] /(a Gilda)
+Ch’ei mentiva sei sicura.
+Taci, e mia sarà la cura
+la vendetta d’affrettar.
+Pronta fia, sarà fatale,
+io saprollo fulminar, /ecc.
+M’odi! Ritorna a casa.
+Oro prendi, un destriero,
+una veste viril che t’apprestai,
+e per Verona parti.
+Sarovvi io pur doman.
+
+GILDA[RIGOLETTO]
+Or venite...
+
+RIGOLETTO[GILDA]
+Impossibil.
+
+GILDA[RIGOLETTO]
+Tremo.
+
+RIGOLETTO[SPARAFUCILE]
+Va.
+/(Il Duca e Maddalena stanno sempre fra loro parlando,/
+/ridendo, bevendo. Partita Gilda, Rigoletto va dietro la/
+/casa, e ritorna parlando con Sparafucile e contandogli/
+/delle monete.)/
+Venti scudi hai tu detto? Eccone dieci,
+e dopo l’opra il resto.
+Ei qui rimane?
+
+SPARAFUCILE[RIGOLETTO]
+Sì.
+
+RIGOLETTO[SPARAFUCILE]
+Alla mezzanotte ritornerò.
+
+SPARAFUCILE[RIGOLETTO]
+Non cale;
+a gettarlo nel fiume basto io solo.
+
+RIGOLETTO[SPARAFUCILE]
+No, no; il vo’ far io stesso.
+
+SPARAFUCILE[RIGOLETTO]
+Sia...il suo nome?
+
+RIGOLETTO[SPARAFUCILE]
+Vuoi sapere anche il mio?
+Egli è Delitto, Punizion son io.
+/(Parte; il cielo si oscura e tuona.)/
+
+SPARAFUCILE
+La tempesta è vicina!
+Più scura fia la notte.
+
+DUCA[MADDALENA]
+Maddalena?
+/(per prenderla)/
+
+MADDALENA[DUCA] /(sfuggendogli)
+Aspettate...mio fratello viene.
+
+DUCA[MADDALENA]
+Che importa?
+
+MADDALENA[DUCA]
+Tuona!
+
+SPARAFUCILE[DUCA] /(entrando)
+E pioverà tra poco.
+
+DUCA[SPARAFUCILE]
+Tanto meglio.
+Tu dormirai in scuderia...
+all’inferno...ove vorrai.
+
+SPARAFUCILE[DUCA]
+Oh, grazie.
+
+MADDALENA[DUCA] /(piano al Duca)
+Ah no!...partite.
+
+DUCA[MADDALENA] /(a Maddalena)
+Con tal tempo?
+
+SPARAFUCILE[MADDALENA] /(piano a Maddalena)/
+Son venti scudi d’oro.
+
+SPARAFUCILE[DUCA]
+Ben felice d’offrirvi la mia stanza.
+Se a voi piace tosto a vederla andiamo.
+/(Prende un lume e s’avvia per la scala.)/
+
+DUCA[SPARAFUCILE]
+Ebben, sono con te...presto, vediamo.
+/(Dice una parola all’orecchio di Maddalena e segue/
+/Sparafucile.)/
+
+MADDALENA
+Povero giovin!...grazioso tanto!
+Dio! qual notte è questa!
+
+DUCA[SPARAFUCILE]
+/(giunto al granaio, vedendone il balcone senza imposte.)/
+Si dorme all’aria aperta? Bene, bene.
+Buona notte.
+
+SPARAFUCILE[DUCA]
+Signor, vi guardi Iddio.
+
+DUCA
+Breve sonno dormiam; stanco son io.
+/(Depone il cappello, la spada e si stende sul letto./
+/Maddalena frattanto siede presso la tavola./
+/Sparafucile beve dalla bottiglia lasciata dal Duca./
+/Rimangono ambedue taciturni per qualche istante, e/
+/preoccupati da gravi pensieri.)/
+
+La donna è mobile,
+qual piuma al vento,
+muta d’accento
+e di pensiero...
+muta d’accento
+e di pen...
+la donna...è mobil.../ecc./
+/(s’addormenta)/
+
+MADDALENA[SPARAFUCILE]
+È amabile invero
+cotal giovinotto.
+
+SPARAFUCILE[MADDALENA]
+Oh sì...venti scudi
+ne dà di prodotto.
+
+MADDALENA[SPARAFUCILE]
+Sol venti!...son pochi!
+valeva di più.
+
+SPARAFUCILE[MADDALENA]
+La spada, s’ei dorme,
+va, portami giù.
+/(Maddalena sale al granaio e contempla il dormente,/
+/poi ripara alla meglio il balcone e scende portando con/
+/sé la spada. Nel frattempo Gilda comparisce nel fondo/
+/della via in costume virile, con stivali e speroni, e/
+/lentamente si avanza verso l’osteria, mentre/
+/Sparafucile continua a bere. Spessi lampi e tuoni.)/
+
+GILDA /(da sé)/
+Ah, più non ragiono!
+Amor mi trascina...
+
+mio padre, perdono!
+/(tuono)/
+Qual notte d’orrore!
+Gran Dio, che accadrà?
+
+MADDALENA[SPARAFUCILE]
+/(posata la spada del Duca sulla tavola)/
+Fratello?
+
+GILDA /(osservando per la fessura)
+/Chi parla?
+
+SPARAFUCILE[MADDALENA] /(frugando in un credenzone)
+/Al diavol ten va!
+
+MADDALENA[SPARAFUCILE]
+Somiglia un Apollo,
+quel giovane, io l’amo,
+ei m’ama...riposi...
+né più l’uccidiamo.
+
+GILDA /(ascoltando)
+/Oh cielo!
+
+SPARAFUCILE[MADDALENA] /(gettandole un sacco)
+/Rattoppa quel sacco!
+
+MADDALENA[SPARAFUCILE]
+Perché?
+
+SPARAFUCILE[MADDALENA]
+Entr’esso il tuo Apollo, sgozzato da me,
+gettar dovrò al fiume.
+
+GILDA
+L’inferno qui vedo!
+
+MADDALENA[SPARAFUCILE]
+Eppure il denaro salvarti scommetto
+serbandolo in vita.
+
+SPARAFUCILE[MADDALENA]
+Difficile il credo.
+
+MADDALENA[SPARAFUCILE]
+M’ascolta...anzi facil ti svelo un progetto.
+De’ scudi già dieci dal gobbo ne avesti;
+venire cogli altri più tardi il vedrai...
+Uccidilo, e venti...
+
+GILDA
+Che sento!
+
+MADDALENA[SPARAFUCILE]
+...allor ne avrai...
+
+GILDA
+Mio padre!
+
+MADDALENA[SPARAFUCILE]
+...così tutto il prezzo goder si potrà.
+
+SPARAFUCILE[MADDALENA]
+Uccider quel gobbo! che diavol dicesti!
+Un ladro son forse? Son forse un bandito?
+Qual altro cliente da me fu tradito?
+Mi paga quest’uomo, fedele m’avrà.
+
+MADDALENA[SPARAFUCILE]
+Ah, grazia per esso!
+
+SPARAFUCILE[MADDALENA]
+È d’uopo ch’ei muoia.
+
+MADDALENA[SPARAFUCILE]
+Fuggire il fo adesso.
+/(Va per salire.)/
+
+GILDA
+Oh, buona figliuola!
+
+SPARAFUCILE[MADDALENA] /(trattenendola)
+/Gli scudi perdiamo.
+
+MADDALENA[SPARAFUCILE]
+È ver!
+
+SPARAFUCILE[MADDALENA]
+Lascia fare.
+
+MADDALENA[SPARAFUCILE]
+Salvarlo dobbiamo.
+
+SPARAFUCILE[MADDALENA]
+Se pria ch’abbia il mezzo la notte toccato
+alcuno qui giunga, per esso morrà.
+
+MADDALENA[SPARAFUCILE]
+È buia la notte, il ciel troppo irato,
+nessuno a quest’ora da qui passerà.
+
+GILDA
+Oh, qual tentazione! morir per l’ingrato?
+Morire!...e mio padre!...Oh cielo, pietà!
+
+MADDALENA[SPARAFUCILE]
+È buia la notte, /ecc./
+
+SPARAFUCILE[MADDALENA]
+Se pria ch’abbia, /ecc./
+
+GILDA
+Oh cielo, pietà, /ecc./
+/(Battono le undici e mezzo.)/
+
+SPARAFUCILE[MADDALENA]
+Ancor c’è mezz’ora.
+
+MADDALENA[SPARAFUCILE] /(piangendo)
+/Attendi, fratello...
+
+GILDA
+Che! piange tal donna! né a lui darò aita!
+Ah, s’egli al mio amore divenne rubello,
+io vo’ per la sua gettar la mia vita.
+/(Picchia alla porta.)/
+
+MADDALENA[SPARAFUCILE]
+Si picchia?
+
+SPARAFUCILE[MADDALENA]
+Fu il vento.
+/(Gilda torna a bussare.)/
+
+MADDALENA[SPARAFUCILE]
+Si picchia, ti dico.
+
+SPARAFUCILE[MADDALENA]
+È strano!...Chi è?
+
+GILDA[SPARAFUCILE]
+Pietà d’un mendico;
+asil per la notte a lui concedete.
+
+MADDALENA[SPARAFUCILE]
+Fia lunga tal notte!
+
+SPARAFUCILE[MADDALENA]
+Alquanto attendete.
+/(Va a cercare nel credenzone.)/
+
+MADDALENA[SPARAFUCILE]
+Su, spicciati, presto, fa l’opra compita:
+anelo una vita con altra salvar.
+
+SPARAFUCILE[MADDALENA]
+Ebbene, son pronto; quell’uscio dischiudi,
+più ch’altro gli scudi mi preme salvar.
+
+GILDA /(da sé)/
+Ah! presso alla morte, sì giovine sono!
+Oh ciel, per quegl’empi ti chieggo perdono!
+Perdona tu, o padre, a quest’infelice!
+Sia l’uomo felice ch’or vado a salvar.
+
+MADDALENA[SPARAFUCILE]
+Spicciati, presto, /ecc./
+
+SPARAFUCILE[MADDALENA]
+Bene, son pronto, /ecc./
+
+MADDALENA[SPARAFUCILE]
+Spicciati!
+
+SPARAFUCILE[MADDALENA]
+Apri!
+
+MADDALENA[GILDA]
+Entrate!
+
+GILDA /(da sé)/
+Dio! Loro perdonate!
+
+MADDALENA, SPARAFUCILE[GILDA]
+Entrate!
+/(Sparafucile va a postarsi con un pugnale dietro alla/
+/porta; Maddalena apre e poi corre a chiudere la grande/
+/arcata di fronte, mentre entra Gilda, dietro a cui/
+/Sparafucile chiude la porta, e tutto resta sepolto nel/
+/silenzio e nel buio.)/
+/(Rigoletto solo si avanza chiuso nel suo mantello. La
+/violenza del temporale è diminuita, né più si vede e
+sente che qualche lampo e tuono.)/
+
+RIGOLETTO
+Della vendetta alfin giunge l’istante!
+Da trenta dì l’aspetto
+di vivo sangue a lagrime piangendo,
+sotto la larva del buffon.
+Quest’uscio.,..
+/(esaminando la casa)/
+è chiuso!...Ah, non è tempo ancor!
+S’attenda.
+
+Qual notte di mistero!
+Una tempesta in cielo,
+in terra un omicidio!
+Oh, come invero qui grande mi sento!
+/(Suona mezzanotte.)/
+Mezzanotte!
+
+SPARAFUCILE[RIGOLETTO] /(uscendo di casa)
+/Chi è là?
+
+RIGOLETTO[SPARAFUCILE] /(per entrare)
+/Son io.
+
+SPARAFUCILE[RIGOLETTO]
+Sostate.
+/(Rientra e torna trascinando un sacco.)/
+È qua spento il vostro’uomo.
+
+RIGOLETTO[SPARAFUCILE]
+Oh gioia!...un lume!
+
+SPARAFUCILE[RIGOLETTO]
+Un lume?...No, il denaro.
+/(Rigoletto gli dà una borsa.)
+/Lesti all’onda il gettiam...
+
+RIGOLETTO[SPARAFUCILE]
+No, basto io solo.
+
+SPARAFUCILE[RIGOLETTO]
+Come vi piace. Qui men atto è il sito.
+Più avanti è più profondo il gorgo.
+Presto, che alcun non vi sorprenda. Buona notte.
+/(Rientra in casa.)/
+
+RIGOLETTO[SPARAFUCILE]
+Egli è là!...morto!
+Oh sì...vorrei vederlo!
+Ma che importa?...è ben desso!
+Ecco i suoi sproni!
+Ora mi guarda, o mondo!
+Quest’è un buffone, ed un potente è questo!
+Ei sta sotto ai miei piedi! È desso! O gioia!
+È giunta alfine la tua vendetta, o duolo!
+Sia l’onda a lui sepolcro,
+un sacco il suo lenzuolo.
+All’onda! All’onda!
+/(Fa per trascinare il sacco verso la sponda, quando è/
+/sorpreso dalla lontana voce del Duca, che nel fondo/
+/attraversa la scena.)/
+
+DUCA
+La donna è mobile, /ecc./
+
+RIGOLETTO
+Qual voce!...illusion notturna è questa!
+/(trasalendo)/
+No!...No! egli è desso...
+/(verso la casa)/
+Maledizione! Olà...dimon bandito!
+/(Taglia il sacco.)/
+Chi è mai, chi è qui in sua vece?
+/(lampeggia)/
+Io tremo...È umano corpo!
+Mia figlia!...Dio!...mia figlia!
+Ah no...è impossibil!
+Per Verona è in via!
+/(inginocchiandosi)/
+Fu vision...È dessa!
+O mia Gilda: fanciulla, a me rispondi!
+
+L’assassino mi svela...Olà?...Nessuno?
+/(Picchia disperatamente alla porta.)/
+Nessun!...
+
+RIGOLETTO[GILDA]
+Mia figlia? Mia Gilda?...Oh, mia figlia!
+
+GILDA[RIGOLETTO]
+Chi mi chiama?
+
+RIGOLETTO[GILDA]
+Ella parla!...si muove!...
+È viva!...oh Dio!
+Ah, mio ben solo in terra...
+Mi guarda...mi conosci...
+
+GILDA[RIGOLETTO]
+Ah, padre mio!
+
+RIGOLETTO[GILDA]
+Qual mistero!...Che fu?...
+Sei tu ferita?...Dimmi...
+
+GILDA[RIGOLETTO] /(indicando al core)/
+L’acciar qui mi piagò.
+
+RIGOLETTO[GILDA]
+Chi t’ha colpita?
+
+GILDA[RIGOLETTO]
+V’ho ingannato...colpevole fui...
+L’amai troppo...ora muoio per lui!
+
+RIGOLETTO /(da sé)/
+Dio tremendo! Ella stessa fu colta
+dallo stral di mia giusta vendetta!
+
+RIGOLETTO[GILDA]
+Angiol caro! mi guarda, m’ascolta!
+Parla, parlami, figlia diletta.
+
+GILDA[RIGOLETTO]
+Ah, ch’io taccia! a me, a lui perdonate.
+Benedite alla figlia, o mio padre...
+Lassù in cielo, vicina alla madre,
+in eterno per voi pregherò.
+
+RIGOLETTO[GILDA]
+Non morire, mio tesoro, pietade!
+Mia colomba, lasciarmi non dêi!
+
+GILDA[RIGOLETTO]
+Lassù in cielo, /ecc./
+
+RIGOLETTO[GILDA]
+Oh, mia figlia!
+No, lasciarmi non dêi, non morir.
+Se t’involi, qui sol rimarrei.
+Non morire, o ch’io teco morrò!
+
+GILDA[RIGOLETTO]
+Non più...a lui perdonate.
+Mio padre...Addio!
+Lassù in ciel, /ecc./
+
+RIGOLETTO[GILDA]
+Oh mia figlia! Oh mia Gilda!
+No, lasciarmi non dêi, non morir!
+/(Gilda muore.)/
+
+RIGOLETTO[GILDA]
+Gilda! mia Gilda!...È morta!
+Ah, la maledizione!
+/(Strappandosi i capelli, cade sul cadavere della figlia.)/
+
+
+FINE

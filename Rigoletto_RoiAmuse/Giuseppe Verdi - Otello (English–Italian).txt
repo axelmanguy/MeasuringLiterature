@@ -1,0 +1,6373 @@
+
+      “Otello <http://www.murashev.com/opera/opera.php?opera_id=51>” by
+      Giuseppe Verdi
+      <http://www.murashev.com/opera/composer.php?composer_id=2>
+      libretto (English-Italian)
+
+Roles
+
+Otello, a Moorish general - tenor
+Desdemona, his wife - soprano
+Iago, Otello's ensign - baritone
+Emilia, wife of Iago and maid of Desdemona - mezzo-soprano
+Cassio, Otello's captain - tenor
+Roderigo, a gentleman of Venice - tenor
+Lodovico, ambassador of the Venetian Republic - bass
+Montano, former Governor of Cyprus - bass
+A herald - bass
+Chorus: Venetian soldiers and sailors; and Cypriot townsfolk and children
+
+Time: The late 1400s.
+Place: A coastal city on the island of Cyprus.
+
+
+
+	Personaggi
+
+Otello, moro, generale dell'Armata Veneta (tenore)
+Jago, alfiere (baritono)
+Cassio, capo di squadra (tenore)
+Roderigo, gentiluomo veneziano (tenore)
+Montano, predecessore d'Otello nel governo dell'isola di Cipro (baritono)
+Un araldo, (basso)
+Desdemona, moglie d'Otello (soprano)
+Emilia, moglie di Jago (mezzosoprano)
+Coro
+
+
+
+L'azione si svolge in una città di mare nell'isola di Cipro alla fine
+del XV secolo.
+
+
+
+ACT ONE
+
+/The action takes place in Cyprus, at the end of the
+fifteenth century. Outside the castle, with the sea-walls
+and sea in the background. An inn with a pergola. It is
+evening. A thunderstorm is raging./
+
+CYPRIOTS
+A sail! A sail!
+A standard! A standard!
+
+MONTANO
+’Tis the winged Lion of St. Mark!
+
+CASSIO
+Now the lightning flash reveals it.
+
+CYPRIOTS
+A fanfare! A fanfare!
+The cannon has roared.
+
+CASSIO
+It is the General’s ship.
+
+MONTANO
+Now she is engulfed, anon is tossed skywards.
+
+CASSIO
+Her prow rises from the waves.
+
+SOME CYPRIOTS
+Veiled by mist and water,
+the lightning flash reveals her.
+
+ALL
+Flashes! Crashes! Whirlpools! Howling
+winds and thunder’s mighty roar!
+Air and water shake together,
+shaken is the ocean-floor!
+/(A large group of Cypriot women enters from the back.)/
+Black-browed and blind, a spirit wild
+of chaos cleaves the air.
+
+WOMEN /(shrieking)/
+Ah!
+
+ALL
+God shakes the sullen sky about
+like sable drapery.
+	ATTO PRIMO
+
+/La trama si svolge sull’isola di Cipro alla fine del
+Quattrocento. L’esterno del castello, gli spaldi nel
+fondo e il mare. Una taverna con pergolato. È sera.
+Lampi, tuoni, uragano./
+
+CIPRIOTI
+Una vela! Una vela!
+Un vessillo! Un vessillo!
+
+MONTANO
+È l’alato Leon!
+
+CASSIO
+Or la folgor lo svela.
+
+CIPRIOTI
+Uno squillo! Uno squillo!
+Ha tuonato il cannon.
+
+CASSIO
+È la nave del Duce.
+
+MONTANO
+Or s’affonda, or s’inciela.
+
+CASSIO
+Erge il rostro dall’onda.
+
+ALCUNI CIPRIOTI
+Nelle nubi si cela e nel mar,
+e alla luce dei lampi ne appar.
+
+TUTTI
+Lampi! tuoni! gorghi! turbi
+tempestosi e fulmini!
+Tremon l’onde, tremon l’aure,
+tremon basi e culmini!
+/(Entrano dal fondo molte donne del popolo.)/
+Fende l’etra un torvo e cieco
+spirito di vertigine.
+
+DONNE /(gridando)/
+Ah!
+
+TUTTI
+Iddio scuote il ciel bieco,
+come un tetro vel.
+WOMEN
+Ah!
+
+ALL
+All is smoke! All is fire!
+The dense and dreadful fog
+bursts into flame, and then subsides
+in greater gloom. Convulsed
+the cosmos, glacial surges
+the spectre-like north-wind,
+and titanic trumpet-calls
+sound fanfares in the sky!
+/(turning towards the quay with gestures of fear/
+/and supplication)/
+God, the splendour of the tempest!
+God, the sandbank’s luring smile!
+Save the treasure and the standard
+of the Venetian enterprise!
+Thou, who guidest stars and fortunes,
+Thou, who rulest earth and sky,
+grant that in a tranquil ocean
+may the trusty anchor lie.
+
+IAGO
+The mainmast’s broken off!
+
+RODERIGO
+Her prow is dashing on that rock!
+
+ONLOOKERS
+O help! O help!
+
+IAGO /(to Roderigo)/
+May the ocean’s seething belly be his tomb!
+
+ONLOOKERS
+Safe! He’s safe!
+
+SAILORS /(from on board the ship)/
+Lower the tenders!
+All hands to the ropes! Steady!
+Pull on the oars! To shore!
+/(distant thunder)/
+To the quayside! To the landing!
+
+ONLOOKERS
+Hurrah! Hurrah! Hurrah!
+/(Othello enters, ascending the steps from theshore to
+the ramparts followed by a number of soldiers and sailors.)/
+
+	DONNE
+Ah!
+
+TUTTI
+Tutto è fumo! Tutto è fuoco!
+L’orrida caligine
+si fa incendio, poi si spegne
+più funesta. Spasima
+l’universo, accorre a valchi
+l’aquilon fantasima,
+i titanici oricalchi
+squillano nel ciel!
+/(con gesti di spavento e di supplicazione e/
+/rivolti verso lo spaldo)/
+Dio, fulgor della bufera!
+Dio, sorriso della duna!
+Salva l’arca e la bandiera
+della veneta fortuna!
+Tu, che reggi gli astri e il Fato!
+Tu, che imperi al mondo e al ciel!
+Fa che in fondo al mar placato
+posi l’ancora fedel.
+
+JAGO
+È infranto l’artimon!
+
+RODERIGO
+Il rostro piomba su quello scoglio!
+
+LA FOLLA
+Aita! aita!
+
+JAGO /(a Roderigo)/
+L’alvo frenetico del mar sia la sua tomba!
+
+LA FOLLA
+È salvo! è salvo!
+
+MARINAI /(dalla nave)/
+Gitate i palischermi!
+Mani alle funi! Fermi!
+Forza ai remi! Alla riva!
+/(tuono lontano)/
+All’approdo! allo sbarco!
+
+FOLLA CITTADINA
+Evviva! Evviva! Evviva!
+/(Otello entra, salendo la scala dalla spiaggia
+sullo spaldo con seguito di marinai e soldati.)/
+
+OTHELLO
+Rejoice! The Muslim pride
+is buried in the deep.
+Ours and heaven’s is the glory.
+After our arms the storm has conquered it.
+
+ONLOOKERS
+Hurrah for Othello! Hurrah!
+Hurrah! Hurrah! Victory! Victory!
+/(Othello enters the castle followed by Cassio,/
+/Montano and the soldiers.)/
+Victory! Victory!
+Destruction! Destruction!
+Dispersed, destroyed, engulfed they
+plummetted into the raging deep!
+Victory! Victory!
+Victory! Victory!
+Destruction! Destruction! /etc./
+Their requiem shall be the sharp scourge of
+the spray, the swirl of the whirlwind,
+the scend of the sea.
+Victory! Victory!
+Dispersed, destroyed, /etc/.
+Hurrah!
+/(Distant thunder. The storm is passing away.)/
+Spent is the tempest’s fury.
+
+IAGO /(aside to Roderigo)/
+Well, Roderigo, what think you?
+
+RODERIGO
+Of drowning myself.
+
+IAGO
+Only an idiot drowns himself for love of a woman.
+/(While the ship is being unloaded and weapons and
+baggage are being carried from her into the castle,
+some citizens emerge from behind the fortress carrying
+branches to make a bonfire which, by the light of
+torches held by the soldiers, they construct to one side
+of the ramparts. The crowd gathers around, excited and curious.)/
+
+RODERIGO
+How to win I know not.
+
+IAGO
+Come, keep your wits about you,
+await the ministry of time;
+
+	OTELLO
+Esultate! L’orgoglio musulmano
+sepolto è in mar.
+Nostra e del ciel è gloria.
+Dopo l’armi lo vinse l’uragano.
+
+FOLLA CITTADINA
+Evviva Otello! Evviva!
+Evviva! Evviva! Vittoria! Vittoria!
+/(Otello entra nella rocca, seguito da Cassio,/
+/Montano e soldati.)/
+Vittoria! Vittoria!
+Sterminio! Sterminio!
+Dispersi, distrutti, sepolti nell’orrido
+tumulto piombar!
+Vittoria! Vittoria!
+Vittoria! Vittoria!
+Sterminio! Sterminio! /ecc/.
+Avranno per requie la sferza dei flutti,
+la ridda dei turbini,
+l’abisso, l’abisso del mar.
+Vittoria! Vittoria!
+Dispersi, distrutti, /ecc./
+Evviva!
+/(Tuono lontano. La tempesta sta avviandosi.)/
+Si calma la bufera.
+
+JAGO /(in disparte a Roderigo)/
+Roderigo, ebben che pensi?
+
+RODERIGO
+D’affogarmi.
+
+JAGO
+Stolto è chi s’affoga per amor di donna.
+/(Mentre la nave viene scaricata e si portano armi e
+bagagli da essa nel castello, dei popolani escono da
+dietro la rocca portando dei rami da ardere presso
+lo spaldo; alla luce di fiaccole tenute dai soldati
+formano da un lato una catasta di legno: la folla
+s’accalca intorno turbolenta e curiosa.)/
+
+RODERIGO
+Vincer nol so.
+
+JAGO
+Su via, fa senno,
+aspetta l’opra del tempo;
+
+the beautiful Desdemona,
+who in your secret dreams you so adore,
+will soon begin to abhor the murky kisses
+of that thick-lipped savage.
+Good Roderigo, your friend sincere
+I have professed myself, and I could never
+do more for you than in your present need.
+If the frail vow of a woman
+be not too hard a knot for my wits
+and all the tribe of hell to untie,
+I promise that the woman shall be yours.
+Listen, though I make show of loving him,
+I hate the Moor.
+/(Cassio enters and joins a group of soldiers.)/
+Here comes one reason for my hatred, look.
+/(pointing to Cassio)/
+That curled captain
+usurps my place, the place that I
+by a hundred well-fought battles
+have richly earned;
+such was Othello’s will,
+and I remain his Moorish Lordship’s
+ancient!
+/(Puffs of smoke begin to rise from the wood with/
+/increasing density.)/
+But just as sure as you are Roderigo,
+so sure it is, that if I were the Moor
+I should not want an Iago about me.
+If you heed my counsel...
+/(Still talking, Iago leads Roderigo further away. Flames
+begin to leap up from the fire, and the Cypriots gather
+round it, singing. Meanwhile, the tavern servants
+decorate the pergola with lanterns. Soldiers gather
+round the tables, drinking and talking.)/
+
+
+CYPRIOTS
+Fire of rejoicing! The jovial flame
+by its glow compels night to depart.
+It leaps and sparkles, crackles and flares,
+bright radiance invading the heart!
+Drawn by the firelight, shadowy faces
+flit in ever-mutating rings,
+now like maidens singing sweetly,
+now like moths with flamy wings.
+Palm and sycamore burn together,
+the bride sings with her own true love,
+
+	a Desdemona bella,
+che nel segreto dei tuoi sogni adori,
+presto in uggia verranno i foschi baci
+di quel selvaggio dalle gonfie labbra.
+Buon Roderigo, amico tuo sincero
+mi ti professo, nè in più forte
+ambascia soccorrerti potrei.
+Se un fragil voto di femmina
+non è tropp’arduo nodo pel genio mio
+nè per l’inferno,
+giuro che quella donna sarà tua.
+M’ascolta, benchè finga d’amarlo,
+odio quel Moro.
+/(Entra Cassio: poi s’unisce a un crocchio di soldati.)/
+E una cagion dell’ira, eccola, guarda.
+/(indicando Cassio)/
+Quell’azzimato capitano
+usurpa il grado mio, il grado mio
+che in cento ben pugnate battaglie
+ho meritato;
+tal fu il voler d’Otello,
+ed io rimango di sua Moresca Signoria
+l’alfiere!
+/(Dalla catasta incominciano ad alzarsi dei globi di/
+/fumo sempre più denso.)/
+Ma com’è ver che tu Rodrigo sei,
+così è pur vero, che se il Moro io fossi
+vedermi non vorrei d’attorno un Jago.
+Se tu m’ascolti...
+/(Sempre parlando, Jago conduce Roderigo più
+lontano. Il fuoco divampa, i Ciprioti s’avvicinano ad
+esso, cantando. Mentre cantano, i tavernieri
+illuminano a festa il pergolato. Soldati s’affollano
+intorno alle tavole, parlando e bevendo.)/
+
+
+CIPRIOTI
+Fuoco di gioia! L’ilare vampa
+fuga la notte col suo splendor.
+Guizza, sfavilla, crepita, avvampa,
+fulgido incendio che invade il cor!
+Dal raggio attratti, vaghi sembianti
+movono intorno mutando stuol,
+e son fanciulle dai lieti canti,
+e son farfalle dall’igneo vol.
+Arde la palma col sicomoro (rip.)
+canta la sposa col suo fedel,
+
+on golden flame and happy chorus
+blow ardent zephyrs from above, /etc./
+The fire of rejoicing flames but a moment!
+Gone in a moment are passion’s fires!
+Glowing, fading, throbbing, wavering,
+the last flicker leaps and expires.
+The fire of rejoicing flames but a moment!
+Glowing, fading, throbbing, wavering,
+the last flicker leaps and expires.
+Fire of rejoicing, /etc./
+/(The fire dies down gradually: the storm has ceased
+completely.)/
+... leaps and expires!
+/(Iago, Roderigo, Cassio and a group of soldiers are
+gathered around a table on which wine has been
+placed.)/
+
+IAGO
+Roderigo, let’s drink !
+/(to Cassio)/
+Give me your cup, Captain!
+
+CASSIO
+I’ll drink no more.
+
+IAGO /(raising the jug towards Cassio’s cup)/
+Swallow this mouthful.
+
+CASSIO /(removing his cup)/
+No.
+
+IAGO
+But look! All Cyprus has gone mad today!
+This is a night of rejoicing, so...
+
+CASSIO
+Enough. My head’s on fire already
+after drinking one cup.
+
+IAGO
+Come, you must drink again.
+To the marriage of Othello and Desdemona!
+
+CYPRIOTS
+Hurrah!
+
+CASSIO /(raising his glass and sipping the wine)/
+She makes this isle the fairer!
+
+	sull’aurea fiamma, sul lieto coro,
+soffia l’ardente spiro del ciel, /ecc./
+Fuoco di gioia rapido brilla!
+Rapido passa fuoco d’amor!
+Splende, s’oscura, palpita, oscilla, (rip.)
+l’ultimo guizzo lampeggia e muor.
+Fuoco di gioia, (rip.) rapido brilla!
+Splende, s’oscura, palpita, oscilla,
+l’ultimo guizzo lampeggia e muor.
+Fuoco di gioia, /ecc./
+/(Il fuoco si spegne a poco a poco: la bufera è
+cessata.)/
+... lampeggia e muor!
+/(Jago, Roderigo, Cassio e parecchi altri uomini
+d’arme stanno intorno a un tavolo dove c’è del
+vino.)/
+
+JAGO
+Roderigo, beviam!
+/(a Cassio)/
+Qua la tazza, capitano!
+
+CASSIO
+Non bevo più.
+
+JAGO /(avvicinando il boccale alla tazza di Cassio)/
+Ingoia questo sorso.
+
+CASSIO /(ritirando il bicchiere)/
+No.
+
+JAGO
+Guarda! oggi impazza tutta Cipro!
+È una notte di gioia, dunque...
+
+CASSIO
+Cessa. Già m’arde il cervello
+per un nappo vuotato.
+
+JAGO
+Sì, ancora bever devi.
+Alle nozze d’Otello e Desdemona!
+
+CIPRIOTI
+Evviva!
+
+CASSIO /(alzando il bicchiere e bevendo un poco)/
+Essa infiora questo lido!
+
+IAGO /(aside to Roderigo)/
+Listen to him.
+
+CASSIO
+With her charm and radiance
+she conquers every heart.
+
+RODERIGO
+Yet she is so modest.
+
+CASSIO
+You, Iago, will sing her praises,...
+
+IAGO /(aside to Roderigo)/
+Listen to him.
+/(aloud to Cassio)/
+I am but a critic.
+
+CASSIO
+... yet she paragons description.
+
+IAGO /(aside to Roderigo)/
+Beware of this Cassio.
+
+RODERIGO
+What do you fear?
+
+IAGO /(to Roderigo)/
+He prattles with too much enthusiasm,
+spurred on by vigorous youth,
+and is a subtle knave who’ll prove
+a hindrance to you. Take care...
+
+RODERIGO
+And so?
+
+IAGO
+If he should get drunk he is lost!
+Make him drink.
+/(to the tavern servants)/
+Some wine here, lads!
+/(Iago fills three glasses: one for himself, one
+for Roderigo, one for Cassio. The servants
+circulate among the guests with jugs of wine;
+the crowd draws closer and looks on with curiosity.)/
+/(with glass in hand, to Cassio)/
+Come wet your whistle! Drink deep, gulp it down
+before song and glass both disappear!
+
+	JAGO /(sotto voce a Roderigo)/
+Lo ascolta.
+
+CASSIO
+Col vago suo raggiar
+chiama i cori a raccolta.
+
+RODERIGO
+Pur modesta essa è tanto.
+
+CASSIO
+Tu, Jago, canterai le sue lodi, ...
+
+JAGO /(piano a Roderigo)/
+Lo ascolta.
+/(forte a Cassio)/
+Io non sono che un critico.
+
+CASSIO
+... ed ella d’ogni lode è più bella.
+
+JAGO /(a Roderigo, a parte)/
+Ti guarda da quel Cassio.
+
+RODERIGO
+Che temi?
+
+JAGO /(a Roderigo)/
+Ei favella già con troppo bollor,
+la gagliarda giovinezza lo sprona,
+è un astuto seduttor che t’ingombra
+il cammino. Bada...
+
+RODERIGO
+Ebben?
+
+JAGO
+S’ei s’innebria è perduto!
+Fallo ber.
+/(ai tavernieri)/
+Qua, ragazzi, del vino!
+/(Jago riempie tre bicchieri: uno per sè, uno per
+Roderigo, uno per Cassio. I tavernieri circolano colle
+anfore; la folla gli si avvicina e guarda
+curiosamente.)/
+(/a Cassio, col bicchiere in mano/)
+Inaffia l’ugola! Trinca, tracanna
+prima che svampino canto e bicchier!
+
+CASSIO /(with glass in hand, to Iago)/
+This true manna of the vine
+with charming visions clouds the mind.
+
+IAGO /(to everyone)/
+Who has ever succumbed to the Bacchic ode
+strange and fantastic,
+come, drink with me, drink with me,
+drink, drink, /etc./
+... come, drink with me!
+
+RODERIGO, CYPRIOTS, SOLDIERS
+Who has ever succumbed, /etc/.
+he drinks with you,...
+
+IAGO
+Drink, drink...
+
+RODERIGO, CYPRIOTS, SOLDIERS
+... drinks with you...
+
+IAGO
+... drink, drink...
+
+RODERIGO, CYPRIOTS, SOLDIERS
+... drinks with you...
+... drinks...
+
+IAGO
+... drink!
+
+RODERIGO, CYPRIOTS, SOLDIERS
+... drinks, drinks, drinks with you!
+
+IAGO /(to Roderigo, indicating Cassio)/
+One more sip and he’s tight as a drum.
+
+RODERIGO /(to Iago)/
+One more sip and he’s tight as a drum.
+
+IAGO /(to all)/
+When I get drunk the world vibrates!
+I challenge the ironic Deity and fate!
+
+CASSIO /(drinking some more wine)/
+Like a melodious lute I quiver;
+pleasure cavorts around my path!
+
+IAGO
+Who has ever succumbed, /etc./
+
+	CASSIO /(a Jago, col bicchiere in mano)/
+Questa del pampino verace manna
+di vaghe annugola nebbie il pensier.
+
+JAGO /(a tutti)/
+Chi all’esca ha morso del ditirambo
+spavaldo e strambo,
+beva con me, beva con me,
+beva, beva, /ecc./
+... beva con me!
+
+RODERIGO, CIPRIOTI, SOLDATI
+Chi all’esca ha morso, /ecc./
+beve con te, beve con te...
+
+JAGO
+Beva, beva...
+
+RODERIGO, CIPRIOTI, SOLDATI
+... beve con te...
+
+JAGO
+... beva, beva...
+
+RODERIGO, CIPRIOTI, SOLDATI
+... beve con te...
+... beve...
+
+JAGO
+... beva!
+
+RODERIGO, CIPRIOTI, SOLDATI
+... beve, beve, beve con te!
+
+JAGO /(a Roderigo, indicando Cassio)/
+Un altro sorso e brillo egli è.
+
+RODERIGO /(a Jago)/
+Un altro sorso e brillo egli è.
+
+JAGO /(a tutti)/
+Il mondo palpita quand’io son brillo!
+Sfido l’ironico Nume e il destin!
+
+CASSIO /(bevendo ancora)/
+Come un armonico liuto oscillo;
+la gioia scalpita sul mio cammin!
+
+JAGO
+Chi all’esca ha morso, /ecc./
+
+	
+RODERIGO, CYPRIOTS, SOLDIERS, THEN IAGO
+Who has ever succumbed, /etc/.
+
+IAGO /(to Roderigo)/
+One more sip and he’s tight as a drum.
+
+RODERIGO /(to Iago)/
+One more sip and he’s tight as a drum.
+
+IAGO /(out loud, to all)/
+From the potent flagon cowards fly...
+
+CASSIO /(interrupting)/
+I’m not afraid to bare my soul! ...
+/(drinks)/
+
+IAGO /(interrupting)/
+... who have evil thoughts to hide.
+
+CASSIO
+I fear not, I fear not the truth ...
+/(staggering)/
+
+IAGO
+Who has ever suc...
+... to the Bacchic...
+Drink with me, drink with me.
+
+CASSIO
+... I fear not the truth, /etc/.
+... I fear not the truth, and I drink,
+and I drink and I drink, and...
+
+IAGO
+Ah! Drink with me!
+
+SOME BYSTANDERS /(laughing)/
+Aha, aha, /etc/.
+... aha, aha, /etc./
+
+CASSIO
+The cup...
+
+IAGO /(to Roderigo)/
+He’s drunk as a lord...
+... Away, provoke him
+to an argument; he’s full of quarrel,
+will strike you, general uproar will ensue!
+Think, that by doing thus you can disturb
+the happy Othello’s first night of love.
+
+	RODERIGO, CIPRIOTI, SOLDATI, poi JAGO
+Chi all’esca ha morso, /ecc./
+
+JAGO /(a Roderigo)/
+Un altro sorso e brillo egli è.
+
+RODERIGO (/a Jago/)
+Un altro sorso e brillo egli è.
+
+JAGO /(forte, a tutti)/
+Fuggan dal vivido nappo i codardi...
+
+CASSIO /(interrompendo)/
+In fondo all’anima ciascun mi guardi!...
+/(beve)/
+
+JAGO /(interrompendo)/
+... che in cor nascondono frodi.
+
+CASSIO
+Non temo, non temo il ver...
+/(barcollando)/
+
+JAGO
+Chi all’esca ha mor...
+... del ditiramb...
+Bevi con me, bevi con me.
+
+CASSIO
+... non temo il ver, /ecc/.
+... non temo il ver, e bevo, e bevo,
+e bevo, e bevo, e bevo, e...
+
+JAGO
+Ah! bevi, bevi con me!
+
+UN GRUPPO DEI PRESENTI /(ridendo)/
+Aha, aha, /ecc./
+... aha, aha, /ecc./
+
+CASSIO
+Del calice...
+
+JAGO /(a Roderigo)/
+Egli è briaco fradicio...
+... Ti scuoti, lo trascina
+a contesa; è pronto all’ira,
+t’offenderà, ne seguirà tumulto!
+Pensa che puoi così del lieto Otello
+turbar la prima vigilia d’amor!
+
+	
+CASSIO
+The brim... of the cup...
+/(his voice thickening even more)/
+The brim... of the cup... the brim...
+/(The others are laughing at him.)/
+
+RODERIGO /(aside, replying to Iago)/
+And ’tis that that spurs me on.
+
+CASSIO
+... is pur... pur...
+purple-stained ...
+
+RODERIGO, CYPRIOTS, SOLDIERS
+Ah, aha, aha, aha!
+Drink, drink with me/, etc./
+
+IAGO
+Drink, drink!
+
+RODERIGO, IAGO, CYPRIOTS, SOLDIERS
+Drink, drink, drink with me!
+
+CASSIO
+I drink drink, drink with you!
+/(They all drink.)/
+
+MONTANO /(coming from the castle, to Cassio)/
+Captain, the watch awaits you on the platform.
+
+CASSIO /(staggering)/
+Let’s go then!
+
+MONTANO
+What’s this I see?
+
+IAGO /(to Montano, approaching him closely)/
+Every night in like manner
+does Cassio prelude sleep.
+
+MONTANO
+Othello shall know about it!
+
+CASSIO
+Let’s go the the platform.
+
+RODERIGO /(laughing)/
+Ah! ah!...
+... Ah! ah!
+
+	CASSIO
+Del calice... gl’orli...
+/(con voce sempre più soffocata)/
+Del calice... gl’orli... gl’orli...
+/(Gli altri ridono di Cassio.)/
+
+RODERIGO (/risponde, a parte, a Jago/)
+Ed è ciò che mi spinge.
+
+CASSIO
+... s’impor... s’impor...
+s’imporporino...
+
+RODERIGO, CIPRIOTI, SOLDATI
+Ah, aha, aha, aha! (rip.)
+Bevi, bevi con me, /ecc./
+
+JAGO
+Bevi, bevi!
+
+RODERIGO, JAGO, CIPRIOTI, SOLDATI
+Bevi, bevi, bevi con me!
+
+CASSIO
+Bevo, bevo, bevo con te!
+/(Tutti bevono.)/
+
+MONTANO /(venendo dal castello, si rivolge a Cassio)/
+Capitano, v’attende la fazione ai baluardi.
+
+CASSIO /(barcollando)/
+Andiamo!
+
+MONTANO
+Che vedo?
+
+JAGO /(a Montano, avvicinandosi a lui)/
+Ogni notte in tal guisa
+Cassio preludia il sonno.
+
+MONTANO
+Otello il sappia!
+
+CASSIO
+Andiamo ai baluardi.
+
+RODERIGO /(ridendo)/
+Ah! ah!...
+... Ah! ah!
+
+MEN
+Ah! ah!
+
+CASSIO
+Who laughs?
+
+RODERIGO /(provoking him)/
+I laugh at a drunkard!
+
+CASSIO
+Defend yourself!
+/(flinging himself at Roderigo)/
+Scoundrel!
+
+RODERIGO /(defending himself)/
+Drunken rogue!
+
+CASSIO
+Knave! No one can save you now!
+
+MONTANO
+/(separating them by force and turning to Cassio)/
+Hold your hand, sir, I pray you.
+
+CASSIO /(to Montano)/
+I’ll crack your head in two
+if you seek to interfere!
+
+MONTANO
+Words of a drunkard...
+
+CASSIO
+A drunkard?
+/(He draws his sword. Montano draws his too./
+/A furious fight ensues. The crowd draws back.)/
+
+IAGO (/aside to Roderigo/)
+Go to the port; with all the strength you have
+cry out: Revolt! Revolt!
+Go! Spread tumult, horror through the town,
+let the bell sound the alarm!
+(/Roderigo runs off/. /Iago quickly turns to the/
+/two combatants.)/
+Gentlemen, cease this barbarous brawl!
+
+WOMEN /(fleeing)/
+Let’s away!
+
+IAGO
+Heavens! Montano’s bleeding fast!
+What a furious fight!
+	UOMINI
+Ah! ah!
+
+CASSIO
+Chi ride?
+
+RODERIGO /(provocandolo)/
+Rido d’un ebbro!
+
+CASSIO
+Bada alle tue spalle!
+/(scagliandosi contro Roderigo)/
+Furfante!
+
+RODERIGO /(difendendosi)/
+Briaco ribaldo!
+
+CASSIO
+Marrano! Nessun più ti salva!
+
+MONTANO
+/(separandoli a forza e dirigendosi a Cassio)/
+Frenate la mano, signor, ve ne prego.
+
+CASSIO (/a Montano/)
+Ti spacco il cerebro
+se qui t’interponi!
+
+MONTANO
+Parole d’un ebbro...
+
+CASSIO
+D’un ebbro?
+/(Sguaina la spada. Montano s’arma anch’esso./
+/Assalto furibondo. La folla si ritrae.)/
+
+JAGO /(a parte a Roderigo)/
+Va al Porto, con quanta più possa
+ti resta, gridando: sommossa! sommossa!
+Va! Spargi il tumulto, l’orror;
+le campane risuonino a stormo.
+/(Roderigo esce correndo. Jago si rivolge/
+/rapidamente ai due combattenti.)/
+Fratelli! l’immane conflitto cessate!
+
+DONNE /(fuggendo)/
+Fuggiam!
+
+JAGO
+Ciel! già gronda di sangue Montano!
+Tenzon furibonda!
+	
+WOMEN
+Let’s away! Let’s away!
+
+IAGO
+Hold!...
+
+MEN
+Hold!...
+
+IAGO
+Hold!
+
+MEN
+Hold!
+
+WOMEN
+They’re killing each other!
+
+MEN
+Peace!
+
+IAGO
+No one can stop this brawling now!
+/(to the bystanders)/
+Cry the alarm!
+They are possessed by Satan!
+
+MEN
+To arms! To arms!
+
+WOMEN, then ALL
+Help! Help! /etc/.
+
+MEN
+To arms! To arms!
+
+WOMEN, THEN ALL
+Help! /etc/.
+/(Meanwhile the tocsin is pealing; the fight continues
+and the women flee. Othello enters followed by
+torchbearers. The bell falls silent.)/
+
+
+OTHELLO
+Down with your weapons!
+/(The combatants stop fighting.)/
+How now! What is the matter here?
+Am I among Saracens?
+Or has the Ottomites’ rage infected you
+with homicidal fury towards each other?
+
+	DONNE
+Fuggiam! Fuggiam!
+
+JAGO
+Tregua!...
+
+UOMINI
+Tregua!...
+
+JAGO
+Tregua!
+
+UOMINI
+Tregua!
+
+DONNE
+S’uccidono!
+
+UOMINI
+Pace!
+
+JAGO
+Nessun più raffrena quel nembo pugnace!
+/(agli astanti)/
+Si gridi l’allarme!
+Satana gl’invade!
+
+UOMINI
+All’armi! all’armi!
+
+DONNE, poi TUTTI
+Soccorso! soccorso! /ecc./
+
+UOMINI
+All’armi! all’armi!
+
+DONNE, poi TUTTI
+Soccorso! /ecc./
+/(Intanto, squillano campane a stormo; il
+combattimento continua e le donne fuggono. Entra
+Otello seguito da gente con fiaccole. Cessano le campane.)/
+
+
+OTELLO
+Abbasso le spade!
+/(I combattenti s’arrestano.)/
+Olà! che avvien?
+Son io fra i Saraceni?
+O la turchesca rabbia è in voi trasfusa
+da sbranarvi l’un l’altro ?
+
+	
+Honest Iago, for that love
+you bear me, speak.
+
+IAGO
+I do not know...
+Here all were courteous friends but now,
+and cheerful too ... and then quite suddenly,
+as if an evil planet had appeared
+and cast a spell of witchcraft on men’s minds,
+swords out and tilting furiously at each other.
+Would I had severed these feet
+before they brought me here!
+
+OTHELLO
+How comes it, Cassio, you are thus forgot?
+
+CASSIO
+Your mercy... pardon me...
+I cannot speak...
+
+OTHELLO
+Montano...
+
+MONTANO /(supported by a soldier)/
+I am wounded...
+
+OTHELLO
+Wounded! Now by heaven
+my blood begins to boil! Ah! Anger
+puts to flight our guardian angel!
+/(Desdemona enters. Othello quickly goes to her.)/
+What? My gentle Desdemona too
+has had her dreams disturbed on your
+account? Cassio, you have lost your captaincy.
+/(Cassio lets his sword fall and Iago picks it up.)/
+
+IAGO
+/(handing the sword to one of the soldiers and speaking
+aside)/
+Oh! What a triumph for me!
+
+OTHELLO
+Iago, go about the frightened town
+with this patrol, restore the shattered peace.
+/(Iago leaves.)/
+Someone help Montano.
+/(Montano is helped into the castle.)/
+Let every one return to his own house.
+/(with an imperious gesture)/
+
+	Onesto Jago, per quell’amor
+che tu mi porti, parla.
+
+JAGO
+Non so...
+Qui tutti eran cortesi amici dianzi,
+e giocondi... ma ad un tratto,
+come se un pianeta maligno
+avessi a quelli smagato il senno,
+sguainando l’arme s’avventano furenti.
+Avessi io prima stroncati i piè
+che qui m’addusser!
+
+OTELLO
+Cassio, come obliasti te stesso a tal segno ?
+
+CASSIO
+Grazia... perdon...
+Parlar non so...
+
+OTELLO
+Montano...
+
+MONTANO /(sostenuto da un soldato)/
+Son ferito...
+
+OTELLO
+Ferito! Pel cielo
+già il sangue mio ribolle! Ah! l’ira volge
+l’angelo nostro tutelare in fuga!
+/(Entra Desdemona. Otello le accorre.)/
+Che? la mia dolce Desdemona
+anch’essa per voi distolta da’ suoi sogni?!
+Cassio, non sei più capitano.
+/(Cassio lascia cadere la spada che è raccolta da Jago.)/
+
+JAGO
+/(porgendo la spada di Cassio a un soldato e
+parlando a parte)/
+Oh! mio trionfo!
+
+OTELLO
+Jago, tu va nella città sgomenta
+con quella squadra a ricompor la pace.
+/(Jago parte.)/
+Si soccorra Montano.
+/(Montano è accompagnato nel castello.)/
+Al proprio tetto ritorni ognun.
+/(con gesto imperioso)/
+
+I shall not leave this place
+until I see the battlements deserted.
+/(All depart. Othello makes a sign to the/
+/torchbearers who accompanied him to return to/
+/the castle. He and Desdemona remain alone.)/
+
+Now as the darkness deepens
+all harsh sounds die away,
+and now my turbulent heart
+finds peace in this embrace
+and calm refreshment.
+Let cannons roar and all the world collapse
+if after the immeasurable wrath
+comes this immeasurable love!
+
+DESDEMONA
+My splendid warrior! What anguish,
+what deep sighs and high hopes
+have strewn the path to our glad union!
+Oh, how sweet to murmur thus together!
+Do you remember?
+You used to tell me of your life in exile,
+of violent deeds and suffering long endured,
+and I would listen, transported by the tales
+that terrified, but thrilled my heart as well.
+
+OTHELLO
+I would describe the clash of arms, the fight
+and violent thrust toward the fatal breach,
+the assault, when hands, like grisly tendrils,
+clung to bastions amid the hissing darts.
+
+DESDEMONA
+Then you would lead me to the glaring desert,
+to scorching sands, the country of your birth;
+and then you would relate your sufferings,
+tell me of chains and slavery’s agony.
+
+OTHELLO
+Softened was your lovely face by tears,
+your lips by sighs, when I my story told;
+upon my darkness shone a radiance,
+heaven and all the stars in benediction!
+
+DESDEMONA
+And I descried upon your dusky temples
+genius’ ethereal beauty shining there.
+
+	Io da qui non mi parto
+se pria non vedo deserti gli spaldi.
+/(La gente parte. Otello fa cenno agli uomini
+colle fiaccole che lo accompagnavano di rientrare
+il castello. Restano soli Otello e Desdemona.)/
+
+Già nella notte densa
+s’estingue ogni clamor,
+già il mio cor fremebondo
+s’ammansa in quest’amplesso
+e si rinsensa.
+Tuoni la guerra e s’inabissi il mondo
+se dopo l’ira immensa
+vien quest’immenso amor!
+
+DESDEMONA
+Mio superbo guerrier! quanti tormenti,
+quanti mesti sospiri e quanta speme
+ci condusse ai soavi abbracciamenti!
+Oh! come è dolce il mormorar insieme!
+Te ne rammenti?
+Quando narravi l’esule tua vita
+e i fieri eventi e i lunghi tuoi dolor,
+ed io t’udia coll’anima rapita
+in quei spaventi, coll’estasi nel cor.
+
+OTELLO
+Pingea dell’armi il fremito, la pugna
+e il vol gagliardo alla breccia mortal,
+l’assalto, orribil edera, coll’ugna
+al baluardo e il sibilante stral!
+
+DESDEMONA
+Poi mi guidavi ai fulgidi deserti,
+all’arse arene, al tuo materno suol;
+narravi allor gli spasimi sofferti
+e le catene e dello schiavo il duol.
+
+OTELLO
+Ingentilia di lagrime la storia
+il tuo bel viso e il labbro di sospir;
+scendean sulle mie tenebre la gloria,
+il paradiso e gli astri a benedir!
+
+DESDEMONA
+Ed io vedea fra le tue tempie oscure
+splender del genio l’eterea beltà.
+
+OTHELLO
+You loved me for the dangers I had passed,
+and I loved you that you did pity them.
+
+DESDEMONA
+I loved you for the dangers you had passed,
+and you loved me that I did pity them.
+
+OTHELLO
+And you loved me...
+
+DESDEMONA
+And you loved me...
+
+OTHELLO
+... and I loved you...
+... that you did pity them.
+
+DESDEMONA
+... that I did pity them.
+
+OTHELLO
+Let death come now, that in the ecstasy
+of this embrace I meet my hour of hours!
+/(The storm clouds have now completely/
+/(disappeared. There are stars in the sky and on/
+/the rim of the horizon can be seen the azure/
+/disc of the rising moon.)/
+Such is the rapture of my soul, I fear
+that never more to me may be vouchsafed
+to know such bliss in all the hidden future of my fate.
+
+DESDEMONA
+May heaven dispel all cares
+and love change not throughout the changing years.
+
+
+OTHELLO
+To that prayer of yours
+may all the heavenly host reply ‘‘amen’’!
+
+DESDEMONA
+‘‘Amen’’ be the reply!
+
+OTHELLO
+/(leaning against the parapet)/
+Ah! Joy floods my breast so piercingly
+that I must lay me down and pant for breath...
+A kiss...
+
+	OTELLO
+E tu m’amavi per le mie sventure,
+ed io t’amavo per la tua pietà.
+
+DESDEMONA
+Ed io t’amavo per le tue sventure,
+e tu m’amavi per la mia pietà.
+
+OTELLO
+E tu m’amavi...
+
+DESDEMONA
+E tu m’amavi...
+
+OTELLO
+... ed io t’amavo...
+... per la tua pietà.
+
+DESDEMONA
+... per la mia pietà.
+
+OTELLO
+Venga la morte! e mi colga nell’estasi
+di questo amplesso il momento supremo!
+/(Il cielo si è tutto rasserenato: si vedono/
+/alcune stelle e sul lembo dell’orizzonte il/
+/riflesso ceruleo della nascente luna.)/
+Tale è il gaudio dell’anima che temo,
+temo che più non mi sarà concesso
+quest’attimo divino
+nell’ignoto avvenir del mio destino.
+
+DESDEMONA
+Disperda il ciel gli affanni
+e amor non muti col mutar degli anni.
+
+
+OTELLO
+A questa tua preghiera
+“amen” risponda la celeste schiera!
+
+DESDEMONA
+“Amen” risponda!
+
+OTELLO
+/(appoggiandosi ad un rialzo degli spaldi)/
+Ah! la gioia m’innonda si fieramente
+che ansante mi giacio...
+Un bacio...
+
+DESDEMONA
+Othello!
+
+OTHELLO
+... a kiss...
+another kiss!
+/(rising and looking at the sky)/
+The blazing Pleiades sinks beneath the waves.
+
+DESDEMONA
+The night is far advanced.
+
+OTHELLO
+Come... Venus is radiant!
+
+DESDEMONA
+Othello!
+/(Clasped in each other’s arms they go towards the castle.)/
+
+
+
+	DESDEMONA
+Otello!
+
+OTELLO
+... un bacio...
+ancora un bacio!
+/(alzandosi e mirando il cielo)/
+Già la pleiade ardente in mar discende.
+
+DESDEMONA
+Tarda è la notte.
+
+OTELLO
+Vien... Venere splende!
+
+DESDEMONA
+Otello!
+/(S’avviano abbracciati verso il castello.)/
+
+
+
+ACT TWO
+
+/A large chamber on the ground floor of the
+castle. Glazed arches and a terrace divide the
+chamber from the gardens beyond./
+
+IAGO
+/(on the near side of the terrace, to Cassio,
+on the far side)/
+Don’t torment yourself.
+Heed what I say, and soon you’ll be restored
+to the frolicsome embrace of mistress Bianca,
+proud captain with your golden hilt
+and decorated sword-belt.
+
+CASSIO
+Don’t flatter me.
+
+IAGO
+Listen carefully to me.
+You must be aware that Desdemona
+is now our general’s general;
+he lives for her alone.
+Do you beseech her that her gentle spirit
+may intercede for you,
+and your pardon is assured.
+
+CASSIO
+But how shall I speak to her?
+
+	ATTO SECONDO
+
+/Una sala terrena nel castello. Un’invetriata e un/
+/verone la dividono da un grande giardino./
+
+
+JAGO
+/(al di qua del verone, a Cassio,
+chi è al di là)/
+Non ti crucciar.
+Se credi a me, tra poco farai ritorno
+ai folleggianti amori di Monna Bianca,
+altiero capitano, coll’elsa d’oro
+e col balteo fregiato.
+
+CASSIO
+Non lusingarmi.
+
+JAGO
+Attendi a ciò ch’io dico.
+Tu dêi saper che Desdemona
+è il Duce del nostro Duce,
+sol per essa ei vive.
+Pregala tu, quell’anima cortese
+per te interceda,
+e il tuo perdono è certo.
+
+CASSIO
+Ma come favellarle?
+
+IAGO
+It is her custom in the afternoon to stroll
+in the shade of those trees with my wife.
+Wait for her there.
+The way to your salvation now lies open;
+go to it!
+/(Cassio walks away. Iago watches him.)/
+Go to it! Your end I see already.
+You are driven by your daemon
+and I am that daemon,
+and I am dragged along by mine,
+the inexorable God
+in whom I believe.
+/(walking away from the terrace without another glance/
+/at Cassio, who has now vanished among the trees)/
+I believe in a cruel God
+who created me in his image
+and who in fury I name.
+From the very vileness of a germ
+or an atom, vile was I born.
+I am a wretch because I am a man,
+and I feel within me the primeval slime.
+Yes! This is my creed!
+I believe with a heart as steadfast
+as that of the widow in church,
+that the evil I think
+and that which I perform
+I think and do by destiny’s decree.
+I believe the just man to be a mocking actor
+in face and heart;
+that all his being is a lie,
+tear, kiss, glance,
+sacrifice and honour.
+And I believe man the sport of evil fate
+from the germ of the cradle
+to the worm of the grave.
+After all this mockery then comes Death.
+And then?... And then?
+Death is nothingness,
+heaven an old wives’ tale.
+/(Desdemona appears, walking in the garden with Emilia./
+/Iago darts to the terrace, on the other side of which/
+/Cassio is standing.)/
+/(to Cassio)/
+There she is!... Cassio... it’s up to you!
+Now’s the moment.
+
+	JAGO
+È suo costume girsene a meriggiar
+fra quelle fronde colla consorte mia.
+Quivi l’aspetta.
+Or t’è aperta la via di salvazione;
+vanne.
+/(Cassio s’allontana. Jago lo segue coll’occhio.)/
+Vanne! la tua meta già vedo.
+Ti spinge il tuo dimone
+e il tuo dimon son io,
+e me trascina il mio,
+nel quale io credo
+inesorato Iddio:
+/(allontanandosi dal verone senza più guardar Cassio/
+/che sarà scomparso fra gli alberi)/
+Credo in un Dio crudel
+che m’ha creato simile a sè,
+e che nell’ira io nomo.
+Dalla viltà d’un germe
+o d’un atòmo vile son nato.
+Son scellerato perchè son uomo,
+e sento il fango originario in me.
+Sì! quest’è la mia fè!
+Credo con fermo cuor,
+siccome crede la vedovella al tempio,
+che il mal ch’io penso
+che da me procede
+per mio destino adempio.
+Credo che il giusto è un istrion beffardo
+e nel viso e nel cuor;
+che tutto è in lui bugiardo,
+lagrima, bacio, sguardo,
+sacrificio ed onor.
+E credo l’uom gioco d’iniqua sorte
+dal germe della culla
+al verme dell’avel.
+Vien dopo tanta irrision la Morte.
+E poi?... e poi?
+La Morte è il Nulla,
+è vecchia fola il Ciel.
+/(Si vede passare nel giardino Desdemona con/
+/Emilia. Jago si slancia al verone, al di là del quale è/
+/appostato Cassio.)/
+/(a Cassio)/
+Eccola!... Cassio... a te!
+Quest’è il momento.
+
+Rouse yourself... Here comes Desdemona.
+/(Cassio goes towards Desdemona, bows to her and steps closer.)/
+He’s made a move; he bows and approaches her.
+Now let Othello be brought hither!...
+Satan, assist my enterprise!
+Now they speak together...
+and, smiling, she turns her lovely face to him.
+/(Cassio and Desdemona are seen walking up and down/
+/in the garden.)/
+I need but a single ray of such a smile
+to drag Othello to his doom.
+Away...
+/(starting to walk quickly away, then stopping suddenly)/
+But fate plays into my hands.
+Here he comes... to my post, to work!
+/(He takes up a position by the terrace and stands there/
+/motionless, his eyes fixed upon Cassio and Desdemona./
+/Othello enters; Iago pretends not to have seen him and/
+/speaks as if to himself.)/
+I like not that...
+
+OTHELLO /(approaching Iago)/
+What are you saying?
+
+IAGO
+Nothing... You here?
+An idle word escaped my lips.
+
+OTHELLO
+The man now leaving my wife, is that Cassio?
+/(They both turn away from the terrace.)/
+
+IAGO
+Cassio? No... that man gave
+a guilty start on seeing you.
+
+OTHELLO
+I believe it was Cassio.
+
+IAGO
+My lord...
+
+OTHELLO
+What is it?
+
+IAGO
+Did Cassio, in the early days of your courtship,
+not know Desdemona?
+
+	Ti scuoti... vien Desdemona.
+/(Cassio va verso Desdemona, la saluta, le s’accosta.)/
+S’è mosso; la saluta e s’avvicina.
+Or qui si tragga Otello!...
+Aiuta, aiuta Sàtana il mio cimento!
+Già conversano insieme...
+ed essa inclina, sorridendo, il bel viso.
+/(Si vedono ripassare nel giardino Cassio e/
+/Desdemona.)/
+Mi basta un lampo sol di quel sorriso
+per trascinar Otello alla ruina.
+Andiam...
+/(fa per avviarsi rapido ma si arresta subitamente)/
+Ma il caso in mio favor s’adopra.
+Eccolo... al posto, all’opra!
+/(Si colloca immoto al verone guardando fissamente/
+/verso il giardino dove stanno Cassio e Desdemona./
+/Entra Otello; Iago, simulando di non averlo visto,/
+/finge di parlare frasè.)/
+Ciò m’accora...
+
+OTELLO /(avvicinandosi a Jago)/
+Che parli?
+
+JAGO
+Nulla... Voi qui?
+Una vana voce m’uscì dal labbro.
+
+OTELLO
+Colui che s’allontana dalla mia sposa, è Cassio?
+/(E l’uno e l’altro si staccano dal verone.)/
+
+JAGO
+Cassio? no... quei si scosse
+come un reo nel vedervi.
+
+OTELLO
+Credo che Cassio ei fosse.
+
+JAGO
+Mio signore...
+
+OTELLO
+Che brami?
+
+JAGO
+Cassio, nei primi dì del vostro amor,
+Desdemona non conosceva?
+
+OTHELLO
+He did. Why do you ask?
+
+IAGO
+A thought crossed my mind,
+whimsical, but without malice.
+
+OTHELLO
+Tell me your thought, Iago.
+
+IAGO
+Did you confide in Cassio?
+
+OTHELLO
+He would often carry
+a gift or note to my bride.
+
+IAGO
+Indeed?
+
+OTHELLO
+Ay, indeed. Do you not think him honest?
+
+IAGO (/imitating Othello/)
+Honest?
+
+OTHELLO
+What are you hiding from me?
+
+IAGO
+What am I hiding, my lord?
+
+OTHELLO
+‘‘What am I hiding, my lord?’’
+By heaven, you echo me!...
+The inner chamber of your brain
+harbours some terrible monster.
+Indeed, I heard you saying even now,
+‘‘ I like not that!’’
+What did you not like? You mentioned Cassio
+then did contract and purse your brow together.
+Come, speak if you love me!
+
+IAGO
+You know that I love you.
+
+OTHELLO
+Speak then without concealment
+or ambiguity.
+Speak as you think,
+
+	OTELLO
+Sì. Perchè fai tale inchiesta?
+
+JAGO
+Il mio pensier è vago d’ubbie,
+non di malizia.
+
+OTELLO
+Di’ il tuo pensiero, Jago.
+
+JAGO
+Vi confidaste a Cassio?
+
+OTELLO
+Spesso un mio dono o un cenno
+portava alla mia sposa.
+
+JAGO
+Dassenno?
+
+OTELLO
+Sì, dassenno. Noi credi onesto?
+
+JAGO /(imitando Otello)/
+Onesto ?
+
+OTELLO
+Che ascondi nel tuo core?
+
+JAGO
+Che ascondo in cor, signore?
+
+OTELLO
+“Che ascondo in cor, signore?”
+Pel cielo, tu sei l’eco dei detti miei!...
+Nel chiostro dell’anima
+ricetti qualche terribil mostro.
+Sì; ben t’udii poc’anzi mormorar,
+“Ciò m’accora!”
+Ma di che t’accoravi? Nomini Cassio
+e allora tu corrughi la fronte.
+Suvvia, parla se m’ami!
+
+JAGO
+Voi sapete ch’io v’amo.
+
+OTELLO
+Dunque senza velami
+t’esprimi e senza ambagi.
+T’esca fuor dalla gola
+
+	
+and give your worst of thoughts
+the worst of words!
+
+IAGO
+Even if my heart were in your hand
+that thought you would not know.
+
+OTHELLO
+Ah!...
+
+IAGO
+/(coming very close to Othello and speaking in an undertone)/
+Beware, my lord, of jealousy!
+’Tis a spiteful monster, livid,
+blind, with her own venom
+self-poisoned, with a vivid
+wound upon her bosom.
+
+OTHELLO
+O misery!
+No! I have no use for baseless doubts.
+Before doubt comes enquiry,
+after doubt comes proof,
+after the proof –
+Othello has his supreme laws –
+away with love and jealousy together.
+
+IAGO /(with greater urgency)/
+A statement such as that
+breaks the seal upon my lips.
+I speak not yet of proof,
+but, bounteous Othello, look to it,
+for often natures that are free and noble
+do not suspect deception: look to it.
+Observe well Desdemona’s speech;
+a word could restore trust
+or reaffirm suspicion.
+
+DISTANT VOICES
+Whereso’er you turn your gaze
+light shines, hearts are afire,
+whereso’er you walk cascades
+of blossoms fill the air.
+Here among lilies and roses,
+as if to an altar chaste,
+fathers, children and matrons,
+come with serenades.
+
+IAGO /(in an undertone as before)/
+Here she comes... Observe her well!
+
+	il tuo più rio pensiero
+colla più ria parola!
+
+JAGO
+S’anco teneste in mano
+tutta l’anima mia, nol sapreste.
+
+OTELLO
+Ah!...
+
+JAGO
+/(avvicinandosi molto ad Otello e sottovoce)/
+Temete, signor, la gelosia!
+È un’idra fosca, livida,
+cieca, col suo veleno
+se stessa attosca, vivida
+piaga le squarcia il seno.
+
+OTELLO
+Miseria mia!
+No! il vano sospettar nulla giova.
+Pria dei dubbio l’indagine,
+dopo il dubbio la prova –
+dopo la prova –
+Otello ha sue leggi supreme –
+amore e gelosia vadan dispersi insieme.
+
+JAGO /(con piglio più ardito)/
+Un tal proposto
+spezza di mie labbra il suggello.
+Non parlo ancor di prova,
+pur, generoso Otello, vigilate;
+soventi le oneste e ben create coscienze
+non sospettano la frode: vigilate.
+Scrutate le parole di Desdemona;
+un detto può ricondur la fede,
+può affermar il sospetto.
+
+VOCI LONTANE
+Dove guardi splendono
+raggi, avvampan cuori,
+dove passi scendono
+nuvole di fiori.
+Qui fra gigli e rose,
+come a un casto altare,
+padri, bimbi, spose
+vengono a cantar.
+
+JAGO /(come prima, sottovoce)/
+Eccola... Vigilate!
+
+	
+/(Desdemona reappears in the garden, on the
+far side of the great central arch; she is
+surrounded by women of the island, children
+and Cypriot and Albanian sailors, who approach to offer
+flowers, branches of blossom and other gifts. Some
+accompany their own singing on the ‘‘guzla’’, a kind of
+mandolin, others play on small harps which hang
+around their necks.)/
+
+GROUP AROUND DESDEMONA
+Whereso’er you turn your gaze
+light shines, hearts are afire,
+whereso’er you walk, cascades
+of blossoms fill the air.
+Here among lilies and roses,
+as if to an altar chaste,
+fathers, children and matrons
+come with serenades.
+
+CHILDREN
+We proffer lilies, tender flowers,
+by angels borne to heavenly bowers,
+which ornament the gleaming mantle
+and gown of the Madonna gentle
+and her holy veil.
+
+MEN AND WOMEN
+While on the breezes wing
+aloft the accents gay,
+the nimble mandolin
+accompanies the lay.
+
+SAILORS
+/(offering trinkets of coral and pearl to Desdemona)/
+For you these shells and pearls and dyes
+we culled from caves beneath the brine.
+Desdemona with our gifts would we
+bedeck like an image in a shrine.
+
+CHILDREN AND WOMEN
+While on the breezes, /etc./
+
+WOMEN /(scattering leaves and flowers)/
+Take this flowery harvest we strew
+from our kirtles upon the ground for you,
+in showers upon the ground.
+The April air the bride’s golden hair
+doth in a shimmering aura of dew,
+sunlit, surround.
+
+	/(Si vede ricomparire Desdemona nel
+giardino dalla vasta apertura del fondo: essa
+è circondata da donne dell’isola, da fanciulli,
+da marinai ciprioti e albanesi, che si
+avanzano e le offrono fiori e rami fioriti ed
+altri doni. Alcuni s’accompagnono cantando
+sulla ‘‘guzla’’, una specie di mandola, altri
+hanno delle piccole arpe ad armacollo.)/
+
+GENTE INTORNO A DESDEMONA
+Dove guardi splendono
+raggi, avvampan cuori,
+dove passi scendono
+nuvole di fiori.
+Qui fra gigli e rose,
+come a un casto altare,
+padri, bimbi, spose
+vengono a cantar.
+
+FANCIULLI
+T’offriamo il giglio, soave stel,
+che in man degli angeli fu assunto in ciel,
+che abbella il fulgido manto e la gonna
+della Madonna
+e il santo vel.
+
+UOMINI E DONNE
+Mentre all’aura vola,
+vola lieta la canzon, (rip.)
+l’agile mandòla (rip.)
+ne accompagna il suon. (rip.)
+
+MARINAI
+/(offrendo a Desdemona dei monili di corallo e di perle)/
+A te le porpore, le perle e gli ostri
+nella voragine còlti del mar.
+Vogliam Desdemona coi doni nostri
+come un’immagine sacra adornar. (rip.)
+
+FANCIULLI, DONNE
+Mentre all’aura vola, /ecc/.
+
+DONNE /(spargendo fronde e fiori)/
+A te, a te la florida messe dai grembi
+spargiam, spargiam, al suolo, a nembi,
+a nembi spargiamo al suol.
+L’april circonda la sposa bionda
+d’un’etra rorida che vibra,
+che vibra al Sol.
+
+CHILDREN, MEN
+While on the breezes wing, /etc/.
+
+ALL
+Whereso’er you turn your gaze,
+light shines, hearts are afire;
+whereso’er you walk, cascades
+of blossoms fill the air.
+To this bower of lilies and roses,
+as if to an altar chaste,
+fathers, children and matrons
+come with serenades.
+
+DESDEMONA
+The sky is shining, breezes
+dance, flowers scent the air...
+
+OTHELLO /(gently moved)/
+That song subdues my heart!
+
+DESDEMONA
+... In my heart the songs
+of joy, love, hope I hear.
+
+IAGO /(aside)/
+Beauty and love are in sweet harmony.
+
+CHILDREN, MEN AND WOMEN
+May you be happy!...
+
+OTHELLO
+If she be false to me...
+
+DESDEMONA
+Joy and love sing in my breast!
+
+OTHELLO
+...then Heaven mocks itself!
+
+IAGO
+...But I’ll untune the strings that make this music!
+
+CHILDREN, MEN AND WOMEN
+... May you be happy! Farewell!
+Here Love is lord!
+
+OTHELLO
+That song subdues my heart.
+
+IAGO /(under his breath)/
+I’ll untune the strings that make this music!
+	FANCIULLI, UOMINI
+Mentre all’aura vola, /ecc./
+
+TUTTI
+Dove guardi splendono
+raggi, avvampan cuori,
+dove passi, scendono
+nuvole di fiori.
+Qui fra gigli e rose
+come a un casto altare,
+padri, bimbi, spose,
+vengono a cantar.
+
+DESDEMONA
+Splende il cielo, danza
+l’aura, olezza il fior...
+
+OTELLO /(soavemente commosso)/
+Quel canto mi conquide!
+
+DESDEMONA
+... Gioia, amor, speranza
+canton nel mio cuor.
+
+JAGO /(a parte)/
+Beltà ed amor in dolce inno concordi!...
+
+FANCIULLI, UOMINI E DONNE
+Vivi felice!...
+
+OTELLO
+S’ella m’inganna...
+
+DESDEMONA
+Gioia, amor, canton nel mio cor!
+
+OTELLO
+... il ciel se stesso irride!
+
+JAGO
+... I vostri infrangerò soavi accordi!
+
+FANCIULLI, UOMINI E DONNE
+... Vivi felice! addio!
+Qui regna Amor!
+
+OTELLO
+Quel canto mi conquide.
+
+JAGO /(sommessamente)/
+I vostri infrangerò soavi accordi!
+	
+/(Desdemona kisses the heads of some of the children,
+several women kiss the hem of her gown and she
+presents a purse to the sailors. The group disperses.
+Desdemona, followed by Emilia, enters the chamber and
+approaches Othello.)/
+
+DESDEMONA /(to Othello)/
+A man that languishes in your displeasure
+has sent me with a suit.
+
+OTHELLO
+Who is’t you mean?
+
+DESDEMONA
+Cassio.
+
+OTHELLO
+Was it he who spoke with you just now
+under those trees?
+
+DESDEMONA
+It was he, and his grief
+so moved me by its sincerity
+that he deserves forgiveness.
+For him I intercede, for him I plead.
+Forgive him.
+
+OTHELLO
+Not now.
+
+DESDEMONA
+Do not deny me.
+Forgive him.
+
+OTHELLO
+Not now!
+
+DESDEMONA
+Why does your voice sound harsh?
+Are you not well?
+
+OTHELLO
+My temples throb.
+
+DESDEMONA /(taking out her handkerchief and
+making as if to bind Othello’s temples)/
+The troublesome fever will away
+if with this soft linen
+I bind your head.
+
+	/(Desdemona bacia la testa d’alcuni tra i fanciulli, e
+alcune donne le baciono il lembo della veste, ed
+essa porge una borsa ai marinai, la gente
+s’allontana. Desdemona, seguita poi da Emilia, entra
+nella sala e s’avanza verso Otello.)/
+
+DESDEMONA /(a Otello)/
+D’un uom che geme sotto il tuo disdegno
+la preghiera ti porto.
+
+OTELLO
+Chi è costui?
+
+DESDEMONA
+Cassio.
+
+OTELLO
+Era lui che ti parlava
+sotto quelle fronde?
+
+DESDEMONA
+Lui stesso, e il suo dolor
+che in me’s infonde tant’è verace
+che di grazia è degno.
+Intercedo per lui, per lui ti prego.
+Tu gli perdona.
+
+OTELLO
+Non ora.
+
+DESDEMONA
+Non oppormi il tuo diniego.
+Gli perdona.
+
+OTELLO
+Non ora!
+
+DESDEMONA
+Perchè torbida suona la voce tua?
+qual pena t’addolora?
+
+OTELLO
+M’ardon le tempie.
+
+DESDEMONA /(spiegando il suo fazzoletto
+come per fasciare la fronte di Otello)/
+Quell’ardor molesto svanirà,
+se con questo morbido lino
+la mia man ti fascia.
+
+OTHELLO /(throwing the handkerchief to the ground)/
+I have no need of that.
+
+DESDEMONA
+You’re vexed, my lord.
+
+OTHELLO
+Leave me alone!
+/(Emilia picks up the handkerchief.)/
+
+DESDEMONA
+If I in ignorance, my lord, have you offended,
+O say the sweet and happy word of pardon.
+
+OTHELLO /(aside)/
+Haply because I am not practised
+in the deceitful arts of love...
+
+DESDEMONA
+Your loving bride am I,
+humble and submissive;
+but sighs fall from your lips,
+your eyes are fixed on the ground.
+Look in my face and see
+how love is there expressed!
+Come, let me lighten your heart...
+
+OTHELLO
+... or for I am declined
+into the vale of years,
+or that my complexion
+is of this dusky hue,
+and that I am not practised
+in love’s deceitful arts,
+or that I am declined
+into the vale of years,
+or that my complexion
+is of this dusky hue...
+
+IAGO /(aside, to Emilia)/
+Give me that handkerchief
+you picked up just now!
+
+EMILIA /(to Iago)/
+What mischief’s in your mind?
+I can read your face.
+
+	OTELLO /(getta il fazzoletto a terra)/
+Non ho d’uopo di ciò.
+
+DESDEMONA
+Tu sei crucciato, signor.
+
+OTELLO
+Mi lascia! mi lascia!
+/(Emilia raccoglie il fazzoletto dal suolo.)/
+
+DESDEMONA
+Se inconscia, contro te, sposo, ho peccato,
+dammi la dolce lieta parola del perdono.
+
+OTELLO /(a parte)/
+Forse perché gl’inganni d’arguto amor
+non tendo...
+
+DESDEMONA
+La tua fanciulla io sono,
+umile e mansueta;
+ma il labbro tuo sospira,
+hai l’occhio fiso al suol.
+Guardami in volto e mira
+come favella amor!
+Vien ch’io t’allieti il core...
+
+OTELLO
+...forse perchè discendo
+nella valle degli anni,
+forse perchè ho sul viso
+quest’atro tenebror,
+dunque perchè gli inganni
+d’arguto amor non tendo,
+forse perchè discendo
+nella valle degli anni,
+forse perchè ho sul viso
+quest’atro tenebror,...
+
+JAGO /(ad Emilia, sottovoce)/
+Quel vel mi porgi
+ch’or hai raccolto!
+
+EMILIA /(a Jago)/
+Qual frode scorgi?
+Ti leggo in volto.
+
+IAGO
+You resist in vain
+when I command!
+
+EMILIA
+Your wicked envy
+well I know.
+
+IAGO
+Foolish suspicion!
+
+EMILIA
+A faithful guardian
+is my hand...
+
+IAGO
+Give me that handkerchief!
+
+EMILIA
+... a faithful guardian
+is my hand!
+
+IAGO /(siezing Emilia’s arm savagely)/
+My hand is poised
+o’er you in anger!
+
+EMILIA
+Your wife am I,
+not your slave!
+
+IAGO
+The unchaste slave
+of Iago are you!
+
+EMILIA
+My heart forewarns me
+of some calamity.
+
+IAGO
+Do you not fear me?
+
+EMILIA
+Cruel man!
+
+IAGO
+Give me...
+
+EMILIA
+What would you?
+
+	JAGO
+T’opponi a vôto
+quand’io comando!
+
+EMILIA
+Il tuo nefando
+livor m’è noto.
+
+JAGO
+Sospetto insano.
+
+EMILIA
+Guardia fedel
+è questa mano...
+
+JAGO
+Dammi quel vel! Dammi quel vel!
+
+EMILIA
+... guardia fedel
+è questa mano!
+
+JAGO /(afferrando violentemente il braccio di Emilia)/
+Su te l’irosa
+mia man s’aggrava!
+
+EMILIA
+Son la tua sposa,
+non la tua schiava!
+
+JAGO
+La schiava impura
+tu sei di Jago!
+
+EMILIA
+Ho il cor presago
+d’una sventura.
+
+JAGO
+Nè mi paventi?
+
+EMILIA
+Uomo crudel!
+
+JAGO
+A me...
+
+EMILIA
+Che tenti?
+
+IAGO
+Give me that handkerchief!
+
+EMILIA
+Cruel man!
+/(Iago snatches the handkerchief from Emilia.)/
+
+DESDEMONA
+... let me soothe your pain!
+
+EMILIA
+Cruelty and cowardice
+have clawed a victory.
+
+OTHELLO
+... she is lost
+and I am mocked...
+
+DESDEMONA
+Look in my face and see
+how love is there expressed!
+
+OTHELLO
+... and my heart is broken
+and trampled in the mire
+I see my dream of bliss!
+
+EMILIA
+May God ever keep us
+safe from all danger!
+
+IAGO
+My hands already
+grasp the threads;
+now, Iago,
+to weave the web!
+
+EMILIA
+Cruelty and cowardice
+have clawed a victory!
+
+OTHELLO
+She is lost
+and I am mocked...
+
+DESDEMONA
+Look in my face and see
+how love is there expressed, /etc./
+
+	JAGO
+A me quel vel!
+
+EMILIA
+Uomo crudel!
+/(Con un colpo di mano Jago ha carpito il fazzoletto ad Emilia.)/
+
+DESDEMONA
+...ch’io ti lenisca il duol! (rip.)
+
+EMILIA
+Vinser gli artigli
+truci e codardi.
+
+OTELLO
+... ella è perduta
+e irriso io sono...
+
+DESDEMONA
+Guardami in volto e mira,
+mira come favella amor!
+
+OTELLO
+... e il core infrango
+e ruinar nel fango
+vedo il mio sogno d’or!
+
+EMILIA
+Do io dai perigli
+sempre ci guardi! (rip.)
+
+JAGO
+Già la mia brama
+conquido, ed ora
+su questa trama
+Jago lavora!
+
+EMILIA
+Vinser gli artigli
+truci e codardi!
+
+OTELLO
+Ella è perduta
+e irriso io sono...
+
+DESDEMONA
+Guardami in volto,
+mira come favella amor, /ecc./
+
+OTHELLO
+... and my heart is broken, /etc./
+
+EMILIA
+May God ever keep us, /etc./
+
+IAGO
+My hands already, /etc./
+
+DESDEMONA
+Say the sweet and happy word of pardon!
+
+OTHELLO
+Hence! I would be alone.
+
+IAGO /(covertly, to Emilia who is about to leave)/
+Say nothing of this. You understand?
+/(Desdemona and Emilia leave. Iago makes a pretence of
+leaving through the door at the back, but when he
+reaches it he stops.)/
+
+OTHELLO /(sinking exhausted upon a stool)/
+Desdemona false!...
+
+IAGO
+/(at the back, looking surreptitiously at the handkerchief,/
+/then replacing it carefully in his doublet)/
+With these threads shall I weave
+the proof of the sin of love.
+It shall be hidden in Cassio’s lodging.
+
+OTHELLO
+... Monstrous thought!
+
+IAGO /(looking fixedly at Othello)/
+My poison does its work.
+
+OTHELLO
+... False toward me! Toward me!!!
+
+IAGO
+Suffer and roar!
+
+OTHELLO
+Monstrous! Monstrous!
+
+IAGO
+/(having approached Othello, good-naturedly)/
+Think no more of it.
+
+	OTELLO
+... e il core infrango, /ecc./
+
+EMILIA
+Dio dai perigli, /ecc./
+
+JAGO
+Già la mia brama, /ecc./
+
+DESDEMONA
+Dammi la dolce e lieta parola del perdon!
+
+OTELLO
+Escite! Solo vo’restar.
+
+JAGO /(sottovoce ad Emilia che sta per uscire)/
+Ti giova tacer. Intendi?
+/(Desdemona ed Emilia escono. Jago finge d’escire
+dalla porta in fondo, ma giuntovi s’arresta.)/
+
+
+OTELLO /(accasciato su d’un sedile)/
+Desdemona rea!...
+
+JAGO
+/(nel fondo guardando di nascosto il fazzoletto, poi/
+/riponendolo con cura nel giustacuore)/
+Con questi fili tramerò
+la prova del peccato d’amor.
+Nella dimora di Cassio ciò s’asconda.
+
+OTELLO
+... Atroce idea!
+
+JAGO /(fissando Otello)/
+Il mio velen lavora.
+
+OTELLO
+... Rea contro me! contro me!
+
+JAGO
+Soffri e ruggi!
+
+OTELLO
+Atroce! atroce!
+
+JAGO
+/(dopo essersi portato accanto ad Otello, bonariamente)/
+Non pensateci più.
+
+OTHELLO /(taken by surprise)/
+You! Hence! Avaunt!
+You have lashed me to the cross! Alas!...
+More monstrous than the most monstrous abuse
+of abuse itself is suspicion.
+Of her stolen hours of lust
+(and stolen from me!)
+had I no presentiment in my breast?
+I was contented, merry...
+Nothing knew I as yet;
+I found not on her sweet body
+which I so love
+or on her lying lips
+Cassio’s ardent kisses!
+And now!... And now...
+Now, and forever farewell, sacred memories,
+farewell, sublime enchantments of the mind!
+Farewell, shining battalions and victories,
+the flying arrow and the flying steed!
+Farewell to the standard triumphant and holy
+and the shrill fife that sounded to reveille!
+Pride, pomp and circumstance of war,
+farewell! Farewell, Othello’s glory’s at an end!
+
+IAGO
+Be calm, my lord.
+
+OTHELLO
+Villain! Be sure to find a proof secure
+that Desdemona’s unchaste...
+Stay! Do not flee!
+It would avail you nought!
+Bring me the sure, the ocular proof!
+Or on your head accumulate
+and fall the bolts
+of my terrible
+wakened wrath!
+/(He seizes Iago by the throat and hurls him to the floor.)/
+
+IAGO
+0 heavenly grace defend me!
+/(rising)/
+May heaven protect you!
+1 am no longer your ensign.
+The world may be my witness
+that honesty is dangerous.
+/(He turns as if to leave.)/
+
+	OTELLO /(balzando)/
+Tu?! Indietro! fuggi!
+M’hai legato alla croce! Ahimè!...
+Più orrendo d’ogni orrenda ingiuria
+dell’ingiuria è il sospetto.
+Nell’ore arcane della sua lussuria
+(e a me furate!)
+m’agitava il petto forse un presagio?
+Ero baldo, giulivo...
+Nulla sapevo ancor;
+io non sentivo sul suo corpo divin
+che m’innamora
+e sui labbri mendaci
+gli ardenti baci di Cassio!
+Ed ora!... ed ora...
+Ora e per sempre addio, sante memorie,
+addio sublimi incanti del pensier!
+Addio schiere fulgenti, addio vittorie,
+dardi volanti e volanti corsier!
+Addio, addio vessillo trionfale e pio!
+e diane squillanti in sul mattin!
+Clamori e canti di battaglia, addio!
+Della gloria d’Otello è questo il fin!
+
+JAGO
+Pace, signor.
+
+OTELLO
+Sciagurato! mi trova una prova secura
+che Desdemona è impura...
+Non sfuggir! non sfuggir!
+nulla ti giova!
+Vo’una secura, una visibil prova!
+O sulla tua testa s’accenda
+e precipiti il fulmine
+del mio spaventoso furor
+che si desta!
+/(Afferra Jago alla gola e lo atterra.)/
+
+JAGO
+Divina grazia difendimi!
+/(alzandosi)/
+Il cielo vi protegga!
+non son più vostro alfiere.
+Voglio che il mondo testimon mi sia
+che l’onestà è periglio.
+/(Fa per andarsene.)/
+
+OTHELLO
+No... stay.
+You may be honest.
+
+IAGO /(by the door, making a pretence of leaving)/
+’Twere better had I been a charlatan.
+
+OTHELLO
+By the world!
+I believe Desdemona to be loyal
+and believe her not to be so;
+I think that you are honest
+and think you disloyal...
+I’ll have some proof!
+I must have certainty!
+
+IAGO /(moving towards Othello)/
+My lord, curb your anxieties.
+What proof would satisfy you?
+To see them clasped together?
+
+OTHELLO
+Oh! Death and damnation!
+
+IAGO
+That would be a difficult undertaking;
+but of what assurance are you dreaming
+if the filthy deed itself
+forever must escape you?
+But yet if reason be the guide to truth
+I may propose a circumstance so strong
+that it will lead you near to certainty.
+Listen.
+/(approaching close to Othello)/
+It was night, Cassio lay sleeping,
+I was close by him.
+In broken phrases he was revealing
+an inward enchantment.
+Slowly, slowly his lips were moving
+in the abandon of passionate dreams;
+then he did speak with faint murmuring voice:
+“Sweet Desdemona!
+Let us hide our loves.
+Let us be wary!
+I am quite bathed in heavenly ecstasy!”
+The pleasure of his dream intensified;
+softly enraptured,
+he seemed to almost kiss the inner vision,
+then did he say:
+“I curse the cruel fate
+
+	OTELLO
+No... rimani.
+Forse onesto tu sei.
+
+JAGO /(sulla soglia fingendo d’andarsene)/
+Meglio varrebbe ch’io fossi un ciurmador.
+
+OTELLO
+Per l’universo!
+Credo leale Desdemona
+e credo che non lo sia;
+te credo onesto
+e credo disleale...
+La prova io voglio!
+voglio la certezza!!
+
+JAGO /(ritornando verso Otello)/
+Signor, frenate l’ansie.
+E qual certezza v’abbisogna?
+Avvinti vederli forse?
+
+OTELLO
+Ah! Morte e dannazione!!
+
+JAGO
+Ardua impresa sarebbe;
+e qual certezza sognate voi
+se quell’immondo fatto
+sempre vi sfuggirà?
+Ma pur se guida è la ragione al vero,
+una sì forte congettura riserbo
+che per poco alla certezza vi conduce.
+Udite.
+/(avvicinandosi molto ad Otello)/
+Era la notte, Cassio dormia,
+gli stavo accanto.
+Con interrotte voci tradia
+l’intimo incanto.
+Le labbra lente, lente movea,
+nell’abbandono del sogno ardente;
+e allor dicea, con flebil suono:
+“Desdemona soave!
+Il nostro amor s’asconda.
+Cauti vegliamo!
+l’estasi del ciel tutto m’innonda!”
+Seguia più vago l’incubo blando;
+con molle angoscia,
+l’interna imago quasi baciando,
+ei disse poscia:
+“Il rio destino impreco
+
+	
+that gave thee to the Moor.”
+And then the dream was changed
+into blind lethargy.
+
+OTHELLO
+0 monstrous guilt!
+
+IAGO
+1 told you but a dream.
+
+OTHELLO
+A dream that reveals a fact.
+
+IAGO
+A dream that may
+give substance to another circumstance.
+
+OTHELLO
+And which is that?
+
+IAGO
+Have you not sometimes seen a handkerchief
+embroidered with flowers in Desdemona’s hand,
+of finer stuff than lawn?
+
+OTHELLO
+That is the handkerchief I gave her,
+first token of my love.
+
+IAGO
+That handkerchief I saw – I am sure of it –
+yesterday in the hand of Cassio!
+
+OTHELLO
+O, that God had given him a thousand lives!
+One is too poor a prey for my revenge!
+Iago, my heart is ice.
+Banished be the spirits of mercy.
+All my fond love thus do I blow to heaven.
+Watch me...’tis gone!
+In its snaky coils
+the hydra has entwined me!
+O, blood, blood, blood!
+/(He kneels.)/
+Now, by yond marble heaven!
+By the jagged lightning-flash!
+By Death, and by the dark
+death-dealing ocean flood!
+In fury and dire compulsion
+shall thunder-bolts soon rain
+
+	che al Moro ti donò.”
+E allora il sogno in cieco
+letargo si mutò.
+
+OTELLO
+Oh! mostruosa colpa!
+
+JAGO
+Io non narrai che un sogno.
+
+OTELLO
+Un sogno che rivela un fatto.
+
+JAGO
+Un sogno che può dar
+forma di prova ad altro indizio.
+
+OTELLO
+E qual?
+
+JAGO
+Talor vedeste in mano di Desdemona,
+un tessuto trapunto a fior
+e più sottil d’un velo?
+
+OTELLO
+È il fazzoletto ch’io le diedi,
+pegno primo d’amor.
+
+JAGO
+Quel fazzoletto ieri – certo ne son –
+lo vidi in man di Cassio.
+
+OTELLO
+Ah! – mille vite gli donasse Iddio!
+Una è povera preda al furor mio!!
+Jago, ho il cor di gelo.
+Lungi da me le pietose larve.
+Tutto il mio vano amor esalo al cielo.
+Guardami... ei sparve!
+Nelle sue spire d’angue
+l’idra m’avvince!
+Ah! sangue! sangue! sangue!
+/(S’inginocchia.)/
+Sì, pel ciel marmoreo giuro!
+Per le attorte folgori!
+Per la Morte e per l’oscuro
+mar sterminator!
+D’ira e d’impeto tremendo
+presto fia che sfolgori
+
+	
+/(raising his hands to the sky)/
+from this hand that I raise outstretched!
+/(He starts to rise; Iago prevents him.)/
+
+IAGO /(kneeling also)/
+Do not rise yet!
+Witness, you sun that I gaze on,
+which lights me and which animates
+the broad earth and the spiritual expanse
+of the whole universe,
+that to Othello I do consecrate
+ardently heart, hands and soul
+even though on bloody business
+his will be bent!
+
+OTHELLO, IAGO
+/(raising their hands to heaven in an oath-taking gesture)/
+Now, by yond marble heaven!
+By the jagged lightning-flash, /etc./
+God of vengeance!
+
+
+
+	(/levando le mani al cielo/)
+questa man ch’io levo e stendo!
+/(Fa per alzarsi; Jago lo trattiene inginocchiato.)/
+
+JAGO /(inginocchiandosi anch’esso)/
+Non v’alzate ancor!
+Testimon è il Sol ch’io miro,
+che m’irradia e innanima
+l’ampia terra e il vasto spiro
+del Creato inter,
+che ad Otello io sacro ardenti,
+core, braccio ed anima
+s’anco ad opere cruenti
+s’armi il suo voler!
+
+OTELLO, JAGO
+/(alzando le mani al cielo come chi giura)/
+Sì, pel ciel marmoreo giuro!
+Per le attorte folgori, ecc.
+Dio vendicator!
+
+
+
+ACT THREE
+
+/The great hall of the castle./
+/On the right a broad colonnade. This colonnade/
+/is adjacent to a hall of smaller proportions.
+A terrace at the far end./
+
+A HERALD
+/(from the colonnade, to Othello who is with Iago in the hall)/
+The harbour watch has signalled
+the arrival of the Venetian galley
+which brings the ambassadors to Cyprus.
+
+OTHELLO
+Good.
+/(He makes a sign to dismiss the herald. The herald leaves.)/
+/(to Iago)/
+Continue.
+
+IAGO
+I will bring Cassio here, and cunningly
+will lure him on to gossip.
+/(indicating the embrasure on the terrace)/
+Hidden there,
+you can observe his manner,
+his words, his gibes, his gestures.
+
+	ATTO TERZO
+
+/La gran sala del castello. A destra un vasto peristilio
+a colonne. Questo peristilio è annesso ad una sala
+di minori proporzioni. Nel fondo c’è un verone./
+
+
+ARALDO
+/(dal peristilio, a Otello che sarà con Jago nella sala)/
+La vedetta del porto ha segnalato
+la veneta galea che a Cipro
+adduce gli ambasciatori.
+
+OTELLO
+Bene sta.
+/(Fa cenno all’Araldo di allontanarsi. Araldo esce.)/
+/(a Jago)/
+Continua.
+
+JAGO
+Qui trarrò Cassio, e con astute inchieste
+lo adescherò a ciarlar.
+/(indicando il vano del verone)/
+Voi là nascosto
+scrutate i modi suoi,
+le sue parole, i lazzi, i gesti.
+
+Have patience, or the proof will escape you.
+Here comes Desdemona. ‘Twere expedient to
+dissemble ...I’ll leave you.
+/(He starts to walk towards the door, then stops and/
+/returns to say one last word to Othello.)/
+The handkerchief...
+
+OTHELLO
+Go! I would most gladly have forgot it.
+/(Iago goes out. Desdemona enters by the door on the left.)/
+
+DESDEMONA /(still standing near the door)/
+God keep you happy, my husband,
+sovereign of my soul!
+
+OTHELLO
+/(going to meet Desdemona and taking her hand in his)/
+Thank you, my lady.
+Give me your ivory hand.
+Warm moistness bedews
+its soft beauty.
+
+DESDEMONA
+It knows not yet the imprint
+of sorrow or of age.
+
+OTHELLO
+And yet here lurks the plausible
+devil of ill counsel,
+who emblazons the ivory beauty
+of this little claw-like limb.
+With soft deceit he poses
+as prayer and pious fervour...
+
+DESDEMONA
+And yet with this same hand
+I gave my heart to you.
+But I must speak again to you of Cassio.
+
+OTHELLO
+I have that pain again;
+bind you my forehead.
+
+DESDEMONA /(unfolding a handkerchief)/
+Here, my lord.
+
+OTHELLO
+No! I would have the handkerchief
+that I gave to you.
+
+	Paziente siate, o la prova vi sfugge.
+Ecco Desdemona. Finger conviene...
+io vado.
+/(S’allontana come per escire, poi s’arresta e si
+riavvicina ad Otello per dirgli l’ultima parola.)/
+Il fazzoletto...
+
+OTELLO
+Va! volontieri obliato l’avrei.
+/(Jago esce. Desdemona entra dalla porta di sinistra.)/
+
+DESDEMONA /(ancora presso alla soglia)/
+Dio ti giocondi, o sposo
+dell’alma mia sovrano!
+
+OTELLO
+/(andando incontro a Desdemona e prendendole la mano)/
+Grazie, madonna.
+Datemi la vostra eburnea mano.
+Caldo mador ne irrora
+la morbida beltà.
+
+DESDEMONA
+Essa ancor l’orme ignora
+del duolo e dell’età.
+
+OTELLO
+Eppur qui annida il demone
+gentil di mal consiglio,
+che il vago avorio allumina
+del piccioletto artiglio.
+Mollemente alla prece
+s’atteggia e al pio fervore...
+
+DESDEMONA
+Eppur con questa mano
+io v’ho donato il core.
+Ma riparlar ti debbo di Cassio.
+
+OTELLO
+Ancor l’ambascia del mio morbo m’assale;
+tu la fronte mi fascia.
+
+DESDEMONA /(sciogliendo un fazzoletto)/
+A te.
+
+OTELLO
+No! il fazzoletto voglio
+ch’io ti donai.
+
+DESDEMONA
+I have it not about me.
+
+OTHELLO
+Desdemona, woe if you should lose it! Woe!
+A powerful sibyl devised
+the magic web of it:
+within it there reposes the high witchcraft
+of a talisman.
+Take heed! To lose it,
+or give it away, were perdition!
+
+DESDEMONA
+Speak you the truth?
+
+OTHELLO
+I speak the truth.
+
+DESDEMONA
+You frighten me!...
+
+OTHELLO
+What!? Have you lost it then?
+
+DESDEMONA
+No...
+
+OTHELLO
+Fetch it.
+
+DESDEMONA
+In a little while... I shall fetch it...
+
+OTHELLO
+No, now!
+
+DESDEMONA
+You are making sport of me!
+Thus you put me from my suit for Cassio;
+your thought is cunning.
+
+OTHELLO
+By heaven! My soul is roused!
+The handkerchief...
+
+DESDEMONA
+Cassio is your very dearest friend.
+
+OTHELLO
+The handkerchief!
+
+	DESDEMONA
+Non l’ho meco.
+
+OTELLO
+Desdemona, guai se lo perdi! Guai!
+Una possente maga ne ordìa
+Io stame arcano:
+ivi è riposta l’alta malìa
+d’un talismano.
+Bada! smarrirlo,
+oppur donarlo è ria sventura!
+
+DESDEMONA
+Il vero parli?
+
+OTELLO
+Il vero parlo.
+
+DESDEMONA
+Mi fai paura!...
+
+OTELLO
+Che!? l’hai perduto forse?
+
+DESDEMONA
+No...
+
+OTELLO
+Lo cerca.
+
+DESDEMONA
+Fra poco... lo cercherò...
+
+OTELLO
+No, tosto!
+
+DESDEMONA
+Tu di me ti fai gioco!
+Storni così l’inchiesta di Cassio;
+astuzia è questa del tuo pensier.
+
+OTELLO
+Pel cielo! l’anima mia si desta!
+Il fazzoletto...
+
+DESDEMONA
+È Cassio l’amico tuo diletto.
+
+OTELLO
+Il fazzoletto!
+
+	
+DESDEMONA
+To Cassio, to Cassio extend forgiveness...
+
+OTHELLO
+The handkerchief!
+
+DESDEMONA
+Great God! I hear a note
+of menace in your voice!
+
+OTHELLO
+Raise your eyes!
+
+DESDEMONA
+Horrible fancy!
+
+OTHELLO
+/(seizing her forcibly under the chin and by the/
+/shoulders so that she has to look at him)/
+Look in my face!
+Tell me who you are!
+
+DESDEMONA
+Othello’s faithful wife.
+
+OTHELLO
+Come, swear it, damn yourself...
+
+DESDEMONA
+Othello esteems me honest,
+
+OTHELLO
+Unchaste do I esteem you.
+
+DESDEMONA
+God help me!
+
+OTHELLO
+Hasten to your damnation,
+swear that you are chaste.
+
+DESDEMONA /(meeting Othello’s eyes)/
+I am chaste.
+
+OTHELLO
+Swear it and damn yourself!
+
+DESDEMONA
+Horror-struck, I gaze into
+your stern and terrifying eyes,
+I hear a fury in your words
+	DESDEMONA
+A Cassio, a Cassio perdona...
+
+OTELLO
+Il fazzoletto!
+
+DESDEMONA
+Gran Dio! nella tua voce
+v’è un grido di minaccia!
+
+OTELLO
+Alza quegl’occhi!
+
+DESDEMONA
+Atroce idea!
+
+OTELLO
+/(prendendola a forza sotto il mento e per le spalle e/
+/obbligandola a guardarlo)/
+Guardami in faccia!
+Dimmi che sei!
+
+DESDEMONA
+La sposa fedel d’Otello.
+
+OTELLO
+Giura! giura e ti danna...
+
+DESDEMONA
+Otello fedel mi crede.
+
+OTELLO
+Impura ti credo.
+
+DESDEMONA
+Iddio m’aiuti!
+
+OTELLO
+Corri alla tua condanna,
+di’ che sei casta.
+
+DESDEMONA /(fissandolo)/
+Casta, lo son!
+
+OTELLO
+Giura e ti danna!
+
+DESDEMONA
+Esterrefatta fisso
+lo sguardo tuo tremendo,
+in te parla una Furia
+	
+but do not comprehend them.
+Look at me! My face, my soul
+I show you; my stricken heart
+search well... I pray to heaven
+for you with these my tears;
+for you these burning drops
+I shed upon the ground.
+Behold the first tears ever wrung
+from me by suffering.
+The first tears!
+
+OTHELLO
+If your daemon were to see you now
+he’d take you for an angel
+and not seize you.
+
+DESDEMONA
+The Eternal sees my innocence!
+
+OTHELLO
+No! Hell sees it!
+
+DESDEMONA
+Your justice, I implore, my lord!
+
+OTHELLO
+Ah! Desdemona! Away!
+Away! Away!
+
+DESDEMONA
+You also weep?! and groaning
+stem the anguish of your heart!
+And am I then the innocent
+motive of these tears!
+What sin have I committed?
+
+OTHELLO
+And would you ask?
+The blackest of crimes
+upon the lily fairness
+of your brow is written.
+
+DESDEMONA
+Alas!
+
+OTHELLO
+What? Are you not a common courtesan?
+
+DESDEMONA
+Heaven!
+
+	la sento e non l’intendo.
+Mi guarda! il volto e l’anima
+ti svelo; il core infranto
+mi scruta... io prego il cielo
+per te con questo pianto;
+per te con queste stille
+cocenti aspergo il suol.
+Guarda le prime lagrime (rip.)
+che da me spreme il duol.
+Le prime lagrime!
+
+OTELLO
+S’or ti scorge il tuo demone,
+un angelo ti crede
+e non t’afferra.
+
+DESDEMONA
+Vede l’Eterno la mia fede!
+
+OTELLO
+No! la vede l’inferno!
+
+DESDEMONA
+La tua giustizia impetro, sposo mio!
+
+OTELLO
+Ah! Desdemona! Indietro!
+indietro! indietro!
+
+DESDEMONA
+Tu pur piangi?! e gemendo
+freni del cor lo schianto!
+E son io l’innocente
+cagion di tanto pianto!
+Qual è il mio fallo?
+
+OTELLO
+E il chiedi?
+Il più nero delitto
+sovra il candido giglio
+della tua fronte è scritto.
+
+DESDEMONA
+Ahimè!
+
+OTELLO
+Che? non sei forse una vil cortigiana?
+
+DESDEMONA
+Ciel!
+
+	
+No ... no ... by the baptism
+of the Christian faith!
+
+OTHELLO
+What?
+
+DESDEMONA
+Ah! I am not the thing expressed
+by that horrendous word!
+/(Othello’s mood changing suddenly from the most
+towering rage to an even more terrifying ironic calm, he
+takes Desdemona’s hand and leads her to the door by
+which she had previously entered.)/
+
+OTHELLO
+Give me your ivory hand again,
+I would make amends.
+I took you (forgive me
+if my thought displeases you)
+for that common courtesan
+that married with Othello.
+/(With a movement of his arm alone, Othello pushes/
+/Desdemona out of the door without losing his/
+/composure. Then, in the very depths of despair, he/
+/returns to the middle of the hall.)/
+God! Thou couldst have rained upon my head
+every affliction of poverty and shame,
+made of my heroic battle-honours
+a heap of ruination and a lie ...
+and I should have borne the cruel cross
+of torment and disgrace
+with patience
+and resigned me to the will of heaven.
+But – oh tears, oh pain! –
+to rob me of that vision
+in which my soul was garnered joyfully!
+That sun has been snuffed out,
+that smile, that ray
+which gives me life and happiness!
+That sun has been snuffed out, /etc./
+Mercy, thou immortal
+rose-lipped cherubin,
+cover at the last thy holy face
+with the horrid mask of hell!
+Ah! Damnation!
+Let her first confess her crime,
+then die!
+Confession! Confession!
+/(Iago enters.)/
+
+	No.... no... pel battesimo
+della fede cristiana!
+
+OTELLO
+Che?
+
+DESDEMONA
+Ah! non son ciò che esprime
+quelle parola orrenda!
+/(Mutando d’un tratto l’ira nella più terribile calma
+dell’ironia, Otello prende Desdemona per mano e la
+conduce alla porta d’onde entrò.)/
+
+OTELLO
+Datemi ancor l’eburnea mano,
+vo’ fare ammenda.
+Vi credea (perdonate
+se il mio pensiero è fello)
+quella vil cortigian
+che è la sposa d’Otello.
+/(Otello sforza con un’inflessione del braccio, ma/
+/senza scomporsi, Desdemona ad escire. Poi ritorna/
+/verso il centro della sala nel massimo grado/
+/dell’abbattimento.)/
+Dio! mi potevi scagliar tutti i mali
+della miseria, della vergogna,
+far de’ miei baldi trofei trionfali
+una maceria, una menzogna...
+e avrei portato la croce crudel
+d’angoscie e d’onte
+con calma fronte
+e rassegnato al volere del ciel.
+Ma, – o pianto, o duol! –
+m’han rapito il miraggio
+dov’io, giulivo, l’anima acqueto.
+Spento è quel sol,
+quel sorriso, quel raggio
+che mi fa vivo, che mi fa lieto!
+Spento è quel sol, ecc.
+Tu alfin, Clemenza,
+pio genio immortal
+dal roseo riso,
+copri il tuo viso santo
+coll’orrida larva infernal!
+Ah! Dannazione!
+Pria confessi il delitto
+e poscia muoia!
+Confession! Confession!
+/(Entra Jago.)/
+
+The proof!...
+
+IAGO /(pointing to the door)/
+Cassio is here!
+
+OTHELLO
+Here?! Heaven! Oh joy!
+/(recoiling)/
+Oh horror! Torture most foul!
+
+IAGO
+Restrain yourself!
+/(rapidly leading Othello to the back of the hall on the/
+/left, where there is a recess on the terrace)/
+Hide.
+/(As soon as Iago has led Othello onto the terrace, he/
+/runs to the end of the colonnade. There he meets/
+/Cassio, who is hesitating to enter the hall.)/
+/(to Cassio)/
+Come; the hall’s deserted.
+Enter, O Captain.
+
+CASSIO
+This honourable name
+still rings hollow for me.
+
+IAGO
+Take heart; your cause is in such hands
+that victory is certain.
+
+CASSIO
+I had thought to have found Desdemona here.
+
+OTHELLO /(hidden)/
+He spoke her name!
+
+CASSIO
+I looked to speak further with her
+to ask if I am pardoned.
+
+IAGO
+Wait for her;
+/(leading Cassio to the first pillar of the colonnade)/
+and meanwhile, seeing that you never tire
+in the recital of mad and merry tales,
+tell me a little about her whom you love.
+
+CASSIO
+Of whom?
+
+	La prova!...
+
+JAGO /(indicando l’ingresso)/
+Cassio è là!
+
+OTELLO
+Là? Cielo! O gioia!
+/(con raccapriccio)/
+Orror! Supplizi immondi!
+
+JAGO
+Ti frena!
+/(conduce rapidamente Otello nel fondo a/
+/sinistra dove c’è il vano del verone)/
+Ti nascondi.
+/(Jago, appena condotto Otello al verone, corre verso/
+/il fondo del peristilio. Incontra Cassio che esita ad/
+/entrare.)/
+/(a Cassio)/
+Vieni; l’aula è deserta.
+T’inoltra, o Capitano.
+
+CASSIO
+Questo nome d’onor
+suona ancor vano per me.
+
+JAGO
+Fa cor, la tua causa è in tal mano
+che la vittoria è certa.
+
+CASSIO
+Io qui credea di ritrovar Desdemona.
+
+OTELLO /(nascosto)/
+Ei la nomò.
+
+CASSIO
+Vorrei parlarle ancora,
+per saper se la mia grazia è profferta.
+
+JAGO
+L’attendi;
+/(conducendo Cassio alla prima colonna del peristilio)/
+e intanto, giacchè non si stanca mai
+la tua lingua nelle fole gaie,
+narrami un po’ di lei che t’innamora.
+
+CASSIO
+Di chi?
+
+IAGO
+Of Bianca.
+
+OTHELLO /(aside)/
+He smiles!
+
+CASSIO
+What nonsense!
+
+IAGO
+Her charming eye has you in thrall.
+
+CASSIO
+You make me laugh.
+
+IAGO
+He laughs who wins.
+
+CASSIO /(laughing)/
+In such exchanges, truly,
+he wins who laughs! Ah, ah!
+
+IAGO /(laughing)/
+Ah, ah!
+
+OTHELLO /(on the terrace)/
+The villain mocks me,
+his scorn is mortal to me.
+Oh God, restrain the torment in my heart!...
+
+CASSIO
+I am already sated with kisses and reproaches.
+
+IAGO
+You make me laugh!
+
+CASSIO
+O fleeting love!
+
+IAGO
+Another beauty beckons with her charms.
+Have I hit the mark?
+
+CASSIO
+Ah, ah!
+
+IAGO
+Ah, ah!
+
+	JAGO
+Di Bianca.
+
+OTELLO /(a parte)/
+Sorride!
+
+CASSIO
+Baie!
+
+JAGO
+Essa t’avvince coi vaghi rai.
+
+CASSIO
+Rider mi fai.
+
+JAGO
+Ride chi vince.
+
+CASSIO /(ridendo)/
+In tai disfide per verità
+vince chi ride. Ah! ah!
+
+JAGO /(ridendo)/
+Ah! ah!
+
+OTELLO /(dal verone)/
+L’empio m’irride,
+il suo scherno m’uccide.
+Dio, frena l’ansia che in core mi sta!...
+
+CASSIO
+Son già di baci sazio e di lai.
+
+JAGO
+Rider mi fai!
+
+CASSIO
+O amor’ fugaci!
+
+JAGO
+Vagheggi il regno d’altra beltà.
+Colgo nel segno?
+
+CASSIO
+Ah! ah!
+
+JAGO
+Ah! ah!
+
+OTHELLO /(as before)/
+The villain mocks me,
+his scorn is mortal to me.
+Oh God, restrain the torment in my heart!
+
+CASSIO
+You have hit the mark.
+Yes, I confess it. Listen.
+
+IAGO
+Speak softly. I’am listening.
+/(Iago leads Cassio to a place further away from Othello)./
+
+CASSIO
+Iago, you know my lodging...
+/(The words are lost.)/
+
+OTHELLO
+/(coming cautiously a little nearer to overhear the conversation)/
+Now he recounts the manner,
+the place and time...
+
+CASSIO
+... by an unknown hand...
+/(The words are lost again.)/
+
+OTHELLO
+I cannot hear the words ...
+alas!... and I would hear them!
+To what am I come!
+
+CASSIO
+... a fine embroidered handkerchief.
+
+IAGO
+’Tis strange! ’Tis strange!
+
+OTHELLO
+Iago beckons me.
+/(emerging with caution and hiding behind the pillars)/
+
+
+IAGO
+By an unknown hand? Nonsense!
+
+CASSIO
+Truly.
+/(Iago signs to him to speak softly.)/
+
+	OTELLO /(come prima)/
+L’empio m’irride,
+il suo scherno m’uccide.
+Dio frena l’ansia che in core mi sta!
+
+CASSIO
+Nel segno hai colto.
+Sì, lo confesso. M’odi.
+
+JAGO
+Sommesso parla. T’ascolto.
+(/Jago conduce Cassio in posto più longtano da Otello/.)
+
+CASSIO
+Jago, t’è nota la mia dimora...
+/(Le parole si perdono.)/
+
+OTELLO
+/(avvicinandosi un poco e cautamente per udir le parole)/
+Or gli racconta il modo,
+il luogo e l’ora...
+
+CASSIO
+... da mano ignota...
+/(Le parole si perdono ancora.)/
+
+OTELLO
+Le parole non odo...
+Lasso!... e udir le vorrei!
+Dove son giunto!
+
+CASSIO
+... un vel trapunto.
+
+JAGO
+È strano! è strano!
+
+OTELLO
+D’avvicinarmi Jago mi fa cenno.
+/(passa con cautela e si nasconde dietro le colonne)/
+
+
+JAGO
+Da ignota mano? Baie!
+
+CASSIO
+Da senno.
+/(Jago gli fa cenno di parlare ancora sottovoce.)/
+
+How I long to know who it might be.
+
+IAGO
+(/aside, glancing quickly towards Othello)/
+Othello is looking.
+/(to Cassio)/
+You have it with you?
+
+CASSIO
+/(taking Desdemona’s handkerchief from his doublet)/
+Look.
+
+IAGO /(taking the handkerchief)/
+What a miracle!
+/(aside)/
+Othello listens. He approaches
+with wary steps.
+/(to Cassio, playfully)/
+Fine cavalier, in your abode
+angels lose their haloes and their veils.
+/(putting his hands behind his back so that Othello can/
+/see the handkerchief)/
+
+OTHELLO
+/(looking closely at the handkerchief behind Iago’s back,/
+/remaining hidden behind the pillar)/
+’Tis the one! ’Tis the one!
+Destruction and death!
+
+IAGO /(aside)/
+Othello is listening.
+
+OTHELLO
+All is gone, love and grieving both.
+Nothing more can touch my heart.
+
+IAGO /(eyeing Cassio, indicating the handkerchief)/
+This is a spider’s web,
+‘twill your heart catch,
+in spite of complaining
+‘twill trap and dispatch.
+Too much you’re admiring,
+too long you are eyeing,
+beware of such transports
+abortive and lying.
+This is a spider’s web, /etc./
+
+CASSIO
+/(looking at the handkerchief which he has taken again from Iago)/
+Fair miracle, wrought by the needle, which caught
+
+	Quanto mi tarda saper chi sia.
+
+JAGO
+/(guardando rapidamente dalla parte d’Otello, fra sè)/
+Otello spia.
+/(a Cassio)/
+L’hai teco?
+
+CASSIO
+/(estrae dal giustacuore il fazzoletto di Desdemona)/
+Guarda.
+
+JAGO /(prendendo il fazzoletto)/
+Qual meraviglia!
+/(a parte)/
+Otello origlia. Ei s’avvicina
+con mosse accorte.
+/(a Cassio, scherzando)/
+Bel cavaliere, nel vostro ostello
+perdono gli angeli l’aureola e il vel.
+/(mettendo le mani dietro la schiena perchè Otello/
+/possa osservare il fazzoletto)/
+
+OTELLO
+/(avvicinandosi assai al fazzoletto dietro le spalle di/
+/Jago, e nascosto dalla prima colonna)/
+È quello! è quello!
+Ruina e morte!
+
+JAGO /(fra sè)/
+Origlia Otello.
+
+OTELLO
+Tutto è spento! amore e duol.
+L’alma mia nessun più smuova.
+
+JAGO /(a Cassio, indicando il fazzoletto)/
+Questa è una ragna
+dove il tuo cuor
+casca, si lagna,
+s’impiglia e muor.
+Troppo l’ammiri,
+troppo la guardi,
+bada ai deliri
+vani e bugiardi.
+Questa è una ragna, /ecc./
+
+CASSIO
+/(guardando il fazzoletto che avrà ritolto a Jago)/
+Miracolo vago dell’aspo e dell’ago
+
+	
+rays of light by transmuting the linen so fair,
+whiter and lighter than snowflakes,
+and brighter than clouds which are woven from
+heaven’s sweet air!
+
+IAGO
+This is a spider’s web,
+’twill your heart catch ...
+... in spite of complaining
+’twill trap and dispatch.
+
+CASSIO
+Fair miracle ...
+
+IAGO
+This is a spider’s web, /etc./
+
+OTHELLO
+/(hidden behind the pillar and casting glances from time/
+/to time at the handkerchief in Cassio’s hand)/
+Betrayal,
+betrayal, betrayal,
+the proof,
+the terrifying proof
+thou displayest to the sun!
+
+IAGO
+Too much you’re admiring, /etc./
+Ah, beware,
+this is a spider’s web, /etc./
+
+CASSIO
+... whiter and lighter, /etc./
+Miracle, fair miracle ...
+... fair miracle!
+
+OTHELLO
+Betrayal! ...
+
+IAGO
+Too much you admire it!
+
+OTHELLO
+... betrayal!
+/(returning to the terrace)/
+
+IAGO
+Beware! Beware!
+/(Distant trumpets are heard. Others answer them from/
+/the castle. A cannon shot.)/
+
+	che in raggi tramuta le fila d’un vel,
+più bianco, più lieve
+che fiocco di neve,
+che nube tessuta dall’aure dei ciel!
+
+JAGO
+Questa è una ragna
+dove il tuo cuor...
+... casca, si lagna,
+s’impiglia e muor.
+
+CASSIO
+Miracolo vago...
+
+JAGO
+Questa è una ragna, /ecc./
+
+OTELLO
+/(nascosto dietro la colonna e guardando di tratto in/
+/tratto il fazzoletto nelle mani di Cassio)/
+Tradimento,
+tradimento, tradimento,
+la tua prova,
+la tua prova spaventosa
+mostri al Sol!
+
+JAGO
+Troppo l’ammiri, /ecc./
+Ah, bada,
+questa é una ragna, /ecc./
+
+CASSIO
+... più bianco, più lieve, /ecc./
+Miracol, miracolo vago,...
+... miracolo vago!
+
+OTELLO
+Tradimento! ...
+
+JAGO
+Troppo l’ammiri!
+
+OTELLO
+... tradimento!
+/(Ritorna nel vano del verone.)/
+
+JAGO
+Bada! Bada!
+/(Odonsi trombe ben lontane. Altre rispondono dal/
+/castello. Colpo di cannone.)/
+
+	
+That is the signal to announce
+the arrival of the Venetian trireme.
+/(Trumpets sound from different directions)./
+Listen.
+All the castle’s trumpeters reply.
+If you do not want to meet Othello here, go now.
+
+CASSIO
+Farewell.
+
+IAGO
+Go.
+/(Cassio leaves hurriedly through the back end.)/
+
+OTHELLO /(coming up to Iago/)
+How shall I kill her?
+
+IAGO
+Did you perceive well how he laughed?
+
+OTHELLO
+I saw!
+
+IAGO
+And the handkerchief?
+
+OTHELLO
+I saw it all.
+
+VOICES IN THE DISTANCE
+Hurrah!
+To the shore! To the landing-place!
+
+OTHELLO
+She is condemned!
+
+DISTANT VOICES
+Hurrah!
+
+OTHELLO
+Get me some poison
+for tonight.
+
+IAGO
+Poison, no...
+
+DISTANT VOICES
+Long live the Lion of St. Mark!
+
+	Quest’è il segnale che annunzia
+l’approdo della trireme veneziana.
+/(Trombe da altre parti.)/
+Ascolta.
+Tutto il castello co’ suoi squilli risponde.
+Se qui non vuoi con Otello scontrarti, fuggi.
+
+CASSIO
+Addio.
+
+JAGO
+Va .
+/(Cassio esce velocemente dal fondo.)/
+
+OTELLO /(avvicinandosi a Jago)/
+Come la ucciderò?
+
+JAGO
+Vedeste ben com’egli ha riso?
+
+OTELLO
+Vidi!
+
+JAGO
+E il fazzoletto?
+
+OTELLO
+Tutto vidi.
+
+VOCI LONTANE
+Evviva!
+Alla riva! Allo sbarco!
+
+OTELLO
+È condannata!
+
+VOCI LONTANE
+Evviva!
+
+OTELLO
+Fa ch’io m’abbia un velen
+per questa notte.
+
+JAGO
+Il tosco no...
+
+VOCI LONTANE
+Evviva il Leon di San Marco!
+
+IAGO
+... rather suffocate her,
+there in her bed,
+even the bed where she has sinned.
+
+OTHELLO
+Your sense of justice pleases me.
+
+IAGO
+As for Cassio, I shall see to him.
+
+OTHELLO
+Iago, from this moment
+I name you my captian
+
+IAGO
+My General, I give you thanks.
+Here come the ambassadors.
+Do you receive them.
+But to avoid suspicion
+Desdemona should come before these lords.
+
+OTHELLO
+Yes, bring her here.
+/(Iago leaves by the door on the left; Othello/
+/goes towards the far end of the hall to receive/
+/the ambassadors. Trumpets sound again,/
+/Iago re-enters with Lodovico, the herald,/
+/Desdemona with Emilia, dignitaries of the/
+/Venetian Republic, ladies and gentlemen,/
+/soldiers, trumpeters and then Cassio.)/
+
+MEN AND WOMEN
+Hurrah! Hurrah!
+Long live the Lion of St. Mark!
+Hurrah! Hurrah! /etc./
+Long live the Lion of St. Mark!
+
+LODOVICO
+/(holding a rolled-up parchment in his hand)/
+The Duke and senators of Venice greet
+the triumphant hero of Cyprus.
+I place in your hands
+the ducal document.
+
+OTHELLO
+/(taking the parchment and kissing the seal)/
+I kiss the seal of sovereign majesty.
+/(opens it and reads)/
+
+	JAGO
+... vai meglio soffocarla,
+là, nel suo letto,
+là, dove ha peccato.
+
+OTELLO
+Questa giustizia tua mi piace.
+
+JAGO
+A Cassio Jago provvederà.
+
+OTELLO
+Jago, fin d’ora
+mio Capitano t’eleggo.
+
+JAGO
+Mio Duce, grazie vi rendo!
+Ecco gli Ambasciatori.
+Li accogliete.
+Ma ad evitar sospetti
+Desdemona si mostri ai quei messeri.
+
+OTELLO
+Sì, qui l’adduci.
+/(Jago esce dalla porta di sinistra; Otello/
+/s’avvia verso il fondo per ricevere gli/
+/Ambasciatori. Trombe suonono di nuovo./
+/Entrano Jago, Lodovico, Roderigo, l’Araldo,/
+/Desdemona con Emilia, dignitari della/
+/Repubblica Veneta, Gentiluomini e Dame,/
+/Soldati, Trombettieri, poi Cassio.)/
+
+UOMINI E DONNE
+Viva! Evviva!
+Viva il Leone di San Marco!
+Evviva! evviva! /ecc./
+Evviva il Leone di San Marco!
+
+LODOVICO
+/(tenendo una pergamena avvoltata in mano)/
+Il Doge ed il Senato salutano
+l’eroe trionfatore di Cipro.
+Io reco nelle vostre mani
+il messaggio dogale.
+
+OTELLO
+/(prendendo il messaggio e baciando il suggello)/
+Io bacio il segno della Sovrana Maestà.
+/(Poi lo spiega e legge.)/
+
+LODOVICO /(going up to Desdemona)/
+My lady, may heaven
+keep You in its care.
+
+DESDEMONA
+May heaven heed your prayer.
+
+EMILIA /(aside to Desdemona)/
+How sad you look!
+
+DESDEMONA /(aside to Emilia)/
+Emilia! There’s a great shadow fallen
+upon Othello’s mind
+and upon my destiny.
+
+IAGO /(to Lodovico)/
+Signor, I am very glad to see you.
+
+LODOVICO
+Iago, what’s the news?...
+I do not see Cassio amongst you.
+
+IAGO
+Othello is angered with him.
+
+DESDEMONA
+I think he will be restored to favour.
+
+OTHELLO
+/(continuing to read; rapidly aside to Desdemona)/
+Are you sure of that?
+
+DESDEMONA
+My lord?
+
+LODOVICO
+He reads, and speaks not to you.
+
+IAGO
+Perhaps he will be restored to favour.
+
+DESDEMONA
+Iago, I hope so;
+you know what real affection
+I have for Cassio...
+
+OTHELLO
+/(still reading, but speaking feverishly under his breath to/
+/Desdemona)/
+Restrain your babbling tongue...
+
+	LODOVICO /(avvicinandosi a Desdemona)/
+Madonna, v’abbia il ciel
+in sua guardia.
+
+DESDEMONA
+E il ciel v’ascolti.
+
+EMILIA /(a Desdemona, a parte)/
+Come sei mesta!
+
+DESDEMONA /(ad Emilia, a parte)/
+Emilia! una gran nube
+turba il senno d’Otello
+e il mio destino.
+
+JAGO /(a Lodovico)/
+Messere, son lieto di vedervi.
+
+LODOVICO
+Jago, quali nuove?...
+Ma in mezzo a voi non trovo Cassio.
+
+JAGO
+Con lui crucciato è Otello.
+
+DESDEMONA
+Credo che in grazia tornerà.
+
+OTELLO
+/sempre in atto di leggere; a Desdemona rapidamente)/
+Ne siete certa ?
+
+DESDEMONA
+Che dite?
+
+LODOVICO
+Ei legge, non vi parla.
+
+JAGO
+Forse che in grazia tornerà.
+
+DESDEMONA
+Jago, lo spero;
+sai se un verace affetto
+porti a Cassio...
+
+OTELLO
+/(sempre in atto di leggere, ma febbrilmente a/
+/Desdemona, sottovoce)/
+Frenate dunque le labbra loquaci...
+
+	
+DESDEMONA
+Forgive me, my lord...
+
+OTHELLO /(flinging himself at Desdemona)/
+Devil, be silent!
+
+LODOVICO
+/(preventing Othello from striking Desdemona)/
+Stop!
+
+MEN AND WOMEN
+Oh horror! Oh horror!
+
+LODOVICO
+I dare not believe
+that my eyes have truly seen.
+
+OTHELLO /(to the herald)/
+Send Cassio to me!
+/(The herald leaves.)/
+
+IAGO /(aside to Othello)/
+What would you do?
+
+OTHELLO /(aside to Iago)/
+Watch her as he enters.
+
+MEN AND WOMEN
+Ah! Unhappy bride!
+
+LODOVICO
+/(approaching Iago and speaking to him aside)/
+Is this then the hero?
+Is this the warrior
+of such noble daring?
+
+IAGO /(to Lodovico, shrugging his shoulders)/
+He’s that he is.
+
+LODOVICO
+Explain what you mean.
+
+IAGO
+It is better to hold one’s tongue.
+
+OTHELLO /(who has been watching the door fixedly)/
+Here he is! ’Tis he!
+/(Cassio appears.)/
+
+	DESDEMONA
+Perdonate, signor...
+
+OTELLO /(avventandosi contro Desdemona)/
+Demonio, taci!!
+
+LODOVICO
+/(arrestando il gesto d’Otello)/
+Ferma!
+
+UOMINI E DONNE
+Orrore! orrore!
+
+LODOVICO
+La mente mia non osa pensar
+ch’io vidi il vero.
+
+OTELLO /(all’Araldo)/
+A me Cassio!
+/(L’Araldo esce.)/
+
+JAGO /(ad Otello a bassa voce)/
+Che tenti ?
+
+OTELLO /(a Jago sottovoce)/
+Guardala mentre ei giunge.
+
+UOMINI E DONNE
+Ah! triste sposa!
+
+LODOVICO
+/(si avvicina a Jago e gli dice a parte)/
+Quest’è dunque l’eroe?
+Quest’è il guerriero
+dai sublimi ardimenti ?
+
+JAGO /(a Lodovico, alzando le spalle)/
+È quel ch’egli è.
+
+LODOVICO
+Palesa il tuo pensiero.
+
+JAGO
+Meglio è tener su ciò la lingua muta.
+
+OTELLO /(che avrà sempre fissato la porta)/
+Eccolo! È lui!
+/(Appare Cassio.)/
+
+/(to Iago:)/
+Watch him well.
+/(aloud, to the company:)/
+My lords!... The Duke...
+/(aside to Desdemona, who is weeping:)/
+– oh well-painted passion –
+/(to the company:)/
+... has recalled me to Venice.
+
+RODERIGO /(aside)/
+Unjust fate!
+
+OTHELLO
+And as my successor in Cyprus elects
+he who stood by my standard –
+Cassio.
+
+IAGO /(surprised, in a fierce aside)/
+Death and the devil take it!
+
+OTHELLO
+/(continuing his speech and showing the document)/
+The ducal command is our law.
+
+CASSIO /(bowing to Othello)/
+I will obey.
+
+OTHELLO
+/(rapidly to Iago, nodding towards Cassio)/
+You see?...The villain does not seem well pleased.
+
+IAGO
+No.
+
+OTHELLO /(to the company)/
+The ship’s crew and garrison...
+/(aside, to Desdemona)/
+– Proceed you in your tears –
+/(aloud)/
+... the ships and castle,
+I leave in charge of my successor.
+
+LODOVICO
+/(pointing to Desdemona who approaches Othello supplicatingly)/
+Othello, prithee comfort her,
+or you will break her heart.
+
+	/(a Jago)/
+Nell’animo lo scruta.
+/(ad alta voce a tutti)/
+Messeri!... Il Doge...
+/(a parte a Desdemona che piange)/
+– ben tu fingi il pianto -
+/(a tutti)/
+... mi richiama a Venezia.
+
+RODERIGO /(fra sè)/
+Infida sorte!
+
+OTELLO
+E in Cipro elegge mio successor
+colui che stava accanto al mio vessillo –
+Cassio.
+
+JAGO /(fra sè, fieramente e sorpreso)/
+Inferno e morte!
+
+OTELLO
+/(continuando e mostrando la pergamena)/
+La parola ducale è nostra legge.
+
+CASSIO /(inchinandosi ad Otello)/
+Obbedirò.
+
+OTELLO
+/(rapidamente a Jago e accennando a Cassio)/
+Vedi ?...non par che esulti l’infame.
+
+JAGO
+No.
+
+OTELLO /(a tutti)/
+La ciurma e la coorte...
+/(sottovoce a Desdemona)/
+– continua i tuoi singulti –
+/(a tutti)/
+... e le navi e il castello
+lascio in poter del nuovo Duce.
+
+LODOVICO
+/(additando Desdemona che s’avvicina supplichevole)/
+Otello, per pietà la conforta
+o il cor le infrangi.
+
+OTHELLO /(to Lodovico and Desdemona)/
+We shall embark tomorrow.
+/(He seizes Desdemona in fury. She falls.)/
+/(to Desdemona)/
+Down!... And weep!
+/(Othello, in his act of violence, has thrown the document/
+/to the ground; Iago picks it up and reads it, taking care/
+/not to be seen. Lodovico and Emilia sympathetically/
+/support Desdemona.)/
+
+DESDEMONA
+Down!... yes... in the livid slime
+stricken... I lie... I weep...
+chilled by the icy touch
+of death upon my soul.
+And once upon a time my smile
+would quicken hope and kisses,
+and now... I have anguish in my face
+and agony in my heart!
+That sun so calm and bright
+that brings joy to sky and sea,
+can never dry the bitter drops
+of my pain,
+the bitter teardrops of my pain!
+
+EMILIA /(aside)/
+Innocent of heart, no word
+of hate she speaks, no gesture makes,
+but locks her pain within her heart
+with sorrowful restraint.
+
+CASSIO /(aside)/
+Fate hangs upon the hour! A flash
+of lightning shows it on my path;
+the highest prize that fate affords
+is offered to my passive hand.
+
+RODERIGO /(aside)/
+Darkness falls upon my world,
+mist shrouds my destiny;
+that angel sweet and golden-haired
+vanishes from my path.
+
+LODOVICO /(aside)/
+His funerary fist
+he shakes and pants with rage,
+she her ethereal face
+turns weeping to the sky.
+
+	OTELLO /(a Lodovico e Desdemona)/
+Noi salperem domani.
+/(Afferra Desdemona furiosamente. Ella cade.)/
+/(a Desdemona)/
+A terra!... e piangi!
+/(Otello avrà, nel suo gesto terribile, gettata la/
+/pergamena al suolo, e Jago la raccoglie e legge di/
+/nascosto. Emilia e Lodovico sollevano pietosamente/
+/Desdemona.)/
+
+DESDEMONA
+A terra!... sì... nel livido
+fango... percossa... io giacio...
+piango... m’agghiaccia il brivido
+dell’anima che muor.
+E un dì sul mio sorriso
+fioria la speme e il bacio,
+ed or... l’angoscia in viso
+e l’agonia nel cor!
+Quel sol sereno e vivido
+che allieta il ciel e il mare,
+non può sciugar le amare stille
+del mio dolor,
+le amare stille del mio dolor!
+
+EMILIA /(fra sè)/
+Quell’innocente un fremito
+d’odio non ha nè un gesto,
+trattiene in petto il gemito
+con doloroso fren.
+
+CASSIO /(fra sè)/
+L’ora è fatal! un fulmine
+sul mio cammin l’addita;
+già di mia sorte il culmine
+s’offre all’innerto man.
+
+RODERIGO /(fra sè)/
+Per me s’oscura il mondo,
+s’annuvola il destin, il destin;
+l’angiol soave e biondo
+scompar dal mio cammin.
+
+LODOVICO /(fra sè)/
+Egli la man funerea
+scuote anelando d’ira,
+essa la faccia eterea
+volge piangendo al ciel.
+
+WOMEN /(to Othello)/
+Have pity!... Have pity!
+
+MEN
+...’Tis strange!
+
+LODOVICO
+His funerary fist...
+
+WOMEN
+Have pity! Have pity!
+
+DESDEMONA
+And once upon a time my smile
+would quicken hope and kisses...
+
+EMILIA
+The tears fall silently
+upon her sorrowing cheek;...
+
+CASSIO
+Reeling Fortune presses hard
+upon the swift heels of time.
+
+RODERIGO
+That angel sweet
+vanishes from my path.
+
+LODOVICO
+... he shakes and pants with rage,
+she her ethereal face
+turns weeping to the sky!
+
+WOMEN
+Have pity! Have pity! /etc/.
+
+MEN
+’Tis strange! ’Tis strange!
+/(Iago draws close to Othello who has collapsed onto a/
+/chair.)/
+
+IAGO
+A word with you.
+
+OTHELLO
+What is it?
+
+IAGO
+Make haste!
+
+	DONNE /(ad Otello)/
+Pietà!... Pietà!
+
+UOMINI
+... Mistero!
+
+LODOVICO
+Egil la man funerea...
+
+DONNE
+Pietà! Pietà!
+
+DESDEMONA
+E un dì sul mio sorriso
+fioria la speme e il bacio...
+
+EMILIA
+La lagrima si frange
+muta sul volto mesto;...
+
+CASSIO
+L’ebbra fortuna incalza
+la fuga della vita.
+
+RODERIGO
+L’angiol soave
+scompar dal mio cammino.
+
+LODOVICO
+... scuote anelando d’ira,
+essa la faccia eterea
+volge piangendo al ciel!
+
+DONNE
+Pietà! pietà! /ecc./
+
+UOMINI
+Mistero! mistero!
+/(Jago s’avvicina a Otello che si è accasciato su/
+/d’una sedia.)/
+
+JAGO
+Una parola.
+
+OTELLO
+E che?
+
+JAGO
+T’affretta!
+
+Let your vengeance be swift!
+Time flies.
+
+OTHELLO
+You speak truly.
+
+IAGO
+Angry words are idle gossip. Act!
+Aim at the objective, that alone!
+I shall deal with Cassio.
+He shall pay for his intrigues,
+and hell shall swallow up his guilty soul!
+
+OTHELLO
+Who will pluck it from him?
+
+IAGO
+I myself.
+
+OTHELLO
+You?
+
+IAGO
+I have sworn.
+
+OTHELLO
+So be it.
+
+IAGO
+You shall hear more tonight.
+
+DESDEMONA
+... and now with anguish in my face
+and agony in my heart...
+on the ground... in the slime... stricken...
+I lie...
+chilled by the icy touch
+of death upon my soul.
+
+EMILIA
+... no, he who weeps not for her
+has no pity in his heart.
+Innocent of heart, /etc./
+
+CASSIO
+That which lifts me up so high
+is a storm-driven tidal wave.
+Reeling Fortune presses hard
+
+	Rapido slancia la tua vendetta!
+Il tempo vola.
+
+OTELLO
+Ben parli.
+
+JAGO
+È l’ira inutil ciancia. Scuotiti!
+All’opra ergi tua mira! all’opra sola!
+Io penso a Cassio.
+Ei le sue trame espia,
+l’infame anima ria l’averno inghiotte!
+
+OTELLO
+Chi gliela svelle?
+
+JAGO
+Io.
+
+OTELLO
+Tu ?
+
+JAGO
+Giurai.
+
+OTELLO
+Tal sia.
+
+JAGO
+Tu avrai le sue novelle questa notte.
+
+DESDEMONA
+... ed or, l’angoscia in viso
+e l’agonia nel cor...
+a terra... nel fango... percossa...
+io giacio...
+m’agghiaccia il brivido
+dell’anima che muor.
+
+EMILIA
+... no, chi per lei non piange
+non ha pietade in sen.
+Quell’innocente un fremito, /ecc./
+
+CASSIO
+Questa che al ciel m’innalza
+è un’onda d’uragan.
+L’ebbra fortuna incalza
+
+upon the swift heels of time.
+That which lifts me up, /etc./
+
+RODERIGO
+Darkness falls upon my world, /etc./
+
+LODOVICO
+She her ethereal face
+turns weeping to the sky.
+To see such tears as these
+Pity itself might sigh,
+and a stirring of compassion
+melt an icy heart.
+
+WOMEN
+Mortal care weighs sullenly upon
+these souls who writhe in long-drawn agony.
+
+MEN
+This black man has a graveyard air,
+a sightless shadow sits within
+of death and terror made!
+
+EMILIA
+The tears fall silently
+upon her sorrowing cheek...
+
+CASSIO
+Reeling Fortune presses, /etc./
+
+RODERIGO
+Darkness falls upon my world, /etc./
+
+LODOVICO
+To see such tears as these, /etc./
+
+WOMEN
+O cruel sight!
+Mortal care, /etc/.
+
+MEN
+His nails tear at his fearsome breast!
+His eyes are fixed upon the ground.
+Now his dusky fist he shakes at heaven,
+raising his shaggy face
+towards the darts of the sun.
+
+DESDEMONA
+And once upon a time my smile...
+
+	la fuga della vita.
+Questa che al ciel m’innalza, /ecc./
+
+RODERIGO
+Per me s’oscura il mondo, /ecc./
+
+LODOVICO
+Essa la faccia eterea
+volge piangendo al ciel.
+Nel contemplar quel pianto
+la carità sospira
+e un tenero compianto
+stempra del core il gel.
+
+DONNE
+Ansia mortale, bieca ne ingombra,
+anime assorte in lungo orror.
+
+UOMINI
+Quell’uomo nero è sepolcrale,
+e cieca un’ombra è in lui
+di morte e di terror!
+
+EMILIA
+La lagrima si frange
+muta sul volto mesto...
+
+CASSIO
+L’ebbra fortuna incalza, /ecc./
+
+RODERIGO
+Per me s’oscura il mondo, /ecc./
+
+LODOVICO
+Nel contemplar quel pianto, /ecc/.
+
+DONNE
+Vista crudele!
+Ansia mortale, /ecc./
+
+UOMINI
+Strazia coll’ugna l’orrido petto!
+Gli sguardi figge immoti al suol.
+Poi sfida il ciel coll’atre pugna,
+l’ispido aspetto ergendo
+ai dardi alti del sol.
+
+DESDEMONA
+E un dì sul mio sorriso...
+
+EMILIA
+... no, he who weeps not for her
+has no pity.
+
+CASSIO
+That which lifts me up so high
+is a storm-driven tidal wave.
+
+RODERIGO
+That angel sweet and golden-haired
+vanishes from my path.
+
+LODOVICO
+... a stirring of compassion...
+
+WOMEN
+O cruel sight!
+
+MEN
+His nails tear, /etc/.
+/(Iago turns his attention to Roderigo.)/
+
+IAGO
+Your dreams will be upon the seas tomorrow,
+and you on the bitter shore!
+
+RODERIGO
+Ah, misery!
+
+IAGO
+Ah stupidity! Stupidity!
+If you will, you may hope yet;
+come, show yourself a man! Gird your loins, and listen.
+
+RODERIGO
+I hear you.
+
+IAGO
+The ship departs at first light.
+Now Cassio is governor.
+However, if some accident should befall him,
+Othello must linger here.
+Your hand on your sword!
+When it is dark I’ll supervise his steps
+and watch his destination and the hour,
+the rest is up to you. I will be near.
+
+	EMILIA
+... no, chi per lei non piange
+non ha pietade.
+
+CASSIO
+Questa che al ciel m’innalza
+è un’onda d’uragan.
+
+RODERIGO
+L’angiol soave e biondo
+scompar dal mio cammin.
+
+LODOVICO
+... e un tenero compianto...
+
+DONNE
+Vista crudel, /(rip.)/
+
+UOMINI
+Strazia coll’ugna, /ecc./
+/(Jago si svolge a Roderigo.)/
+
+JAGO
+I sogni tuoi saranno in mar domani
+e tu sull’aspra terra!
+
+RODERIGO
+Ahi triste!
+
+JAGO
+Ahi stolto! stolto!
+Se vuoi tu puoi sperar;
+gli umani orsù! cimenti afferra, e m’odi.
+
+RODERIGO
+T’ascolto.
+
+JAGO
+Col primo albor salpa il vascello.
+Or Cassio è il Duce.
+Eppur se avvien che a questi accada sventura
+allor qui resta Otello.
+Mano alla spada!
+A notte folta io la sua traccia vigilo,
+e il varco e l’ora scruto,
+il resto a te. Sarò tua scorta.
+
+A-hunting we will go!
+Arm yourself for the fray!
+
+RODERIGO
+Yes! I have sold you my honour and faith.
+/(The voices of Iago and Roderigo become lost among/
+/the others.)/
+
+DESDEMONA
+... quickened hope and kisses, /etc./
+
+EMILIA
+No, he who weeps not for her
+has no pity in his heart, /etc/.
+
+CASSIO
+Reeling Fortune presses, /etc/.
+
+LODOVICO
+... melt an icy heart.
+He who weeps not for her, /etc./
+
+WOMEN
+O cruel sight! He struck her!
+That saint-like face, so pale and gentle,
+is mutely bowed, and weeps and dies.
+In heaven do the angels
+shed such tears as these
+when before them, lost, the sinner lies.
+
+MEN
+His eyes are fixed upon the ground.
+His dusky fist, /etc/.
+
+WOMEN
+That saint-like face...
+
+EMILLIA
+Innocent of heart, no word...
+
+CASSIO
+Reeling Fortune presses...
+
+RODERIGO /(walking away from Iago)/
+The die is cast!
+
+IAGO /(aside, watching Roderigo)/
+Go, chase the rainbow!
+
+	A caccia! a caccia!
+Cingiti l’arco!
+
+RODERIGO
+Si! t’ho venduto onore e fè.
+/(Le voci di Jago e Roderigo si sperdono fra l’insieme/
+/generale.)/
+
+DESDEMONA
+... fioria la speme e il bacio, /ecc./
+
+EMILIA
+No, chi per lei non piange
+non ha pietade in sen, /ecc./
+
+CASSIO
+L’ebbra fortuna incalza, /ecc./
+
+LODOVICO
+... stempra del core il gel.
+Chi per lei non piange, /ecc./
+
+DONNE
+Vista crudel! Ei la colpì!
+Quel viso santo, pallido, blando
+si china e tace e piange e muor.
+Piangon così nel ciel
+lor pianto gli angeli
+quando perduto giace il peccator.
+
+UOMINI
+Figge gli sguardi immoti al suol.
+Sfida il ciel, /ecc./
+
+DONNE
+Quel viso santo...
+
+EMILIA
+Quell’innocente un fremito...
+
+CASSIO
+L’ebbra fortuna incalza...
+
+RODERIGO /(allontanandosi da Jago)/
+Il dado e tratto!
+
+JAGO /(guardando Roderigo, fra sè)/
+Corri al miraggio!
+
+LODOVICO
+To see such tears as these...
+
+WOMEN
+... so pale and gentle...
+
+MEN
+This black man has a graveyard air!
+
+WOMEN
+... is mutely bowed...
+
+EMILIA
+... of hate she speaks nor gesture makes,...
+
+CASSIO
+... at the swift heels of time,...
+
+RODERIGO
+The die is cast!
+
+IAGO
+Go, chase the rainbow!
+
+LODOVICO
+Pity heaves a sigh...
+
+WOMEN
+... and weeps and dies.
+
+MEN
+This black man has a graveyard air!
+
+DESDEMONA
+And once upon a time my smile...
+... would quicken hope and kisses, /etc./
+
+EMILIA
+... of hate she speaks, /etc./
+
+CASSIO
+... Reeling Fortune presses, /etc./
+
+LODOVICO
+... Pity heaves a sigh, /etc/.
+
+IAGO
+Go, chase the rainbow ! Your enfeebled sense
+is by a web of lying dreams enmeshed, /etc./
+
+	LODOVICO
+Nel contemplar quel pianto...
+
+DONNE
+... pallido, blando...
+
+UOMINI
+Quell’uomo nero è sepolcral!
+
+DONNE
+... si china e tace...
+
+EMILIA
+... d’odio non ha nè un gesto,...
+
+CASSIO
+... la fuga della vita...
+
+RODERIGO
+Il dado è tratto!
+
+JAGO
+Corri, corri al miraggio!
+
+LODOVICO
+La carità sospira...
+
+DONNE
+... e tace e piange.
+
+UOMINI
+Quel uomo nero è sepolcral!
+
+DESDEMONA
+E un dì sul mio sorriso...
+... fioria la speme e il bacio, /ecc./
+
+EMILIA
+... d’odio non ha, /ecc./
+
+CASSIO
+... l’ebbra fortuna incalza, ecc.
+
+LODOVICO
+... la carità sospira, /ecc./
+
+JAGO
+Corri al miraggio! Il fragile tuo senno
+ha già confuso un sogno menzogner, /ecc./
+
+Follow the scheme my shrewd, swift wit presents,
+deluded lover, I follow but myself, /etc./
+
+RODERIGO
+The die is cast! Undaunted, I await
+the final outcome, hidden destiny, /etc./
+Love spurs me on, and yet my path is plagued
+by death’s dark planet, avid, menacing, /etc./
+
+WOMEN/MEN (/as before/)
+
+OTHELLO
+(/rising and turning on the crowd
+with menacing fury)/
+Hence, avaunt!
+
+ALL
+Heaven!
+
+OTHELLO /(hurling himself upon the crowd)/
+All flee Othello!
+
+IAGO /(to everyone)/
+He is assailed by some enchantment
+that deprives him of his wits.
+
+OTHELLO
+Whoever does not remove himself
+is in rebellion against me!
+
+LODOVICO /(trying to drag Desdemona away)/
+Come with me.
+
+MEN /(in the distance)/
+Hurrah!
+/(Fanfares are heard in the distance.)/
+
+DESDEMONA
+/(tearing herself away from Lodovico and running to Othello)/
+My lord!
+
+OTHELLO
+My soul, I curse you!
+
+MEN AND WOMEN
+Oh horror!
+
+	Segui l’astuto ed agile mio cenno,
+amante illuso, io seguo il mio pensier, /ecc./
+
+RODERIGO
+Il dado è tratto! Impavido t’attendo,
+ultima sorte, occulto mio destin, /ecc./
+Mi sprona amor, ma un avido, tremendo
+astro di morte infesta il mio cammin, /ecc./
+
+DONNE/UOMINI (/come prima/)
+
+OTELLO
+/(ergendosi e rivolto alla folla,/
+/terribilmente)/
+Fuggite!
+
+TUTTI
+Ciel!
+
+OTELLO /(slanciandosi contro la folla)/
+Tutti fuggite Otello!
+
+JAGO /(a tutti)/
+Lo assale una malia
+che di ogni senso il priva.
+
+OTELLO
+Chi non si scosta
+è contro me rubello!
+
+LODOVICO /(fa per trascinare lontano Desdemona)/
+Mi segui.
+
+UOMINI /(da lontano)/
+Evviva!
+/(Da lontano odesi squilla di trombe.)/
+
+DESDEMONA
+/(sciogliendosi da Lodovico e accorrendo verso Otello)/
+Mio sposo!
+
+OTELLO
+Anima mia, ti maledico!
+
+UOMINI E DONNE
+Orror!
+
+/(Overwhelmed by horror, all leave the hall; Desdemona
+leaves supported by Lodovico and Emilia. Iago and
+Othello remain alone.)/
+
+OTHELLO
+I alone cannot flee myself!
+Blood!... O vile thought!
+/(becoming breathless)/
+I like not that!
+/(convulsively, raving)/
+To see them clasped together...
+The handkerchief! The handkerchief!
+O! O! O!
+/(faints)/
+
+IAGO /(aside)/
+My poison’s working.
+
+MEN /(within)/
+Long live Othello!
+
+IAGO /(listening to the cries)/
+His victory is hailed...
+
+MEN
+Hurrah! Hurrah!
+
+IAGO
+... for the last time.
+
+MEN
+Hurrah!
+
+IAGO
+/(eyeing Othello stretched on the ground unconscious)/
+Who can stop me crushing
+this head beneath my heel?
+
+MEN /(nearer)/
+Hurrah! Long live Othello!
+Hail to the Lion of Venice!
+
+IAGO
+/(standing erect and, with a loathsome gesture of
+triumph, pointing to the inert Othello)/
+Behold the Lion!
+
+
+
+	/(Tutti escono inorriditi; Desdemona esce fra
+Lodovico ed Emilia. Restano soli Otello e Jago)./
+
+
+OTELLO
+Fuggirmi io sol non so!
+Sangue!... Ah! l’abbietto pensiero!
+/(sempre affannoso)/
+Ciò m’accora!
+/(convulsivamente, delirando)/
+Vederli insieme avvinti...
+il fazzoletto! il fazzoletto! (rip).
+Ah! ah! ah!
+/(sviene)/
+
+JAGO (fra sè)
+Il mio velen lavora.
+
+UOMINI /(interno)/
+Viva Otello!
+
+JAGO /(ascoltando le grida)/
+L’eco della vittoria ...
+
+UOMINI
+Evviva! evviva!
+
+JAGO
+... porge sua laude estrema.
+
+UOMINI
+Evviva!
+
+JAGO
+/(osserva Otello disteso a terra tramortito)/
+Chi può vietar che questa fronte
+prema col mio tallone?
+
+UOMINI /(da più vicino)/
+Evviva! Evviva Otello!
+Gloria al Leone di Venezia!
+
+JAGO
+/(ritto e con gesto d’orrendo trionfo, indicando il/
+/corpo inerto d’Otello)/
+Ecco il Leone!
+
+
+
+ACT FOUR
+
+/Desdemona’s bedroom. A bed, a prie-dieu, a table, a/
+/mirror and some chairs. A lighted lamp hangs before/
+/the image of the Madonna above the prie-dieu. On the/
+/right is a door. It is night./
+/(Desdemona, with the assistance of Emilia, is preparing/
+/for bed.)/
+
+EMILIA
+Was he calmer?
+
+DESDEMONA
+He seemed so to me.
+He commanded me to go to bed
+and there await him.
+Emilia, I pray you,
+lay upon my bed
+my white wedding nightgown.
+/(Emilia does so.)/
+Listen.
+If I should die before you,
+lay me to rest in one of those veils.
+
+EMILIA
+Put such thoughts from you.
+
+DESDEMONA
+I am so sad, so sad.
+/(seating herself mechanically before the mirror)/
+My mother had a poor maidservant,
+she was in love and pretty;
+her name was Barbara;
+she loved a man who then abandoned her.
+She used to sing a song,
+the song of “The Willow”.
+/(to Emilia)/
+Unbind my hair.
+This evening
+my memory is haunted
+by that old refrain.
+“She wept as she sang on the lonely heath,
+the poor girl wept,
+O Willow, Willow, Willow!
+She sat with her head upon her breast,
+Willow, Willow, Willow!
+Come sing! Come sing!
+The green willow shall be my garland.”
+
+	ATTO QUARTO
+
+/La camera di Desdemona. Letto, inginocchiatoio,/
+/tavolo, specchio, sedie. Una lampada arde appesa/
+/davanti all’imagine della Madonna che sta al di/
+/sopra dell’inginocchiatoio. Porta a destra. È notte./
+/(Desdemona, aiutata da Emilia, si prepara per la/
+/notte.)/
+
+EMILIA
+Era più calmo?
+
+DESDEMONA
+Mi parea.
+M’ingiunse di coricarmi
+e d’attenderlo.
+Emilia, te ne prego,
+distendi sul mio letto
+la mia candida veste nuziale.
+/(Emilia eseguisce.)/
+Senti.
+Se pria di te morir dovessi,
+mi seppellisci con un di quei veli.
+
+EMILIA
+Scacciate quest’idee.
+
+DESDEMONA
+Son mesta tanto, tanto.
+/(sedendo macchinalmente davanti allo specchio)/
+Mia madre aveva una povera ancella,
+innamorata e bella;
+era il suo nome Barbara;
+amava un uom che poi l’abbandonò.
+Cantava una canzone,
+la canzon del Salice.
+/(ad Emilia)/
+Mi disciogli le chiome.
+Io questa sera
+ho la memoria piena
+di quella cantilena.
+“Piangea cantando nell’erma landa,
+piangea la mesta,
+O Salce! Salce! Salce!
+Sedea chinando sul sen la testa,
+Salce! Salce! Salce!
+Cantiamo! cantiamo!
+Il salce funebre sarà la mia ghirlanda.”
+
+/(to Emilia)/
+Make haste; Othello will soon be here.
+“The fresh streams ran between the flowery
+banks, she moaned in her grief,
+in bitter tears which through her eyelids sprang
+her poor heart sought relief.
+Willow! Willow! Willow!
+Come sing! Come sing!
+The green willow shall be my garland.
+Down from dark branches flew the birds
+towards the singing sweet.
+Sufficient were the tears that she did weep
+that stones her sorrow shared.”
+/(to Emilia, taking a ring from her finger)/
+Lay this ring by.
+/(rising)/
+Poor Barbara!
+The story used to end
+with this simple phrase:
+“He was born for glory,
+I to love...”
+/(to Emilia)/
+Hark! I heard a moan.
+/(Emilia takes a step or two.)/
+Hush... Who knocks upon that door?
+
+EMILIA
+‘Tis the wind.
+
+DESDEMONA
+“I to love him and to die.
+Come sing! Come sing!
+Willow! Willow! Willow!”
+Emilia, farewell.
+How mine eyes do itch!
+That bodes weeping.
+Good night.
+/(Emilia turns to leave.)/
+Ah! Emilia, Emilia, farewell!
+Emilia, farewell!
+/(Emilia returns and Desdemona embraces/
+/her. Emilia leaves.)/
+/(kneeling at the prie-dieu)/
+Hail Mary, full of grace,
+blessed amongst wives and maids art thou,
+and blessed is the fruit, o blessed one,
+of thy maternal womb, Jesu.
+Pray for those who kneeling adore thee,
+
+	/(ad Emilia)/
+Affrettati; fra poco giunge Otello.
+“Scorreano i rivi fra le zolle in fior,
+gemea quel core affranto,
+e dalle ciglia le sgorgava il cor
+l’amara onda del pianto.
+Salce! Salce! Salce!
+Cantiamo! cantiamo!
+Il salce funebre sarà la mia ghirlanda.
+Scendean l’aucelli a vol dai rami cupi
+verso quel dolce canto.
+E gli occhi suoi piangean tanto, tanto,
+da impietosir le rupi.”
+/(ad Emilia, levandosi un anello dal dito)/
+Riponi quest’anello.
+/(alzandosi)/
+Povera Barbara!
+Solea la storia con questo
+semplice suono finir:
+“Egli era nato per la sua gloria,
+io per amar...”
+/(ad Emilia)/
+Ascolta. Odo un lamento.
+/(Emilia fa qualche passo.)/
+Taci... Chi batte quella porta?
+
+EMILIA
+È il vento.
+
+DESDEMONA
+“Io per amarlo e per morir.
+Cantiamo! cantiamo!
+Salce! Salce! Salce!”
+Emilia, addio.
+Come m’ardon le ciglia!
+È presagio di pianto.
+Buona notte.
+/(Emilia si volge per partire.)/
+Ah! Emilia, Emilia, addio!
+Emilia addio!
+/(Emilia torna e Desdemona l’abbraccia./
+/Emilia parte.)/
+/(all’inginocchiatoio)/
+Ave Maria, piena di grazia,
+eletta fra le spose e le vergini sei tu,
+sia benedetto il frutto, o Benedetta,
+di tue materne viscere, Gesù.
+Prega per chi, adorando te, si prostra,
+
+pray for the sinner, for the innocent
+and for the weak oppressed; and to the powerful man,
+who also grieves, thy sweet compassion show.
+Pray for him who bows beneath injustice
+and ‘neath the blows of cruel destiny;
+for us, pray thou for us,
+pray for us always,
+and at the hour of our death
+pray for us, pray for us,
+pray!
+/(She remains kneeling and, with her head bowed on the
+prie-dieu, repeats the prayer silently, so that only the
+first words and the last are audible. )/
+Hail Mary ...
+... and at the hour of our death.
+Hail! Amen!
+/(She rises from her knees and goes to bed.)/
+/(Othello appears on the threshold of a secret door ...
+He comes forward ... places his scimitar on the table
+... hesitates in front of the candle, wondering whether
+to put it out or not ... Looks at Desdemona ... Puts out
+the light ... Makes a gesture of fury ... Approaches the
+bed ... Stops ... Raises the drapes and stands for a
+long time contemplating the sleeping Desdemona... He
+gives her a kiss... another kiss... and
+another one. Desdemona awakens.)/
+
+DESDEMONA
+Who’s there?
+/(raising herself)/
+Othello?
+
+OTHELLO
+Ay! ...
+Have you prayed tonight?
+
+DESDEMONA
+I prayed...
+
+OTHELLO
+If you bethink yourself
+of any crime
+unreconciled as yet to heaven and grace,
+solicit for it straight.
+
+	prega pel peccator, per l’innocente,
+e pel debole oppresso e pel possente,
+misero anch’esso, tua pietà dimostra.
+Prega per chi sotto l’oltraggio piega la fronte,
+e sotto la malvagia sorte;
+per noi, per noi tu prega,
+prega sempre,
+e nell’ora della morte nostra,
+prega per noi, prega per noi,
+prega!
+/(Resta ancora inginocchiata e appoggiando la fronte
+sull’inginocchiatoio ripete mentalmente l’orazione di
+cui non s’odono che le prime e le ultime parole.)/
+Ave Maria ...
+... nell’ora della morte.
+Ave! Amen!
+/(Si alza e va a coricarsi.)/
+/(Otello compare sulla soglia di una porta
+segreta... Si avanze... depone una scimitarro sul
+tavolo... s’arresta davanti alla face, titubante se
+spegnerla o no... Guarda Desdemona... Spegne la
+face... Fa un movimento di furore... Si avvicina al
+letto... S’arresta... Rialza le cortine, contempla
+lungamente Desdemona che dorme... Dà un bacio
+a Desdemona... un’altro bacio... un’altro ancora.
+Desdemona si desta.)/
+
+DESDEMONA
+Chi è là?
+/(si alza)/
+Otello ?
+
+OTELLO
+Sì! ...
+Diceste questa sera le vostre preci ?
+
+DESDEMONA
+Orai...
+
+OTELLO
+Se vi sovviene
+di qualche colpa commessa
+che attenda grazia dal ciel,
+imploratela tosto.
+
+DESDEMONA
+What mean you?
+
+OTHELLO
+Be brief!
+I would not kill your spirit.
+
+DESDEMONA
+Talk you of killing?
+
+OTHELLO
+I do.
+
+DESDEMONA
+Then God have mercy on me!
+
+OTHELLO
+Amen.
+
+DESDEMONA
+And you have mercy too!
+
+OTHELLO
+Think on your sins.
+
+DESDEMONA
+My sin is love.
+
+OTHELLO
+For that you die!
+
+DESDEMONA
+Because I love you you would kill me?
+
+OTHELLO
+Cassio is your love!
+
+DESDEMONA
+No! By my life and soul!
+
+OTHELLO
+That handkerchief which I gave you
+you gave to him.
+
+DESDEMONA
+It is not true!
+
+OTHELLO
+I saw it in his hand.
+
+	DESDEMONA
+Perchè?
+
+OTELLO
+T’affretta!
+Uccidere non voglio l’anima tua.
+
+DESDEMONA
+D’uccider parli ?
+
+OTELLO
+Sì.
+
+DESDEMONA
+Pietà di me, mio Dio!
+
+OTELLO
+Amen.
+
+DESDEMONA
+E abbiate pietà voi pure!
+
+OTELLO
+Pensa a’ tuoi peccati.
+
+DESDEMONA
+Mio peccato è l’amor.
+
+OTELLO
+Per ciò tu muori!
+
+DESDEMONA
+E perchè t’amo m’uccidi ?
+
+OTELLO
+Ami Cassio!
+
+DESDEMONA
+No! sull’anima mia!
+
+OTELLO
+Quel fazzoletto ch’io ti donai
+gli desti.
+
+DESDEMONA
+Non è vero!
+
+OTELLO
+Nella sua man lo vidi.
+
+DESDEMONA
+I am not guilty!
+
+OTHELLO
+Confess!
+
+DESDEMONA
+I swear it!
+
+OTHELLO
+Take heed of perjury...
+Think that you are on your deathbed.
+
+DESDEMONA
+But not to die.
+
+OTHELLO
+To die presently.
+
+DESDEMONA
+God help me!
+I do not love Cassio...
+Send for him hither... let him speak.
+
+OTHELLO
+His mouth is stopped for ever.
+
+DESDEMONA
+What!... is he dead?
+
+OTHELLO
+Dead.
+
+DESDEMONA,
+I am undone, and he betrayed!
+
+OTHELLO
+And you dare to weep for him?
+
+DESDEMONA
+Othello, do not kill me...
+
+OTHELLO
+You strive in vain.
+
+DESDEMONA
+Let me live...
+... longer, let me live longer,
+let me live!
+
+	DESDEMONA
+Io rea non sono!
+
+OTELLO
+Confessa!
+
+DESDEMONA
+Giuro!
+
+OTELLO
+Bada allo spergiuro...
+Pensa che sei sul tuo letto di morte.
+
+DESDEMONA
+Non per morir.
+
+OTELLO
+Per morir tosto.
+
+DESDEMONA
+Aita!
+Cassio non amo...
+ch’ei qui venga... ei parli.
+
+OTELLO
+Muto è per sempre.
+
+DESDEMONA
+Cielo! ... Morto ?
+
+OTELLO
+Morto.
+
+DESDEMONA
+Son perduta! ei tradito!
+
+OTELLO
+E pianger l’osi ?
+
+DESDEMONA
+Otello, non uccidermi...
+
+OTELLO
+Tu invano ti difendi.
+
+DESDEMONA
+Ch’io viva...
+... ancor, ch’io viva ancor,
+ch io viva ancor!
+
+OTHELLO
+Down, fall, down, fall,
+strumpet!
+
+DESDEMONA
+Mercy!
+
+OTHELLO
+Die!!
+
+DESDEMONA
+Let me live tonight...
+
+OTHELLO
+No!
+
+DESDEMONA
+One hour...
+
+OTHELLO
+No!
+
+DESDEMONA
+An instant.
+
+OTHELLO
+No!
+
+DESDEMONA
+But while I say one prayer.
+
+OTHELLO
+It is too late!
+/(He smothers her.)/
+
+DESDEMONA
+Ah! ...
+/(A knocking is heard at the door on the right.)/
+
+OTHELLO
+/(contemplating the inert form of Desdemona)/
+As quiet as the grave.
+/(further knocking at the door)/
+
+EMILIA (/without/)
+Unlock the door!
+
+OTHELLO /(starting)/
+Who is there? Who knocks?
+
+	OTELLO
+Giù, cadi, giù, cadi,
+prostituta!
+
+DESDEMONA
+Pietà!
+
+OTELLO
+Muori!!
+
+DESDEMONA
+Ch’io viva questa notte...
+
+OTELLO
+No!
+
+DESDEMONA
+Un’ora...
+
+OTELLO
+No!
+
+DESDEMONA
+Un’istante.
+
+OTELLO
+No!
+
+DESDEMONA
+Sol ch’io dica un’Ave.
+
+OTELLO
+È tardi!
+/(La soffoca.)/
+
+DESDEMONA
+Ah!...
+/(Si sente bussare alla porta a destra.)/
+
+OTELLO
+/(contemplando il corpo inerte di Desdemona)/
+Calma come la tomba.
+/(un’altra picchiata alla porta)/
+
+EMILIA /(fuori)/
+Aprite! aprite!
+
+OTELLO /(trabalzando)/
+Chi è là! Chi batte!
+
+EMILIA /(knocking again)/
+O, good my lord, I do beseech
+that I may speak with you...
+Unlock the door!
+
+OTHELLO /(opening the door)/
+Emilia! What’s the matter?
+
+EMILIA (/entering/)
+Yonder’s foul murder done!
+Cassio has killed Roderigo!
+
+OTHELLO
+And Cassio?
+
+EMILIA
+Lives.
+
+OTHELLO
+Cassio lives!!
+
+DESDEMONA /(from the bed)/
+Falsely...
+falsely killed...
+
+EMILIA /(running towards the bed)/
+What cry is that?...
+O horror!
+
+DESDEMONA
+A guiltless death I die...
+
+EMILIA
+Great God! Who did this deed?
+
+DESDEMONA
+Nobody... I myself...
+Commend me to my lord...
+A guiltless death I die...
+Farewell...
+/(dies)/
+
+OTHELLO
+O liar!
+’Twas I that killed her.
+
+EMILIA
+Murderer!
+
+	EMILIA /(bussando ancora)/
+Signore mio, ven prego,
+lasciate ch’io vi parli ...
+Aprite!
+
+OTELLO /(aprendo)/
+Emilia! che avvenne?
+
+EMILIA /(entrando)/
+Un gran delitto!
+Cassio uccise Roderigo!
+
+OTELLO
+E Cassio?
+
+EMILIA
+Vive.
+
+OTELLO
+Cassio vive!!
+
+DESDEMONA /(dal letto)/
+Ingiustamente...
+uccisa ingiustamente...
+
+EMILIA /(accorrendo al letto)/
+Chi geme là ?...
+Orror!
+
+DESDEMONA
+Muoio innocente...
+
+EMILIA
+Gran Dio... Chi fu? chi fu ?
+
+DESDEMONA
+Nessuno... io stessa...
+Al mio signor mi raccomanda...
+Muoio innocente
+Addio..
+/(muore)/
+
+OTELLO
+O mentitrice!
+Io l’uccisi.
+
+EMILIA
+Assassino!
+
+OTHELLO
+She was Cassio’s whore.
+Ask Iago else.
+
+EMILIA
+Iago?
+
+OTHELLO
+Iago.
+
+EMILIA
+O dolt! And you believed him?
+
+OTHELLO /(about to strike Emilia)/
+Dare you deny it?
+
+EMILIA
+I fear you not.
+
+OTHELLO /(seizing her)/
+Take care!
+
+EMILIA
+Ho there! Help, ho! Help!
+/(freeing herself she runs toward the door, crying out)/
+Othello has killed Desdemona!
+/(Lodovico, Cassio and Iago enter, followed later by/
+/Montano and some armed men.)/
+
+CASSIO, IAGO, LODOVICO
+What cries are these!
+/(seeing Desdemona)/
+O horror, horror!
+
+EMILIA /(to Iago)/
+Iago, disprove this vile murderer.
+Did you believe Desdemona was false?
+Speak!
+
+IAGO
+Such I believed her.
+
+OTHELLO
+That handkerchief that I had given her
+she gave to Cassio.
+
+EMILIA
+O heavenly powers!
+
+	OTELLO
+Fu di Cassio la druda.
+A Jago il chiedi.
+
+EMILIA
+A Jago?!
+
+OTELLO
+A Jago.
+
+EMILIA
+Stolto!! E tu il credesti ?
+
+OTELLO /(fa per avventarsi contro Emilia)/
+Negarlo ardisci?
+
+EMILIA
+Non ti temo.
+
+OTELLO /(la afferra)/
+Bada!
+
+EMILIA
+Olà! Soccorso! Aiuto!
+/(si svincola e corre verso la porta, gridando)/
+Otello uccise Desdemona!
+/(Entrano Lodovico, Cassio e Jago, più tardi Montano/
+/con gente armata.)/
+
+CASSIO, JAGO, LODOVICO,
+Quai grida!
+/(vedendo Desdemona)/
+Orrore! Orror!
+
+EMILIA (a Jago)
+Jago, smentisci quel vile assassino.
+Hai tu creduto Desdemona infida?
+Parla!
+
+JAGO
+Tal la credea.
+
+OTELLO
+Quel fazzoletto che un dì le diedi,
+a Cassio essa donava.
+
+EMILIA
+O potenza divina!
+
+IAGO /(to Emilia)/
+Hold your tongue!
+
+EMILIA
+No, I will tell all!
+
+IAGO
+Hold your tongue!
+
+EMILIA
+No!
+This man from my hand
+the handkerchief did wrench
+by use of force.
+
+CASSIO
+And in my lodging I found the handkerchief.
+
+MONTANO /(entering and pointing to Iago)/
+Roderigo as he died revealed to me
+the devilish machinations of this man.
+
+OTHELLO /(to Iago)/
+Ah! Vindicate yourself!
+
+IAGO /(fleeing)/
+No!
+
+LODOVICO
+Stop!
+
+MONTANO
+After him!
+/(Several leave to pursue Iago.)/
+
+CASSIO, LODOVICO
+Seize him!
+
+OTHELLO
+/(with a bound, reaching and grasping his sword)/
+And has the heaven no more thunder bolts?
+
+LODOVICO
+Give me the sword!
+
+OTHELLO
+Would you dare?
+Let no one fear me
+though he see me armed.
+
+	JAGO /(ad Emilia)/
+Taci!
+
+EMILIA
+No, tutto rivelo!
+
+JAGO
+Taci!
+
+EMILIA
+No!
+Costui dalla mia man
+quel fazzoletto svelse
+a viva forza.
+
+CASSIO
+E nella mia dimora trovai quel vel.
+
+MONTANO /(entrando ed indicando Jago)/
+Rodrigo morente mi svelò
+di quest’uom l’arti nefande.
+
+OTELLO /(a Jago)/
+Ah! Discolpati!!
+
+JAGO /(fuggendo)/
+No!
+
+LODOVICO
+Ferma!
+
+MONTANO
+S’insegua.
+/(Alcuni escono inseguendo Jago.)/
+
+CASSIO, LODOVICO
+Afferratelo!
+
+OTELLO
+/(slanciandosi per afferrar la spada)/
+E il ciel non ha più fulmini?
+
+LODOVICO
+La spada a me!
+
+OTELLO
+Tant’osi?
+Niun mi tema,
+s’anco armato mi vede.
+
+Here is my journey’s end ...
+Oh! Glory!
+Othello’s day is done.
+/(Letting his sword fall to the ground, he goes to the bed/
+/and gazes at Desdemona.)/
+And thou... how pale thou art!
+And weary, and mute, and beautiful,
+pious creature, born ‘neath an evil star.
+Cold, even like thy chastity,
+and gathered into heaven.
+Desdemona! Desdemona!
+Ah!... Dead! Dead! Dead!
+/(furtively producing a dagger from his robe)/
+I have another weapon!
+/(stabs himself)/
+
+CASSIO
+Ah, stop!
+
+LODOVICO, MONTANO
+O bloody period!
+
+OTHELLO
+Before I killed thee, wife, I kissed thee thus.
+Now dying... in the shadow where I lie...
+a kiss... another kiss...
+ah!... another kiss...
+/(dies)/
+
+
+
+© 1978 Decca Music Group Limited.
+	Ecco la fine del mio cammin...
+Oh! Gloria!
+Otello fu.
+/(Lasciando cadere la spada, va presso al letto,/
+/contemplando Desdemona.)/
+E tu... come sei pallida!
+e stanca, e muta, e bella,
+pia creatura nata sotto maligna stella.
+Fredda come la casta tua vita,
+e in cielo assorta.
+Desdemona! Desdemona!
+Ah!... morta! morta! morta!
+/(estraendo furtivamente dalle vesti un pugnale)/
+Ho un’arma ancor!
+/(si ferisce)/
+
+CASSIO
+Ah! ferma!
+
+LODOVICO, MONTANO
+Sciagurato!
+
+OTELLO
+Pria d’ucciderti... sposa... ti bacai.
+Or morendo... nell’ombra in cui mi giacio...
+un bacio... un bacio ancora...
+ah!... un’altro bacio...
+/(muore)/
+
+
+
+(Italian text from the libretto published by
+G. Ricordi & Co)
+libretto by *Avril Bardoni* 	libretto by *Arrigo Boito*
+
+ 
+
+© DM's opera site <http://www.murashev.com/opera/index.php> 
+
